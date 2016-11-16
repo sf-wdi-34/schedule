@@ -6,18 +6,14 @@
 **10:45am <br> 12:15pm** | Icebreakers (Team) | [Github Workflow (CF)][1-2B] | [Training: Functions (CF)][1-3B] | [DOM Manipulation (CF)][1-4B] | Formative Assessment & Review (BV)
 **1:15pm <br> 2:45pm** | [Using Terminal (BV)][1-1C] |  [JS Data Types (BV)][1-2C] | [Training: My Personal Site (AC)][1-3C] | [DOM Events (BV)][1-4C] | [Bootstrap (CF)][1-5C]
 **3:00pm <br> 4:30pm** | [Installfest (Team)][1-1D] | [JS Control Flow (BV)][1-2D] | No Outcomes | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (CF)][1-5D]   
-**Evening** | [Take-home Fundamentals Check-in (BV)][1-5E] | Training | Training  | Training | Tic-Tac-Toe
+**Evening** | [Take-home Fundamentals Check-in (BV)][1-1E] | Training | Training  | Training | Tic-Tac-Toe
 
-Displaced by installfest: [How the internet works](https://github.com/sf-wdi-31/how-the-internet-works)   
-Displaced by Wednesday afternoon: [Functions (CF)][1-3C],  [Training: Functions (CF)][1-3D]
-
-Displaced by future better stuff that we'll find:  [Command Line Mystery (IT)][1-1E] (monday hw)
 
 [1-1A]: # "..."
 [1-1B]: # "..."
 [1-1C]: # "..."
 [1-1D]: https://github.com/SF-WDI-LABS/installfest "Installfest"
-[1-1E]: https://github.com/sf-wdi-31/clmystery "Command Line Mystery"
+[1-1E]: # "..."
 
 [1-2A]: # "..."
 [1-2B]: https://github.com/sf-wdi-31/html-css-review "HTML and CSS Review"
