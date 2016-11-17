@@ -2,19 +2,18 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | Orientation (MJ) |  Outcomes (Neda) | [JS Data Types (BV)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Projects Show & Tell
-**10:45am <br> 12:15pm** | Icebreakers (Team) | [HTML & CSS Review (BV)][1-2B] | [JS Control Flow (BV)][1-3B] | [DOM Manipulation (CF)][1-4B] | Formative Assessment & Review (IT)
-**1:15pm <br> 2:45pm** | Icebreakers (Team) |  [Github Workflow (CF)][1-2C] | [Functions (CF)][1-3C] | [DOM Events (BV)][1-4C] | [Bootstrap][1-5C]
-**3:00pm <br> 4:30pm** | [How the Internet Works (IT)][1-1D] | [Training: My Personal Site (CF)][1-2D] | [Training: Functions (CF)][1-3D] | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (Team)][1-5D]   
-**Evening** | [Command Line Mystery (IT)][1-1E] | Training | Training  | Training | Tic-Tac-Toe
-
+**9:00am <br> 10:30am** | Orientation (Ali) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Projects Show & Tell (BV)
+**10:45am <br> 12:15pm** | Icebreakers (Team) | [Github Workflow (CF)][1-2B] | [Training: Functions (CF)][1-3B] | [DOM Manipulation (CF)][1-4B] | Formative Assessment & Review (BV)
+**1:15pm <br> 2:45pm** | [Using Terminal (BV)][1-1C] |  [JS Data Types (BV)][1-2C] | [Training: My Personal Site (AC)][1-3C] | [DOM Events (BV)][1-4C] | [Bootstrap (CF)][1-5C]
+**3:00pm <br> 4:30pm** | [Installfest (Team)][1-1D] | [JS Control Flow (BV)][1-2D] | No Outcomes | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (CF)][1-5D]   
+**Evening** | [Take-home Fundamentals Check-in (BV)][1-1E] | Training | Training  | Training | Tic-Tac-Toe
 
 
 [1-1A]: # "..."
 [1-1B]: # "..."
 [1-1C]: # "..."
-[1-1D]: https://github.com/sf-wdi-31/how-the-internet-works "How the Internet Works"
-[1-1E]: https://github.com/sf-wdi-31/clmystery "Command Line Mystery"
+[1-1D]: https://github.com/SF-WDI-LABS/installfest "Installfest"
+[1-1E]: # "..."
 
 [1-2A]: # "..."
 [1-2B]: https://github.com/sf-wdi-31/html-css-review "HTML and CSS Review"
