@@ -1,4 +1,4 @@
-# keyboard-shortcuts
+# Keyboard Shortcuts
 
 
 ### Basic Mac Shortcuts
@@ -10,12 +10,18 @@ Use this to launch your Terminal, PostgreSQL, or any other application installed
 - Hold down **Command** and tap **Tab** to switch between open applications
 - Hold down **Command** and tap **~** to switch between different windows of the same application. This can be helpful when you have many Atom or Chrome windows open.
 
+
 - **Command  S**  -  Save current document
 - **Command  Option  S** -  Save all open documents
 - **Command  A**  -  Select all in current document
 - **Command  C**  -  Copy
 - **Command  X**  - Cut
 - **Command  V**  - Paste
+- **Command  F**  - bring up a text box to find/search for specific text in the current window
+
+
+- **Option** and tap  **←** or **→**  -  Move to the end or beginning of a word.
+- **Command** and tap  **←** or **→**  -  Move to the end or beginning of a line
 - **Shift** and tap **←** or **→**  - Highlights by letter
 - **Shift Option** and tap **←** or **→**  - Highlights by word
 - **Shift Command** and tap **←** or **→**  - Highlights to the start or end of the line.  Tap the arrow key once more if you were just looking to move the curser
@@ -36,7 +42,7 @@ Use this to launch your Terminal, PostgreSQL, or any other application installed
 
 **<a href="http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf"><img src="atom-shortcuts.png"></a>**
 
-### ShiftIt Basics
+### ShiftIt Basics (window management)
 
 - **Control  Option  Command** + **←** or **→**  - Snaps the active widow to the right or left of your screen.  Tap **←** or **→** again to reduce the % of the screen occupied by the window
 - **Control  Option  Command** + **↑** or **↓**  - Same as above, but snaps to the top or bottom
