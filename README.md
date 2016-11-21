@@ -1,3 +1,7 @@
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+# WDI 34 Schedule
+
 #### Week 1 - Fundamentals and Tools
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
