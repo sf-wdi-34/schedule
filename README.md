@@ -40,3 +40,45 @@
 [1-5D]: https://github.com/sf-wdi-31/tic-tac-toe "Tic Tac Toe"
 
 Weekly Objective Checklist
+
+
+#### Week 2 - JavaScript & The DOM
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Iterator Methods & Callbacks (BV) ][2-1A] |  Outcomes (Neda) | [Templating w/ Handlebars (BV)][2-3A] | [OO JS (BV & IT)][2-4A] | Formative Assessment & Review (IT)
+ **10:45am <br> 12:15pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (IT)][2-2B] | [Training: Templating (BV)][2-3B] | [OO JS (BV & IT)][2-4B] | Continue Review (IT)
+ **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (CF)][2-2C] | [Training: GeoQuakes (CF) ][2-3C] | [Training: OO JS (IT & BV)][2-4C] | [Project 0 Intro (BV)][2-5B]
+**3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (CF)][2-2D] | [Training: GeoQuakes (CF)][2-3D] | [Training: OO JS (IT & BV) ][2-4D] | Project 0     
+**Evening** | Training | Training | Training  | Training | Project 0
+
+[2-1A]: https://github.com/sf-wdi-31/iterator-methods "..."
+[2-1B]: https://github.com/sf-wdi-31/building-js-iterators-lab/ "..."
+[2-1C]: https://github.com/sf-wdi-31/js-objects "JavaScript Objects"
+[2-1D]: https://github.com/sf-wdi-31/js-objects-training "Objects training"
+[2-1E]: # "..."
+
+[2-2A]: # "..."
+[2-2B]: https://github.com/sf-wdi-31/html-forms "..."
+[2-2C]: https://github.com/sf-wdi-31/ajax "AJAX"
+[2-2D]: https://github.com/sf-wdi-31/giffaw "Giphy lab"
+
+[2-3A]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
+[2-3B]: https://github.com/sf-wdi-31/handlebars-spotify "..."
+[2-3C]: https://github.com/sf-wdi-31/geoquakes "Geoquakes"
+[2-3D]: https://github.com/sf-wdi-31/geoquakes "Geoquakes"
+
+[2-4A]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
+[2-4B]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
+[2-4C]: https://github.com/sf-wdi-31/oop-game-training "..."
+[2-4D]: https://github.com/sf-wdi-31/oop-game-training "..."
+
+[2-5A]: # "..."
+[2-5B]: https://github.com/sf-wdi-31/project-0 "..."
+[2-5C]: # "..."
+[2-5D]: # "..."
+
+[Weekly Checklist](https://gist.github.com/iliastsangaris/96666fca012b5ada111c9a5c8b7c3f64)
+
+[Review Power Hour](https://github.com/sf-wdi-31/Matt-s-Power-Hour) || [Whiteboarding](https://github.com/sf-wdi-31/week-2-review-questions)
+
