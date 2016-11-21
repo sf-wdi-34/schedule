@@ -7,11 +7,13 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Iterator Methods & Callbacks (BV) ][2-1A] |  Outcomes (Neda) | [Templating w/ Handlebars (BV)][2-3A] | [OO JS (BV & IT)][2-4A] | Formative Assessment & Review (IT)
- **10:45am <br> 12:15pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (IT)][2-2B] | [Training: Templating (BV)][2-3B] | [OO JS (BV & IT)][2-4B] | Continue Review (IT)
- **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (CF)][2-2C] | [Training: GeoQuakes (CF) ][2-3C] | [Training: OO JS (IT & BV)][2-4C] | [Project 0 Intro (BV)][2-5B]
-**3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (CF)][2-2D] | [Training: GeoQuakes (CF)][2-3D] | [Training: OO JS (IT & BV) ][2-4D] | Project 0     
+ **9:00am <br> 10:30am** | [Iterator Methods & Callbacks (BV) ][2-1A] | [HTML Bootstrap Build (CF)][2-2A]  | [Templating w/ Handlebars (BV)][2-3A] | [OO JS (BV & IT)][2-4A] | Formative Assessment & Review (CF)
+ **10:45am <br> 12:15pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (CF)][2-2B] | [Training: Templating (BV)][2-3B] | [OO JS (BV)][2-4B] | Continue Review (CF)
+ **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | [Training: GeoQuakes (CF & AC) ][2-3C] | [Training: OO JS (BV)][2-4C] | [Project 0 (BV)][2-5B]
+**3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Outcomes (MJ)][2-3D] | [Intro Project 0 (CF)][2-4D] | Project 0 (BV)   
 **Evening** | Training | Training | Training  | Training | Project 0
+
+
 
 [2-1A]: https://github.com/sf-wdi-31/iterator-methods "..."
 [2-1B]: https://github.com/sf-wdi-31/building-js-iterators-lab/ "..."
@@ -27,7 +29,7 @@
 [2-3A]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
 [2-3B]: https://github.com/sf-wdi-31/handlebars-spotify "..."
 [2-3C]: https://github.com/sf-wdi-31/geoquakes "Geoquakes"
-[2-3D]: https://github.com/sf-wdi-31/geoquakes "Geoquakes"
+[2-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 
 [2-4A]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
 [2-4B]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
