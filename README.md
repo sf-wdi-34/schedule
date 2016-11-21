@@ -2,9 +2,9 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | Orientation (Ali) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Projects Show & Tell (BV)
+**9:00am <br> 10:30am** | Orientation (Ali) | [HTML & CSS Review (CF)][1-2A]  | [Functions (CF)][1-3A] | [Chrome Dev Tools & Debugging (CF)][1-4A] | Personal Site Parade (BV)
 **10:45am <br> 12:15pm** | Icebreakers (Team) | [Github Workflow (CF)][1-2B] | [Training: Functions (CF)][1-3B] | [DOM Manipulation (CF)][1-4B] | Formative Assessment & Review (BV)
-**1:15pm <br> 2:45pm** | [Using Terminal (BV)][1-1C] |  [JS Data Types (BV)][1-2C] | [Training: My Personal Site (AC)][1-3C] | [DOM Events (BV)][1-4C] | [Bootstrap (CF)][1-5C]
+**1:15pm <br> 2:45pm** | [Command Line (BV)][1-1C] |  [JS Data Types (BV)][1-2C] | [Training: My Personal Site (AC)][1-3C] | [DOM Events (BV)][1-4C] | [Bootstrap (CF)][1-5C]
 **3:00pm <br> 4:30pm** | [Installfest (Team)][1-1D] | [JS Control Flow (BV)][1-2D] | No Outcomes | [Training: DOM Events (BV)][1-4D] | [Tic Tac Toe (CF)][1-5D]   
 **Evening** | [Take-home Fundamentals Check-in (BV)][1-1E] | Training | Training  | Training | Tic-Tac-Toe
 
