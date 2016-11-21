@@ -16,10 +16,10 @@
 [1-1A]: # "..."
 [1-1B]: # "..."
 [1-1C]: # "..."
-[1-1D]: https://github.com/SF-WDI-LABS/installfest "Installfest"
+[1-1D]: https://github.com/sf-wdi-34/installfest "Installfest"
 [1-1E]: # "..."
 
-[1-2A]: https://github.com/sf-wdi-31/html-css-review "HTML and CSS Review"
+[1-2A]: https://github.com/sf-wdi-34/html-css-review "HTML and CSS Review"
 [1-2B]: https://github.com/sf-wdi-31/git-github "Git and GitHub"
 [1-2C]: https://github.com/sf-wdi-31/js-data-types "JS Data Types"
 [1-2D]: https://github.com/sf-wdi-31/js-control-flow "Control Flow"
