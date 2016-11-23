@@ -15,7 +15,7 @@
 
 [1-1A]: # "..."
 [1-1B]: # "..."
-[1-1C]: # "..."
+[1-1C]: https://github.com/sf-wdi-34/command-line "Command Line"
 [1-1D]: https://github.com/sf-wdi-34/installfest "Installfest"
 [1-1E]: # "..."
 
