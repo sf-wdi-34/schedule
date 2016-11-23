@@ -21,8 +21,8 @@
 
 [1-2A]: https://github.com/sf-wdi-34/html-css-review "HTML and CSS Review"
 [1-2B]: https://github.com/sf-wdi-34/git-github "Git and GitHub"
-[1-2C]: https://github.com/sf-wdi-31/js-data-types "JS Data Types"
-[1-2D]: https://github.com/sf-wdi-31/js-control-flow "Control Flow"
+[1-2C]: https://github.com/sf-wdi-34/js-data-types "JS Data Types"
+[1-2D]: https://github.com/sf-wdi-34/js-control-flow "Control Flow"
 
 [1-3A]: https://github.com/sf-wdi-34/js-functions "JavaScript Functions"
 [1-3B]: https://github.com/sf-wdi-34/functions-training "Functions Training"
@@ -31,12 +31,12 @@
 
 [1-4A]: https://github.com/sf-wdi-34/dev-tools "Chrome Dev Tools"
 [1-4B]: https://github.com/sf-wdi-34/dom-manipulation "DOM Manipulation"
-[1-4C]: https://github.com/sf-wdi-31/dom-events-jquery "DOM Events"
-[1-4D]: https://github.com/sf-wdi-31/jquery-events-training "jQuery Events Training"
+[1-4C]: https://github.com/sf-wdi-34/dom-events-jquery "DOM Events"
+[1-4D]: https://github.com/sf-wdi-34/jquery-events-training "jQuery Events Training"
 
 [1-5A]: # "..."
 [1-5B]: # "..."
 [1-5C]: https://github.com/sf-wdi-34/bootstrap "Bootstrap"
 [1-5D]: https://github.com/sf-wdi-34/tic-tac-toe "Tic Tac Toe"
 
-Weekly Objective Checklist
+[Weekly Objective Checklist](https://gist.github.com/bgveenstra/0d2b929d8561c9d6d08652c085491dd6)
