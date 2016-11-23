@@ -26,7 +26,7 @@
 
 [1-3A]: https://github.com/sf-wdi-34/js-functions "JavaScript Functions"
 [1-3B]: https://github.com/sf-wdi-34/functions-training "Functions Training"
-[1-3C]: https://github.com/sf-wdi-31/personal-portfolio "Personal Portfolio"
+[1-3C]: https://github.com/sf-wdi-34/personal-portfolio "Personal Portfolio"
 [1-3D]: # "..."
 
 [1-4A]: https://github.com/sf-wdi-34/dev-tools "Chrome Dev Tools"
@@ -37,6 +37,6 @@
 [1-5A]: # "..."
 [1-5B]: # "..."
 [1-5C]: https://github.com/sf-wdi-34/bootstrap "Bootstrap"
-[1-5D]: https://github.com/sf-wdi-31/tic-tac-toe "Tic Tac Toe"
+[1-5D]: https://github.com/sf-wdi-34/tic-tac-toe "Tic Tac Toe"
 
 Weekly Objective Checklist
