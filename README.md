@@ -17,7 +17,7 @@
 [1-1B]: # "..."
 [1-1C]: https://github.com/sf-wdi-34/command-line "Command Line"
 [1-1D]: https://github.com/sf-wdi-34/installfest "Installfest"
-[1-1E]: # "..."
+[1-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-01.md#monday "HW"
 
 [1-2A]: https://github.com/sf-wdi-34/html-css-review "HTML and CSS Review"
 [1-2B]: https://github.com/sf-wdi-34/git-github "Git and GitHub"
