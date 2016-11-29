@@ -14,7 +14,7 @@ The evening trainings and readings below will help you solidify work so far and/
 **Link to turn in on tomorrow's pulse check survey**: Your control flow training repository.
 
 1. Complete this afternoon's [control flow training](https://github.com/sf-wdi-34/js-control-flow-training/).
-2. Complete the [More Complex Structures section](https://github.com/sf-wdi-34/js-data-types-training#more-complex-structures) of this afternoon's data types training. **Check your answers as you go!** Time cap yourself to 30 minutes and then read through any solutions you did not reach within that time.
+2. Complete the [More Complex Structures section](https://github.com/sf-wdi-34/js-data-types-training#more-complex-structures) of this afternoon's data types training. **Check your answers as you go!** Time cap yourself to 20, minutes and then work through any solutions you did not reach within that time.
 2. Read ahead: read through [tomorrow's functions module](https://github.com/sf-wdi-34/js-functions).
 
 Bonus: If you have time, work on the [site recreation training](https://github.com/sf-wdi-34/site-recreation) from this morning's HTML and CSS lesson.
