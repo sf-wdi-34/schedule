@@ -2,6 +2,48 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 # WDI 34 Schedule
 
+#### Week 3 - Server-side JavaScript
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | Science Fair | Outcomes (Neda) | [Mongo/Mongoose Intro (CF)][3-3A] | [Software Development Best Practices (IT)][3-4A] | Formative Assessment (IT)
+ **10:45am <br> 12:15pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Training: Book App (CF)][3-3B] | [UX Guest Workshop (Billie)][3-4B] | Review (IT)
+ **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Training: ToDo App][3-2C] | [Mongoose Associations (BV)][3-3C] | [Book App cont'd (CF)][3-4C] | Personal API (CF)
+**3:00pm <br> 4:30pm** | [Training: Express Params & Routes][3-1D] | [Training: ToDo App][3-2D] | [Training: Book App Sprints 2-3 (BV)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Personal API (BV)  
+**Evening** | Training & REST Readings: [1][3-1E] [2][3-1F] [3][3-1G] | Training & [Database Primer][3-2E] | Training & [CRUD/Query Primer][3-3E] | [Personal API][3-4E] | [Personal API][3-5E]
+
+[3-1A]: # "..."
+[3-1B]: https://github.com/sf-wdi-31/express "Express and Node"
+[3-1C]: https://github.com/sf-wdi-31/express-dynamic-routes "..."
+[3-1D]: https://github.com/sf-wdi-31/express-routes-training "..."
+[3-1E]: https://github.com/sf-wdi-31/express-routes-training "..."
+[3-1F]: http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/ "..."
+[3-1G]: http://rest.elkstein.org/ "..."
+
+[3-2A]: # "..."
+[3-2B]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
+[3-2C]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
+[3-2D]: https://github.com/sf-wdi-31/test-driven-todo-api "Todo"
+[3-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#tuesday "..."
+
+[3-3A]: https://github.com/sf-wdi-31/mongoose "Mongo and mongoose"
+[3-3B]: https://github.com/sf-wdi-31/mongoose-books-app "Mongoose Book App"
+[3-3C]: https://github.com/sf-wdi-31/mongoose-associations "Mongoose Associations"
+[3-3D]: https://github.com/sf-wdi-31/mongoose-books-app "Mongoose Book App"
+[3-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#wednesday "..."
+
+[3-4A]: https://github.com/sf-wdi-31/software-development-best-practices "..."
+[3-4B]: # "..."
+[3-4C]: https://github.com/sf-wdi-31/mongoose-books-app "Book app sprint 3"
+[3-4D]: https://github.com/sf-wdi-31/express-personal-api "Personal API"
+[3-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#thursday "Thursday HW"
+
+[3-5A]: # "..."
+[3-5B]: # "..."
+[3-5C]: # "..."
+[3-5D]: # "..."
+[3-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-3-training.md#weekend "Personal API"
+
 
 #### Week 2 - JavaScript & The DOM
 
@@ -86,4 +128,3 @@
 [1-5D]: https://github.com/sf-wdi-31/tic-tac-toe "Tic Tac Toe"
 
 Weekly Objective Checklist
-
