@@ -31,9 +31,9 @@ Bonus: If you have time, work on the [site recreation training](https://github.c
 
   **DUE** -- turn in your work on these exercises on Thursday using the [homework submission instructions](https://github.com/sf-wdi-34/schedule/blob/master/how-to/submit-hw.md).
 
-2. Keep working on your [personal portfolio site](https://github.com/sf-wdi-34/personal-portfolio#deliverables) to get the basic structure and style created with HTML and CSS. (You can try adding JavaScript DOM manipulation now or wait until after we go over it on Thursday.) 
+2. Keep working on your [personal portfolio site](https://github.com/sf-wdi-34/personal-portfolio#deliverables) to get the basic structure and style created with HTML and CSS. (You can try adding JavaScript DOM manipulation now or wait until after we go over it on Thursday.) We will be having a show and tell on **Friday morning**.
 
-2. Read ahead: tommorow, we'll start looking at a JavaScript library called jQuery.  Skim through tomorrow's [DOM Manipulation](https://github.com/sf-wdi-34/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-34/dom-events-jquery) notes. jQuery adds shorter ways to write things, in comparison to regular JavaScript. Focus on recollecting what you can do with JavaScript and on getting a feel for jQuery syntax. 
+2. Read ahead: tommorow, we'll start looking at a JavaScript library called jQuery.  Skim through tomorrow's [DOM Manipulation](https://github.com/sf-wdi-34/dom-manipulation) and [DOM Events](https://github.com/sf-wdi-34/dom-events-jquery) notes. jQuery adds shorter ways to write things, in comparison to regular JavaScript. Focus on recollecting what you can do with JavaScript and on getting a feel for jQuery syntax.
 
 <!--
 
