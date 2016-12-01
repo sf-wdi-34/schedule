@@ -4,7 +4,11 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
-1. Complete the fundamentals check-in. This should help you review some important topics from fundamentals and give us a better idea of what to review with the class or individuals.
+1. Complete the fundamentals check-in. This should help you review some important topics from fundamentals and give us a better idea of what to review with the class or individuals:
+   - [check-in link](https://docs.google.com/document/d/17TX-ZWr86cUe7HQwq--tLtINUkbC9ErLia57UsICPIw/edit?usp=sharing)
+   - [solutions link](
+https://docs.google.com/document/d/1Qy9zcYYXzFIsJe-guwe_44GbK_1Q_SolTuFbHvH95Ns/edit?usp=sharing
+)
 
 1. Watch [Growth Mindset TED Talk](https://www.youtube.com/watch?v=pN34FNbOKXc) and think about how you can apply a growth mindset to your life as a developer!
 
