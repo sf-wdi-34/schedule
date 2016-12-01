@@ -43,9 +43,14 @@ Bonus: If you have time, work on the [site recreation training](https://github.c
 ### Thursday
 **Link to turn in on Friday's pulse check survey**: Your personal portfolio repository.
 
-1. Prepare your personal portfolio site for show and tell tomorrow!
-2. Finish the [jQuery events afternoon training](https://github.com/sf-wdi-34/jquery-events-training).
-3. Fork [this list of weekly objectives](https://gist.github.com/cofauver/de116e2e030004fdf17ef3f8a43952b3). Once you've forked it, you'll be able to check off the boxes and keep your own tally of the objectives and how you're feeling about your progress. **Note:** we'll be covering Bootstrap tomorrow, so you'll see Bootstrap objectives on the checklist, but we won't have covered them.
+1. Prepare your personal portfolio site for show and tell tomorrow! Don't forget to add an event listener to the page.
+
+2. Finish the [jQuery events afternoon training](https://github.com/sf-wdi-34/jquery-events-training). The stopwatch portion is a bonus challenge - it is not required!
+
+3. Fork [this list of weekly objectives](https://gist.github.com/cofauver/de116e2e030004fdf17ef3f8a43952b3). Once you've forked it, you'll be able to check off the boxes and keep your own tally of the objectives and how you're feeling about your progress.
+
+  **Note:** we'll be covering Bootstrap tomorrow, so you'll see Bootstrap objectives on the checklist, but we won't have covered them.
+
 4. Review this week's material: come in tomorrow with two specific questions you had from reviewing the objectives and the material for the week.
 
 
