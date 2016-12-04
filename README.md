@@ -15,35 +15,35 @@
 
 
 
-[2-1A]: https://github.com/sf-wdi-31/iterator-methods "..."
-[2-1B]: https://github.com/sf-wdi-31/building-js-iterators-lab/ "..."
-[2-1C]: https://github.com/sf-wdi-31/js-objects "JavaScript Objects"
-[2-1D]: https://github.com/sf-wdi-31/js-objects-training "Objects training"
+[2-1A]: https://github.com/sf-wdi-34/iterator-methods "..."
+[2-1B]: https://github.com/sf-wdi-34/building-js-iterators-lab/ "..."
+[2-1C]: https://github.com/sf-wdi-34/js-objects "JavaScript Objects"
+[2-1D]: https://github.com/sf-wdi-34/js-objects-training "Objects training"
 [2-1E]: # "..."
 
 [2-2A]: # "..."
-[2-2B]: https://github.com/sf-wdi-31/html-forms "..."
-[2-2C]: https://github.com/sf-wdi-31/ajax "AJAX"
-[2-2D]: https://github.com/sf-wdi-31/giffaw "Giphy lab"
+[2-2B]: https://github.com/sf-wdi-34/html-forms "..."
+[2-2C]: https://github.com/sf-wdi-34/ajax "AJAX"
+[2-2D]: https://github.com/sf-wdi-34/giffaw "Giphy lab"
 
-[2-3A]: https://github.com/sf-wdi-31/handlebars-client-side-templating "..."
-[2-3B]: https://github.com/sf-wdi-31/handlebars-spotify "..."
-[2-3C]: https://github.com/sf-wdi-31/geoquakes "Geoquakes"
+[2-3A]: https://github.com/sf-wdi-34/handlebars-client-side-templating "..."
+[2-3B]: https://github.com/sf-wdi-34/handlebars-spotify "..."
+[2-3C]: https://github.com/sf-wdi-34/geoquakes "Geoquakes"
 [2-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 
-[2-4A]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
-[2-4B]: https://github.com/sf-wdi-31/js-oop-flower-power "..."
-[2-4C]: https://github.com/sf-wdi-31/oop-game-training "..."
-[2-4D]: https://github.com/sf-wdi-31/oop-game-training "..."
+[2-4A]: https://github.com/sf-wdi-34/js-oop-flower-power "..."
+[2-4B]: https://github.com/sf-wdi-34/js-oop-flower-power "..."
+[2-4C]: https://github.com/sf-wdi-34/oop-game-training "..."
+[2-4D]: https://github.com/sf-wdi-34/oop-game-training "..."
 
 [2-5A]: # "..."
-[2-5B]: https://github.com/sf-wdi-31/project-0 "..."
+[2-5B]: https://github.com/sf-wdi-34/project-0 "..."
 [2-5C]: # "..."
 [2-5D]: # "..."
 
-[Weekly Checklist](https://gist.github.com/iliastsangaris/96666fca012b5ada111c9a5c8b7c3f64)
+[Weekly Checklist]()
 
-[Review Power Hour](https://github.com/sf-wdi-31/Matt-s-Power-Hour) || [Whiteboarding](https://github.com/sf-wdi-31/week-2-review-questions)
+<!-- [Review Power Hour](https://github.com/sf-wdi-34/Matt-s-Power-Hour) || [Whiteboarding](https://github.com/sf-wdi-34/week-2-review-questions) -->
 
 
 
@@ -65,25 +65,24 @@
 [1-1D]: https://github.com/SF-WDI-LABS/installfest "Installfest"
 [1-1E]: # "..."
 
-[1-2A]: https://github.com/sf-wdi-31/html-css-review "HTML and CSS Review"
-[1-2B]: https://github.com/sf-wdi-31/git-github "Git and GitHub"
-[1-2C]: https://github.com/sf-wdi-31/js-data-types "JS Data Types"
-[1-2D]: https://github.com/sf-wdi-31/js-control-flow "Control Flow"
+[1-2A]: https://github.com/sf-wdi-34/html-css-review "HTML and CSS Review"
+[1-2B]: https://github.com/sf-wdi-34/git-github "Git and GitHub"
+[1-2C]: https://github.com/sf-wdi-34/js-data-types "JS Data Types"
+[1-2D]: https://github.com/sf-wdi-34/js-control-flow "Control Flow"
 
-[1-3A]: https://github.com/sf-wdi-31/js-functions "JavaScript Functions"
-[1-3B]: https://github.com/sf-wdi-31/functions-training "Functions Training"
-[1-3C]: https://github.com/sf-wdi-31/personal-portfolio "Personal Portfolio"
+[1-3A]: https://github.com/sf-wdi-34/js-functions "JavaScript Functions"
+[1-3B]: https://github.com/sf-wdi-34/functions-training "Functions Training"
+[1-3C]: https://github.com/sf-wdi-34/personal-portfolio "Personal Portfolio"
 [1-3D]: # "..."
 
-[1-4A]: https://github.com/sf-wdi-31/dev-tools "Chrome Dev Tools"
-[1-4B]: https://github.com/sf-wdi-31/dom-manipulation "DOM Manipulation"
-[1-4C]: https://github.com/sf-wdi-31/dom-events-jquery "DOM Events"
-[1-4D]: https://github.com/sf-wdi-31/jquery-events-training "jQuery Events Training"
+[1-4A]: https://github.com/sf-wdi-34/dev-tools "Chrome Dev Tools"
+[1-4B]: https://github.com/sf-wdi-34/dom-manipulation "DOM Manipulation"
+[1-4C]: https://github.com/sf-wdi-34/dom-events-jquery "DOM Events"
+[1-4D]: https://github.com/sf-wdi-34/jquery-events-training "jQuery Events Training"
 
 [1-5A]: # "..."
 [1-5B]: # "..."
-[1-5C]: https://github.com/sf-wdi-31/bootstrap "Bootstrap"
-[1-5D]: https://github.com/sf-wdi-31/tic-tac-toe "Tic Tac Toe"
+[1-5C]: https://github.com/sf-wdi-34/bootstrap "Bootstrap"
+[1-5D]: https://github.com/sf-wdi-34/tic-tac-toe "Tic Tac Toe"
 
 Weekly Objective Checklist
-
