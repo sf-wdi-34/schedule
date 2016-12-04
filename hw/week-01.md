@@ -54,9 +54,7 @@ Bonus: If you have time, work on the [site recreation training](https://github.c
 4. Review this week's material: come in tomorrow with two specific questions you had from reviewing the objectives and the material for the week.
 
 
-<!--
-
 ### Weekend
-Link to turn in on tomorrow's pulse check survey:
+Link to turn in on Monday's pulse check survey: your tic-tac-toe repository.
 
--->
+1. Finish the baseline goals for the [tic-tac-toe](https://github.com/sf-wdi-34/tic-tac-toe) game. Remember to commit frequently with meaningful commit messages, and push your progress to GitHub.
