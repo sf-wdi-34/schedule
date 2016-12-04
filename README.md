@@ -14,6 +14,7 @@
 
 [2-1A]: https://github.com/sf-wdi-34/iterator-methods "..."
 <!-- [2-1B]: https://github.com/sf-wdi-34/building-js-iterators-lab/ "..." -->
+[2-1B]: # "coming soon"
 [2-1C]: https://github.com/sf-wdi-34/js-objects "JavaScript Objects"
 [2-1D]: https://github.com/sf-wdi-34/js-objects-training "Objects training"
 [2-1E]: # "..."
