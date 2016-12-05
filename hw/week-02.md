@@ -6,7 +6,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Link to turn in on Tuesday's pulse check survey**: Your JavaScript objects training repository.
 
-1. Complete [https://github.com/sf-wdi-34/js-objects-training](). 
+1. Complete [the objects training](https://github.com/sf-wdi-34/js-objects-training) from this afternoon. 
 
    **DUE** -- turn in your work on these exercises on Tuesday using the [homework submission instructions](https://github.com/sf-wdi-34/schedule/blob/master/how-to/submit-hw.md) and the pulse check form.
    
