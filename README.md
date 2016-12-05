@@ -8,8 +8,8 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Iterator Methods & Callbacks (BV) ][2-1A] | [HTML Bootstrap Build (CF)][2-2A]  | [Templating w/ Handlebars (BV)][2-3A] | [OO JS (BV)][2-4A] | Formative Assessment & Review (CF)
  **10:45am <br> 12:15pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (CF)][2-2B] | [Training: Templating (BV)][2-3B] | [OO JS (BV)][2-4B] | Continue Review (CF)
- **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | [Training: GeoQuakes (CF & AC) ][2-3C] | [Training: OO JS (BV)][2-4C] | [Project 0 (BV)][2-5B]
-**3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Outcomes (MJ)][2-3D] | [Intro Project 0 (CF)][2-4D] | Project 0 (BV)   
+ **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | [Training: GeoQuakes (CF & AC) ][2-3C] | [Training: OO JS (BV)][2-4C] | Project 0 (BV)
+**3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Outcomes (MJ)][2-3D] | Intro [Project 0 (CF)][2-4D] | Project 0 (BV)   
 **Evening** | [Objects training][2-1E] | Training | Training  | Training | Project 0
 
 [2-1A]: https://github.com/sf-wdi-34/iterator-methods "Iterator Methods"
@@ -34,7 +34,7 @@
 [2-4D]: https://github.com/sf-wdi-34/oop-game-training "..."
 
 [2-5A]: # "..."
-[2-5B]: https://github.com/sf-wdi-34/project-0 "..."
+[2-5B]: # "..."
 [2-5C]: # "..."
 [2-5D]: # "..."
 
