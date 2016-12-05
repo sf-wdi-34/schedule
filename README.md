@@ -38,7 +38,7 @@
 [2-5C]: # "..."
 [2-5D]: # "..."
 
-[Weekly Checklist]()
+[Weekly Checklist](https://gist.github.com/iliastsangaris/96666fca012b5ada111c9a5c8b7c3f64)
 
 <!-- [Review Power Hour](https://github.com/sf-wdi-34/Matt-s-Power-Hour) || [Whiteboarding](https://github.com/sf-wdi-34/week-2-review-questions) -->
 
