@@ -12,9 +12,8 @@
 **3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Outcomes (MJ)][2-3D] | [Intro Project 0 (CF)][2-4D] | Project 0 (BV)   
 **Evening** | Training | Training | Training  | Training | Project 0
 
-[2-1A]: https://github.com/sf-wdi-34/iterator-methods "..."
-<!-- [2-1B]: https://github.com/sf-wdi-34/building-js-iterators-lab/ "..." -->
-[2-1B]: # "coming soon"
+[2-1A]: https://github.com/sf-wdi-34/iterator-methods "Iterator Methods"
+[2-1B]: https://github.com/sf-wdi-34/building-js-iterators-lab/ "Iterator Methods"
 [2-1C]: https://github.com/sf-wdi-34/js-objects "JavaScript Objects"
 [2-1D]: https://github.com/sf-wdi-34/js-objects-training "Objects training"
 [2-1E]: # "..."
