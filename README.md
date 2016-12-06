@@ -22,6 +22,8 @@
 [2-2B]: https://github.com/sf-wdi-34/html-forms "..."
 [2-2C]: https://github.com/sf-wdi-34/ajax "AJAX"
 [2-2D]: https://github.com/sf-wdi-34/giffaw "Giphy lab"
+[2-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-02.md#tuesday "tuesday hw"
+
 
 [2-3A]: https://github.com/sf-wdi-34/handlebars-client-side-templating "..."
 [2-3B]: https://github.com/sf-wdi-34/handlebars-spotify "..."
