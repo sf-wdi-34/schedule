@@ -27,6 +27,8 @@ The evening trainings and readings below will help you solidify work so far and/
   * Read this [sitepoint blog post](https://www.sitepoint.com/a-beginners-guide-to-handlebars/) up until and including the "Expressions" subsection in the "Syntaxes" section.
   * Look ahead at [tomorrow morning's notes](https://github.com/sf-wdi-34/handlebars-client-side-templating).
 
+3. Prepare for Outcomes: create an account at [schoology.com](https://www.schoology.com/). See Mercedes's message on Slack to find out the access codes, etc.
+
 <!--
 ### Wednesday
 
