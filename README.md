@@ -10,7 +10,7 @@
  **10:45am <br> 12:15pm** | [Training: Iterator Methods & Callbacks (BV) ][2-1B] | [HTML Forms (CF)][2-2B] | [Training: Templating (BV)][2-3B] | [OO JS (BV)][2-4B] | Continue Review (CF)
  **1:15pm <br> 2:45pm** | [Objects (CF)][2-1C] |  [AJAX (BV)][2-2C] | [Training: GeoQuakes (CF & AC) ][2-3C] | [Training: OO JS (BV)][2-4C] | Project 0 (BV)
 **3:00pm <br> 4:30pm** | [Training: Objects (CF)][2-1D] | [Training: 3rd Party APIs (BV)][2-2D] | [Outcomes (MJ)][2-3D] | Intro [Project 0 (CF)][2-4D] | Project 0 (BV)   
-**Evening** | [Objects training][2-1E] | Training | Training  | Training | Project 0
+**Evening** | [Objects training][2-1E] | [API training][2-2E] | Training  | Training | Project 0
 
 [2-1A]: https://github.com/sf-wdi-34/iterator-methods "Iterator Methods"
 [2-1B]: https://github.com/sf-wdi-34/building-js-iterators-lab/ "Iterator Methods"
