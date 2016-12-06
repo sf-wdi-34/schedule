@@ -18,7 +18,7 @@
 [2-1D]: https://github.com/sf-wdi-34/js-objects-training "Objects training"
 [2-1E]: # "..."
 
-[2-2A]: # "..."
+[2-2A]: https://github.com/sf-wdi-34/bootstrap-build "bootstrap build"
 [2-2B]: https://github.com/sf-wdi-34/html-forms "..."
 [2-2C]: https://github.com/sf-wdi-34/ajax "AJAX"
 [2-2D]: https://github.com/sf-wdi-34/giffaw "Giphy lab"
