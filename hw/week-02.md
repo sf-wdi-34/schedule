@@ -29,9 +29,14 @@ The evening trainings and readings below will help you solidify work so far and/
 
 3. Prepare for Outcomes: create an account at [schoology.com](https://www.schoology.com/). See Mercedes's message on Slack to find out the access codes, etc.
 
-<!--
 ### Wednesday
 
+**Link to turn in on Thusday's pulse check survey**: your geoquakes repo.
+
+1. Complete the [Geoquakes lab](https://github.com/sf-wdi-34/geoquakes).
+2. Look ahead: Tomorrow we dive into Object Oriented JavaScript. **Watch** [this video about Object Oriented programming in general](https://www.youtube.com/watch?v=SS-9y0H3Si8) and **read** the [MDN guide on Object oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript). You do not need to read the Encapsulation, Abstraction, and Polymorphism sections. 
+
+<!--
 ### Thursday
 
 ### Weekend
