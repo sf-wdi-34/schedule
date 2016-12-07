@@ -31,10 +31,10 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Wednesday
 
-**Link to turn in on Thusday's pulse check survey**: your geoquakes repo.
+**Link to turn in on Thusday's pulse check survey**: Your geoquakes repo.
 
-1. Complete the [Geoquakes lab](https://github.com/sf-wdi-34/geoquakes).
-2. Look ahead: Tomorrow we dive into Object Oriented JavaScript. **Watch** [this video about Object Oriented programming in general](https://www.youtube.com/watch?v=SS-9y0H3Si8) and **read** the [MDN guide on Object oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript). You do not need to read the Encapsulation, Abstraction, and Polymorphism sections. 
+1. **Complete** the [Geoquakes lab](https://github.com/sf-wdi-34/geoquakes).
+2. Look ahead: Tomorrow we dive into Object Oriented JavaScript. **Watch** [this video about Object Oriented programming in general](https://www.youtube.com/watch?v=SS-9y0H3Si8) and **read** the [MDN guide on Object oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript). You do not need to read the Encapsulation, Abstraction, and Polymorphism sections.
 
 <!--
 ### Thursday
