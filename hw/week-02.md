@@ -36,9 +36,17 @@ The evening trainings and readings below will help you solidify work so far and/
 1. **Complete** the [Geoquakes lab](https://github.com/sf-wdi-34/geoquakes).
 2. Look ahead: Tomorrow we dive into Object Oriented JavaScript. **Watch** [this video about Object Oriented programming in general](https://www.youtube.com/watch?v=SS-9y0H3Si8) and **read** the [MDN guide on Object oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript). You do not need to read the Encapsulation, Abstraction, and Polymorphism sections.
 
-<!--
+
 ### Thursday
 
+
+**Link to turn in on Thusday's pulse check survey**: None.
+
+1. Start coding your Project 0.  Remember to test out small pieces as you go, and build a simple (skateboard) version first.
+
+1. Review the material from Week 2.  Write down two questions you'd like to go over during Friday review. Bring these with you tomorrow. 
+
+<!--
 ### Weekend
 
 -->
