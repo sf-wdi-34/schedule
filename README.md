@@ -6,10 +6,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | Science Fair |  [Training: ToDo App][3-2A]| [Mongoose Associations ()][3-3A] | [][3-4A] | Formative Assessment (IT)
- **10:45am <br> 12:15pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (BV)  (CF)][3-3B] | [UX Guest Workshop (Billie)][3-4B] | Review (IT)
- **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (CF)][3-2C] | [Training: Book App][3-3C] | [Book App cont'd (CF)][3-4C] | Personal API (CF)
-**3:00pm <br> 4:30pm** | [Training: Express Params & Routes][3-1D] | [Book App Training][3-2D] | [Outcomes (MJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Personal API (BV)  
+ **9:00am <br> 10:30am** | Science Fair (CF) |  [Training: ToDo App (BV)][3-2A]| [Mongoose Associations (CF)][3-3A] | [ (BV)][3-4A] | Formative Assessment (BV)
+ **10:45am <br> 12:15pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(BV)][3-2B] | [Mongoose Associations (CF)][3-3B] | [UX Guest Workshop (BV)][3-4B] | Review (BV)
+ **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (CF)][3-2C] | [Training: Book App][3-3C] | [Intro personal site (CF)][3-4C] | Personal API (CF)
+**3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training][3-2D] | [Outcomes (MJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Personal API (CF)  
 **Evening** | [Training][3-1E] |[Training][3-2E] | Training & [CRUD/Query Primer][3-3E] | [Personal API][3-4E] | [Personal API][3-5E]
 
 
