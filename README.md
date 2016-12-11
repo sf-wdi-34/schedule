@@ -46,6 +46,8 @@
 [3-5D]: # "..."
 [3-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-3-training.md#weekend "Weekend HW"
 
+
+[Weekly Checklist](#)
 <!-- removed: https://github.com/sf-wdi-34/software-development-best-practices -->
 
 #### Week 2 - JavaScript & The DOM
