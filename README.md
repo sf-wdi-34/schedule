@@ -9,7 +9,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | Science Fair (CF) |  [Training: ToDo App (CF)][3-2A]| [Mongoose Associations (CF)][3-3A] | [Book App/Review/Surprise (BV)][3-4A] | Formative Assessment (BV)
  **10:45am <br> 12:15pm** | [Intro Express (CF)][3-1B] | [Training: ToDo App(CF)][3-2B] | [Mongoose Associations (CF)][3-3B] | [Book App/Review/Surprise (BV)][3-4B] | Review (BV)
- **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Training: Book App Part 1 (AC)][3-3C] | [Intro Personal API (CF)][3-4C] | Personal API (CF)
+ **1:15pm <br> 2:45pm** | [Express Params & Routes (BV)][3-1C] |  [Mongo/Mongoose Intro (BV)][3-2C] | [Training: Book App Sprint 2 (AC)][3-3C] | [Intro Personal API (CF)][3-4C] | Personal API (CF)
 **3:00pm <br> 4:30pm** | [Training: Express Params & Routes (BV)][3-1D] | [Book App Training (BV)][3-2D] | [Outcomes (MJ)][3-3D] | [Personal API & Heroku (CF)][3-4D] | Personal API (CF)  
 **Evening** | [Express Training][3-1E] |[Book app training][3-2E] | Training & [CRUD/Query Primer][3-3E] | [Personal API][3-4E] | [Personal API][3-5E]
 
