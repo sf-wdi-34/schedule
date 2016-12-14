@@ -18,6 +18,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. [**Finish sprint 1** of the book app](https://github.com/sf-wdi-34/mongoose-books-app/blob/master/docs/sprint1.md). If you are stuck or have finished work, make sure to check out the [`solution-sprint-1` branch](https://github.com/sf-wdi-34/mongoose-books-app/blob/solution-sprint-1/docs/sprint1.md). Aim to get through one challenge if time allows.
 2. **Read ahead**: check out tomorrow's notes on [Mongoose associations](https://github.com/sf-wdi-34/mongoose-associations).
+3. **Outcomes HW!** Write and share your personal statement and vision about what brought you to this immersive experience and what you're hoping to gain out of it. Include your self-promise about how you are hoping to evolve and grow from this program and why (how is it relevant to your goal and what is your goal?). 
+
+  Ask 3 friends and ex-coworkers for your strengths as well as what are your blind spots (weaknesses). If there were 3 words they would use to describe you, what would they be? List these strengths/weaknesses and 3 words that they would use to describe you.
 
 <!--
 resources from 31:
