@@ -8,10 +8,8 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
-### Wednesday
+### Winter Break
 
-### Thursday
-
-### Weekend
+1. Complete Project 1 with your partner. 
 
 -->
