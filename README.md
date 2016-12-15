@@ -32,7 +32,7 @@
 [3-3B]: https://github.com/sf-wdi-34/mongoose-associations "Mongoose Associations"
 [3-3C]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App"
 [3-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
-[3-3E]: https://github.com/sf-wdi-34/schedule/blob/master/week-3-training.md#wednesday "..."
+[3-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#wednesday
 
 [3-4A]: # "..."
 [3-4B]: # "..."
