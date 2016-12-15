@@ -14,7 +14,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 
 ### Tuesday
-**Link to submit on Wednesday night's pulse check**:
+**Link to submit on Wednesday night's pulse check**: Mongoose Books App (with sprint 1)
 
 1. [**Finish sprint 1** of the book app](https://github.com/sf-wdi-34/mongoose-books-app/blob/master/docs/sprint1.md). If you are stuck or have finished work, make sure to check out the [`solution-sprint-1` branch](https://github.com/sf-wdi-34/mongoose-books-app/blob/solution-sprint-1/docs/sprint1.md). Aim to get through one challenge if time allows.
 2. **Read ahead**: check out tomorrow's notes on [Mongoose associations](https://github.com/sf-wdi-34/mongoose-associations).
@@ -24,9 +24,22 @@ The evening trainings and readings below will help you solidify work so far and/
 
 <!--
 resources from 31:
-http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/  http://rest.elkstein.org/
+http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/  http://rest.elkstein.org/ -->
+
+
 ### Wednesday
 
+
+**Link to submit on Wednesday night's pulse check**: Mongoose Books App (with sprint 2)
+
+1. Continue the Mongoose Books App. You should complete the guided portions of sprints 1 and 2 and attempt the challenges (at least in pseudocode) of sprints 1 and 2. Remember to commit your work frequently, and push your changes to GitHub when you're about to switch to a different branch for a new sprint.
+
+1. Look over the [week 3 learning objectives checklist](https://gist.github.com/bgveenstra/ce17451200bab52b9ee7bebd207c276f). Review them, and pick two learning objectives or questions that you aren't feeling as confident about yet. **Write these down and bring them with you tomorrow.**
+
+1. Get excited! Tomorrow, we have a guest speaker from UXDI in the morning and an alumni panel at lunch!
+
+
+<!--
 ### Thursday
 
 ### Weekend
