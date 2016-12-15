@@ -30,7 +30,7 @@ http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-ap
 ### Wednesday
 
 
-**Link to submit on Wednesday night's pulse check**: Mongoose Books App (with sprint 2)
+**Link to submit on Thursday night's pulse check**: Mongoose Books App (with sprint 2)
 
 1. Continue the Mongoose Books App. You should complete the guided portions of sprints 1 and 2 and attempt the challenges (at least in pseudocode) of sprints 1 and 2. Remember to commit your work frequently, and push your changes to GitHub when you're about to switch to a different branch for a new sprint.
 
@@ -39,9 +39,18 @@ http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-ap
 1. Get excited! Tomorrow, we have a guest speaker from UXDI in the morning and an alumni panel at lunch!
 
 
-<!--
+
 ### Thursday
 
+**Link to submit on Friday night pulse check:** GitHub and Heroku links for Personal API
+
+1. Continue working on your Personal API:
+  - Use documentation (like an `/api` route) to show what routes you plan to support with your API.  
+  - Create your `/api/profile` route.
+  - Set up the schema and model for one resource, and add routes to get all, get one, and create that resource. 
+
+
+<!--
 ### Weekend
 
 -->
