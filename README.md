@@ -7,13 +7,13 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | NO SESSION | Outcomes (Neda) | Tunely (CF) | [Binary Search (IT)][4-4A] | [Big O (BV)][4-5A]
- **10:45am <br> 12:15pm** | NO SESSION | [Tunely][4-2B] Intro (BV) | Tunely Wrap-up (CF) | Project 1 (IT) | Project 1 (CF)
- **1:15pm <br> 2:45pm** | NO SESSION |  Tunely (CF) | [GitHub Collaboration (BV)][4-3C0]<hr>[Project 1][4-3C] Intro (ALL) | Project 1 (BV) | Project 1 (CF)
-**3:00pm <br> 4:30pm** | NO SESSION | Tunely  (CF) | Project 1 Approvals (ALL) | Project 1 (BV) | Project 1 (BV)
-**Evening** | Finish [Personal API][4-1E] | [Tunely][4-2E]  | Project 1 | Project 1 | Project 1
+ **9:00am <br> 10:30am** | [GitHub Collaboration (BV)][4-3C0] | Tunely | Project 1  | NO SESSION | NO SESSION
+ **10:45am <br> 12:15pm** | [Tunely  Intro (BV)][4-1A] |  Tunely Wrap-up (CF) | Project 1 | NO SESSION | NO SESSION
+ **1:15pm <br> 2:45pm** | Tunely | Intro Project 1 | <hr>[Project 1][4-3C] Intro (ALL) | NO SESSION | NO SESSION
+**3:00pm <br> 4:30pm** | Tunely | Project 1 | [Outcomes][4-3D] | NO SESSION | NO SESSION
+**Evening** | Tunely | [Tunely][4-2E]  | Project 1 & Break Learning Stuff | Project 1 | Project 1
 
-[4-1A]: # "..."
+[4-1A]: https://github.com/sf-wdi-31/tunely "Tunely"
 [4-1B]: # "..."
 [4-1C]: # "..."
 [4-1D]: # "..."
@@ -29,7 +29,7 @@
 [4-3B]: # "..."
 [4-3C0]: https://github.com/sf-wdi-31/github-collaboration "GitHub Collaboration"
 [4-3C]: https://github.com/sf-wdi-31/project-1 "Project 1"
-[4-3D]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [4-3E]: https://github.com/sf-wdi-31/project-1 "Project 1"
 
 [4-4A]: https://github.com/sf-wdi-31/binary-search "Binary Search"
@@ -43,6 +43,9 @@
 [4-5C]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-5D]: https://github.com/sf-wdi-31/project-1 "Project 1"
 [4-5E]: https://github.com/sf-wdi-31/project-1 "Project 1"
+
+<!-- removed drills -->
+
 
 No weekly checklist (project 1).
 
