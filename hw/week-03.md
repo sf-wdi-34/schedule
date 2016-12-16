@@ -44,10 +44,12 @@ http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-ap
 
 **Link to submit on Friday night pulse check:** GitHub and Heroku links for Personal API
 
+1. Fill out this [self-assessment form](https://goo.gl/forms/khdfRir9UdseAIBR2).
+
 1. Continue working on your Personal API:
   - Use documentation (like an `/api` route) to show what routes you plan to support with your API.  
   - Create your `/api/profile` route.
-  - Set up the schema and model for one resource, and add routes to get all, get one, and create that resource. 
+  - Set up the schema and model for one resource. Add routes to get all of that resource, get one of that resource, and create one of that resource. 
 
 
 <!--
