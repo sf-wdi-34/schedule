@@ -38,13 +38,13 @@
 [3-4B]: https://github.com/sf-wdi-34/mongoose-books-app "Mongoose Book App"
 [3-4C]: https://github.com/sf-wdi-34/express-personal-api "Personal API"
 [3-4D]: https://github.com/sf-wdi-34/express-personal-api "Personal API"
-[3-4E]: https://github.com/sf-wdi-34/schedule/blob/master/week-3-training.md#thursday "Thursday HW"
+[3-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#thursday "Thursday HW"
 
 [3-5A]: # "..."
 [3-5B]: # "..."
 [3-5C]: # "..."
 [3-5D]: # "..."
-[3-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-3-training.md#weekend "Weekend HW"
+[3-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-03.md#weekend "Weekend HW"
 
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/ce17451200bab52b9ee7bebd207c276f)
