@@ -3,6 +3,45 @@
 # WDI 34 Schedule
 
 
+#### Week 4 - Project 1
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [GitHub Collaboration (BV)][4-1A] | Tunely (CF) | Project 1 (ALL) | NO SESSION | NO SESSION
+ **10:45am <br> 12:15pm** | [Tunely  Intro (BV)][4-1A] |  Tunely Wrap-up (CF) | Project 1 (ALL) | NO SESSION | NO SESSION
+ **1:15pm <br> 2:45pm** | Tunely (CF) | [Intro Project 1 (BV)][4-2C]  | Project 1 (AC) | NO SESSION | NO SESSION
+**3:00pm <br> 4:30pm** | Tunely (CF)  | Project 1 (BV) | [Outcomes (MJ)][4-3D] | NO SESSION | NO SESSION
+**Evening** | [Training][4-1E] | [Training][4-2E]  | Project 1 & Break Learning Stuff | Project 1 | Project 1
+
+[4-1A]: https://github.com/sf-wdi-31/github-collaboration "GitHub Collaboration"
+[4-1B]: https://github.com/sf-wdi-31/tunely "Tunely"
+[4-1C]: # "..."
+[4-1D]: # "..."
+[4-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-4-training.md#monday "Monday HW"
+
+[4-2A]: # "..."
+[4-2B]: # "..."
+[4-2C]: https://github.com/sf-wdi-31/project-1 "Project 1"
+[4-2D]: # "..."
+[4-2E]: https://github.com/sf-wdi-31/schedule/blob/master/week-4-training.md#tuesday "Tues HW"
+
+[4-3A]: # "..."
+[4-3B]: # "..."
+[4-3C]: # "..."
+[4-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[4-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-4-training.md#break "Break HW"
+
+
+<!-- removed drills 
+
+https://github.com/sf-wdi-31/binary-search "Binary Search"
+https://github.com/sf-wdi-31/algorithm-complexity-and-big-o "Big O"
+
+-->
+No weekly checklist (project 1).
+
+
+
 #### Week 3 - Server-side JavaScript
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|

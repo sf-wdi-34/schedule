@@ -8,10 +8,26 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
-### Wednesday
+1. Join [Trello]()!
 
-### Thursday
+1. Complete the Project 1 planning objectives with your partner. Discuss how you will communicate over break:
 
-### Weekend
+  - Will you meet in person or through calls (so you both need to be present at the same time)? Which days and for how long?
+  - How often will you check in through slack?
+  - How will you let your partner know there is a new change for them to review, test, and merge?
+  - How will you decide what new tasks each person takes on when one task is finished?
+
+  **Bring your planning deliverables and this extra break planning with you tomorrow.**
+  
+
+  
+
+
+
+### Winter Break
+
+1. Complete Project 1 with your partner.  You will present these very soon after break.
+
+1. Sign up for an account on [codewars.com](www.codewars.com/r/RxX5pA).  Choose JavaScript as your language, and join the "General Assembly" clan.
 
 -->
