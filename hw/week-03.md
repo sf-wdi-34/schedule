@@ -58,4 +58,4 @@ http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-ap
 **Link to submit on Monday night pulse check:** GitHub link for Personal API (again)
 
 
-1. Finish your personal API, including the requiremed tasks for Parts 1 and 2.
+1. Finish your personal API, including the required tasks for Parts 1 and 2.
