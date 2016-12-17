@@ -52,7 +52,10 @@ http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-ap
   - Set up the schema and model for one resource. Add routes to get all of that resource (`GET /api/things`), get one of that resource (`GET /api/things/:id`), and create one of that resource (`POST /api/things`). 
 
 
-<!--
+
 ### Weekend
 
--->
+**Link to submit on Monday night pulse check:** GitHub link for Personal API (again)
+
+
+1. Finish your personal API, including the requiremed tasks for Parts 1 and 2.
