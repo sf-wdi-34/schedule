@@ -6,9 +6,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
-1. Continue work on Tunely. Try to finish through Sprint 3. 
+1. Continue work on Tunely. Spend two hours working on sprint 3, then review sprint 3 solutions. 
 
-2. Brainstorm ideas for Project 1.  If you'd like, you can glance ahead at the [project 1 specs](https://github.com/sf-wdi-34/project-1).  You will be working with a partner who has ideas of their own, so don't get too attached to any one possibility. 
+2. Brainstorm ideas for Project 1.  If you'd like, you can glance ahead at the [project 1 specs](https://github.com/sf-wdi-34/project-1), but these are subject to change until we officially start the project.  Also, you will be working with a partner who has ideas of their own, so don't get too attached to any one possibility. 
 
 <!--
 
