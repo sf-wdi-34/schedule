@@ -8,7 +8,7 @@
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [GitHub Collaboration (BV)][4-1A] | Tunely (CF) | Project 1 (ALL) | NO SESSION | NO SESSION
- **10:45am <br> 12:15pm** | [Tunely  Intro (BV)][4-1A] |  Tunely Wrap-up (CF) | Project 1 (ALL) | NO SESSION | NO SESSION
+ **10:45am <br> 12:15pm** | [Tunely  Intro (BV)][4-1B] |  Tunely Wrap-up (CF) | Project 1 (ALL) | NO SESSION | NO SESSION
  **1:15pm <br> 2:45pm** | Tunely (CF) | [Intro Project 1 (BV)][4-2C]  | Project 1 (AC) | NO SESSION | NO SESSION
 **3:00pm <br> 4:30pm** | Tunely (CF)  | Project 1 (BV) | [Outcomes (MJ)][4-3D] | NO SESSION | NO SESSION
 **Evening** | [Training][4-1E] | [Training][4-2E]  | Project 1 & Break Learning Stuff | Project 1 | Project 1
