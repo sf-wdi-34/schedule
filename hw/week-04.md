@@ -16,7 +16,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
-1. Join [Trello]()!
+1. Join [Trello](https://trello.com/briannaveenstra/recommend)!  Here's a [sample trello board](https://trello.com/b/k42peuus/tunely-sample-project-trello).
 
 1. Complete the Project 1 planning objectives with your partner. Discuss how you will communicate over break:
 
