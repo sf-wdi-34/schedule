@@ -12,7 +12,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 2. Brainstorm ideas for Project 1.  If you'd like, you can glance ahead at the [project 1 specs](https://github.com/sf-wdi-34/project-1), but these are subject to change until we officially start the project.  Also, you will be working with a partner who has ideas of their own, so don't get too attached to any one possibility. 
 
-<!--
+
 
 ### Tuesday
 
@@ -29,7 +29,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
   **Bring your planning deliverables and this extra break planning with you tomorrow.**
   
-
+<!--
   
 
 
