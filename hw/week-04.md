@@ -16,13 +16,15 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
+**links to submit on Wednesday night's pulse check: your group's Trello and GitHub project**
+
 1. Join [Trello](https://trello.com/briannaveenstra/recommend)!  Here's a [sample trello board](https://trello.com/b/k42peuus/tunely-sample-project-trello).
 
 1. Complete the Project 1 planning objectives with your partner. Discuss how you will communicate over break:
 
-  - Will you meet in person or through calls (so you both need to be present at the same time)? Which days and for how long?
+  - Will your group all need to be present at the same time for some meetings (in person, though calls)? Which days and for how long?
   - How often will you check in through slack?
-  - How will you let your partner know there is a new change for them to review, test, and merge?
+  - How will you let your partner know there is a new change for them to review, try out, and merge?
   - How will you decide what new tasks each person takes on when one task is finished?
 
   **Bring your planning deliverables and this extra break planning with you tomorrow.**
