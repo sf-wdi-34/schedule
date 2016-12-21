@@ -3,52 +3,51 @@
 # WDI 34 Schedule
 
 
-#### Week 5 - Angular
+
+
+#### Week 4 Part II - MEAN Stack Strikes Back
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Bubble Sort (CF)][5-1A] |  [Mergesort (BV)][5-2A] | [Angular Intro (CF)][5-3A] | [`$http` Create and Read (BV)][5-4A] | [Client-side Routing (BV)][5-5A]
- **10:45am <br> 12:15pm** | Project 1 (CF) | Project 1 (BV) |  [Directives & Expressions (CF)][5-3B] | [Training: `$http` Create & Read (BV)][5-4B] | [Training: Client-side Routing (BV)][5-5B]
- **1:15pm <br> 2:45pm** | Project 1 (BV) |  Project 1 Presentations (ALL) |  [Hangman App (IT)][5-3C] | [`$http` Update & Delete (CF)][5-4C] | [Formative Assessment and review (CF)][5-5C]
-**3:00pm <br> 4:30pm** | Project 1 (BV) | Project 1 Presentations |   [Hangman App (IT)][5-3D] | [Training: `$http` Update & Delete (CF)][5-4D] | [Book App (BV)][5-5D]
-**Evening** | [Project 1](https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#monday-continued-from-weekend) |  [Small prep for tomorrow and rest!][5-2E] |  [Training][5-3E] | [Training][5-4E] | Training: [Book App][5-5E]
+ **9:00am <br> 10:30am** | NO SESSION | Project 1 | Project 1 (ALL) | NO SESSION | NO SESSION
+ **10:4B5am <br> 12:15pm** | NO SESSION |  Tunely Wrap-up (CF) | Project 1 (ALL) | NO SESSION | NO SESSION
+ **1:15pm <br> 2:4B5pm** | NO SESSION | [Intro Project 1 (BV)][4B-2C]  | Project 1 (AC) | NO SESSION | NO SESSION
+**3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (BV) | [Outcomes (MJ)][4B-3D] | NO SESSION | NO SESSION
+**Evening** | [Training][4B-1E] | [Project 1][4B-2E]  | Project 1 & Break Learning Stuff | Project 1 | Project 1
 
-[5-1A]: https://github.com/sf-wdi-31/bubble-sort "bubble sort"
-[5-1B]: # "..."
-[5-1C]: # "..."
-[5-1D]: # "..."
-[5-1E]: # "..."
-[5-1F]: # "..."
-[5-1G]: # "..."
+[4B-1A]: # "..."
+[4B-1B]: # "..."
+[4B-1C]: # "..."
+[4B-1D]: # "..."
+[4B-1E]: https://github.com/sf-wdi-34/project-1 "Project 1"
 
-[5-2A]: https://github.com/sf-wdi-31/mergesort "..."
-[5-2B]: # "..."
-[5-2C]: # "..."
-[5-2D]: # "..."
-[5-2E]: https://github.com/sf-wdi-31/schedule/blob/week-5-training/week-5-training.md#tuesday "Tuesday hw"
+[4B-2A]: # "..."
+[4B-2B]: # "..."
+[4B-2C]: # "..."
+[4B-2D]: # "..."
+[4B-2E]: https://github.com/sf-wdi-34/project-1 "Project 1"
 
-[5-3A]: https://github.com/sf-wdi-31/intro-angular "Angular Intro"
-[5-3B]: # "..."
-[5-3C]: https://github.com/sf-wdi-31/ng-hangman "..."
-[5-3D]: https://github.com/sf-wdi-31/ng-hangman "..."
-[5-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#wednesday "..."
-
-[5-4A]: https://github.com/sf-wdi-31/ng-read-create "..."
-
-[5-4B]: https://github.com/sf-wdi-31/ng-read-create "..."
-[5-4C]: # "..."
-[5-4D]: https://github.com/sf-wdi-31/ng-update-delete "UD"
-[5-4E]: https://github.com/sf-wdi-31/ng-update-delete "..."
+[4B-3A]: # "..."
+[4B-3B]: # "..."
+[4B-3C]: # "..."
+[4B-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034B%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[4B-3E]: # "..."
 
 
-[5-5A]: https://github.com/sf-wdi-31/angular-routing "..."
-[5-5B]: https://github.com/sf-wdi-31/tunely-angular/blob/master/docs/sprint4.md "..."
-[5-5C]: # "..."
-[5-5D]: https://github.com/sf-wdi-31/angular-books-crud-lab "..."
-[5-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-5-training.md#weekend "..."
+[4B-4A]: # "..."
+[4B-4B]: # "..."
+[4B-4C]: # "..."
+[4B-4D]: # "..."
+[4B-4E]: # "..."
+
+
+[4B-5A]: # "..."
+[4B-5B]: # "..."
+[4B-5C]: # "..."
+[4B-5D]: # "..."
+[4B-5E]: # "..."
 
 [Weekly Checklist](https://gist.github.com/iliastsangaris/2c84e103331da41e71daee302bc388b5)
-
 
 #### Week 4 - Project 1
 
