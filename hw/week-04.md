@@ -36,6 +36,8 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Winter Break
 
+1. Add your instructors to your Trello board: @coryfauver and @briannaveenstra. 
+
 1. Complete Project 1 with your partner.  You will present these very soon after break.
 
 1. Sign up for an account on [codewars.com](www.codewars.com/r/RxX5pA).  Choose JavaScript as your language, and join the "General Assembly" clan.
