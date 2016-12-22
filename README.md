@@ -3,6 +3,52 @@
 # WDI 34 Schedule
 
 
+
+
+#### Week 4 Part II - MEAN Stack Strikes Back
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | NO SESSION | Big O (BV) | Project 1 Presentations (ALL) | [Angular Intro (CF)][4B-4A] | [`$http` Update & Delete (CF)][4B-4C]
+ **10:4B5am <br> 12:15pm** | NO SESSION |  Project 1 (BV) | Binary Search (CF) | [Directives & Expressions (CF)][4B-4B] | [Training: `$http` Update & Delete (CF)][4B-4D]
+ **1:15pm <br> 2:4B5pm** | NO SESSION | Project 1 (CF) | Project 1 Wrap-up (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | Client-side Routing (BV)
+**3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | [Book App (BV)][4B-5D]
+**Evening** | [Training][4B-1E] | [Training][4B-2E]  | Training | Training | Training
+
+[4B-1A]: # "..."
+[4B-1B]: # "..."
+[4B-1C]: # "..."
+[4B-1D]: # "..."
+[4B-1E]: https://github.com/sf-wdi-34/project-1 "Project 1"
+
+[4B-2A]: # "..."
+[4B-2B]: # "..."
+[4B-2C]: # "..."
+[4B-2D]: # "..."
+[4B-2E]: https://github.com/sf-wdi-34/project-1 "Project 1"
+
+[4B-3A]: # "..."
+[4B-3B]: # "..."
+[4B-3C]: # "..."
+[4B-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[4B-3E]: # "..."
+
+
+[4B-4A]: # "..."
+[4B-4B]: # "..."
+[4B-4C]: # "..."
+[4B-4D]: # "..."
+[4B-4E]: # "..."
+
+
+[4B-5A]: # "..."
+[4B-5B]: # "..."
+[4B-5C]: # "..."
+[4B-5D]: # "..."
+[4B-5E]: # "..."
+
+Weekly Checklist
+
 #### Week 4 - Project 1
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
