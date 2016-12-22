@@ -47,7 +47,7 @@
 [4B-5D]: # "..."
 [4B-5E]: # "..."
 
-Weekly Checklist
+[Weekly Checklist](https://gist.github.com/bgveenstra/75a25c00f02ea10518f1aae2979228a4)
 
 #### Week 4 - Project 1
 
