@@ -19,7 +19,7 @@
 [4B-1B]: # "..."
 [4B-1C]: # "..."
 [4B-1D]: # "..."
-[4B-1E]: https://github.com/sf-wdi-34/project-1 "Project 1"
+[4B-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-04.md#winter-break "Project 1"
 
 [4B-2A]: # "..."
 [4B-2B]: # "..."
