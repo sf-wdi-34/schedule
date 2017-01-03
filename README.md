@@ -9,7 +9,7 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | NO SESSION | Big O (BV) | Project 1 Presentations (ALL) | [Angular Intro (CF)][4B-4A] | [`$http` Update & Delete (CF)][4B-4C]
+ **9:00am <br> 10:30am** | NO SESSION | [Big O (BV)](4B-2A) | Project 1 Presentations (ALL) | [Angular Intro (CF)][4B-4A] | [`$http` Update & Delete (CF)][4B-4C]
  **10:4B5am <br> 12:15pm** | NO SESSION |  Project 1 (BV) | Binary Search (CF) | [Directives & Expressions (CF)][4B-4B] | [Training: `$http` Update & Delete (CF)][4B-4D]
  **1:15pm <br> 2:4B5pm** | NO SESSION | Project 1 (CF) | Project 1 Wrap-up (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | Client-side Routing (BV)
 **3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | [Book App (BV)][4B-5D]
@@ -21,7 +21,7 @@
 [4B-1D]: # "..."
 [4B-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-04.md#winter-break "Project 1"
 
-[4B-2A]: # "..."
+[4B-2A]: https://github.com/sf-wdi-34/algorithm-complexity-and-big-o "Big O"
 [4B-2B]: # "..."
 [4B-2C]: # "..."
 [4B-2D]: # "..."
