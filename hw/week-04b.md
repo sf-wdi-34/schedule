@@ -17,6 +17,8 @@ The evening trainings and readings below will help you solidify work so far and/
   * What problems is Angular aiming to address?
   * What terminology is unfamiliar?
   * What questions do you have entering into using Angular?
+  
+1. Read ahead to notes for tomorrow: Angular Intro and Angular $http create and read. 
 
 ### Thursday
 
