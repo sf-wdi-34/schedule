@@ -10,7 +10,7 @@
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | NO SESSION | [Big O (BV)][4B-2A] | Project 1 Presentations (ALL) | [Angular Intro (CF)][4B-4A] | [`$http` Update & Delete (CF)][4B-4C]
- **10:4B5am <br> 12:15pm** | NO SESSION |  Project 1 (BV) | Binary Search (CF) | [Directives & Expressions (CF)][4B-4B] | [Training: `$http` Update & Delete (CF)][4B-4D]
+ **10:4B5am <br> 12:15pm** | NO SESSION |  Project 1 (BV) | [Binary Search (CF)][4B-3B] | [Directives & Expressions (CF)][4B-4B] | [Training: `$http` Update & Delete (CF)][4B-4D]
  **1:15pm <br> 2:4B5pm** | NO SESSION | Project 1 (CF) | Project 1 Wrap-up (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | Client-side Routing (BV)
 **3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | [Book App (BV)][4B-5D]
 **Evening** | [Training][4B-1E] | [Training][4B-2E]  | Training | Training | Training
@@ -28,7 +28,7 @@
 [4B-2E]: https://github.com/sf-wdi-34/project-1 "Project 1"
 
 [4B-3A]: # "..."
-[4B-3B]: # "..."
+[4B-3B]: https://github.com/sf-wdi-34/binary-search "binary search"
 [4B-3C]: # "..."
 [4B-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [4B-3E]: # "..."
