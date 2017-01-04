@@ -7,19 +7,26 @@ The evening trainings and readings below will help you solidify work so far and/
 Wrap up Project 1. Review the deliverables and requirements.  You will not have time to make changes tomorrow. Don't forget to write your readme and plan what each partner will talk about during the presentation!
 
 
-<!--
 
 ### Wednesday
 
-1. Fill out the [Project 1 Peer Feedback form](https://goo.gl/forms/h0PFGPNlBsAPcnaS2) to reflect on your team's work in this project. Your answers will be combined with outside observations of your group as part of project feedback (not shared directly with your partner). Please be honest and fair - this is your way to help your partner improve!
+1. [Create an issue](https://github.com/sf-wdi-34/schedule/blob/master/how-to/submit-an-issue.md) on your team's project 1 repository that either covers a bug your team identified or ideas for how to implement a feature you wanted to add. 
 
-2. Read [the Angular Developer's Guide introduction to angular](https://docs.angularjs.org/guide/introduction) with these questions in mind:
+2. Fill out the [Project 1 Peer Feedback form](https://goo.gl/forms/h0PFGPNlBsAPcnaS2) to reflect on your team's work in this project. Your answers will be combined with outside observations of your group as part of project feedback (not shared directly with your partner). Please be honest and fair - this is your way to help your partner improve!
+
+3. Read [the Angular Developer's Guide introduction to angular](https://docs.angularjs.org/guide/introduction) with these questions in mind:
   * What problems is Angular aiming to address?
   * What terminology is unfamiliar?
   * What questions do you have entering into using Angular?
-  
-1. Read ahead notes for tomorrow: Angular Intro and Angular $http create and read. 
+ 
+5. In the [Intro Angular Challenges](https://github.com/sf-wdi-34/intro_angular_challenges) lab, do challenge 1 and at least exercise 1 of challenge 2.  As you work, write down answers to the following questions:
 
+ * What syntax does angular use for client-side templating?
+ * How would you describe two-way data binding to someone who had never used angular?
+ * What do you think a controller is?  A module?
+ * Where do you think angular might be using DOM events behind the scenes?
+
+<!--
 ### Thursday
 
 1. Finish the "instructions" portion of Tune.ly Angular sprints 1 and 2. Give yourself a time limit for trying to get each sprint working independently (maybe 30 minutes). After that time, work through the solutions for the sprint you're on.   
