@@ -4,7 +4,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
-1. Fill out the [Project 1 Peer Feedback form](https://goo.gl/forms/h0PFGPNlBsAPcnaS2) to reflect on your team's work in this project. Your answers will be combined with outside observations of your group as part of project feedback (not shared directly with your partner). Please be honest and fair - this is your way to help your partner improve!
+Fill out the [Project 1 Peer Feedback form](https://goo.gl/forms/h0PFGPNlBsAPcnaS2) to reflect on your team's work in this project. Your answers will be combined with outside observations of your group as part of project feedback (not shared directly with your partner). Please be honest and fair - this is your way to help your partner improve!
 
 <!--
 
