@@ -4,23 +4,21 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
-Fill out the [Project 1 Peer Feedback form](https://goo.gl/forms/h0PFGPNlBsAPcnaS2) to reflect on your team's work in this project. Your answers will be combined with outside observations of your group as part of project feedback (not shared directly with your partner). Please be honest and fair - this is your way to help your partner improve!
+Wrap up Project 1. Review the deliverables and requirements.  You will not have time to make changes tomorrow. Don't forget to write your readme and plan what each partner will talk about during the presentation!
+
 
 <!--
 
-
 ### Wednesday
 
-1. Wrap up Project 1. Review the deliverables and requirements.  You will not have time to make changes tomorrow. Don't forget to write your readme and plan what each partner will talk about during the presentation!
-
-1. Watch this conference presentation called [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII). (Protip, watch it at 1.5x or 2x speed to decrease the time commitment.)
+1. Fill out the [Project 1 Peer Feedback form](https://goo.gl/forms/h0PFGPNlBsAPcnaS2) to reflect on your team's work in this project. Your answers will be combined with outside observations of your group as part of project feedback (not shared directly with your partner). Please be honest and fair - this is your way to help your partner improve!
 
 2. Read [the Angular Developer's Guide introduction to angular](https://docs.angularjs.org/guide/introduction) with these questions in mind:
   * What problems is Angular aiming to address?
   * What terminology is unfamiliar?
   * What questions do you have entering into using Angular?
   
-1. Read ahead to notes for tomorrow: Angular Intro and Angular $http create and read. 
+1. Read ahead notes for tomorrow: Angular Intro and Angular $http create and read. 
 
 ### Thursday
 
