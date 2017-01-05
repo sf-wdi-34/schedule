@@ -38,7 +38,7 @@
 [4B-4B]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint1.md "Tunely-angular sprint 1"
 [4B-4C]: https://github.com/sf-wdi-34/ng-read-create "..."
 [4B-4D]: # "..."
-[4B-4E]: # "..."
+[4B-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-04b.md#thursday "Thurs HW"
 
 
 [4B-5A]: # "..."
