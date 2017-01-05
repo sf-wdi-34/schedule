@@ -40,6 +40,8 @@ Wrap up Project 1. Review the deliverables and requirements.  You will not have 
   - What would you change about the AJAX request?
   - What would you do after a successful response?
 
+1. To review today's intro to the `$http` service and to prepare for tomorrow's lessons on update and delete, read [the `$http` service documentation](https://docs.angularjs.org/api/ng/service/$http). Specifically, look at the **General Usage**, **Usage**, and **Examples** sections. The **Shortcut Methods** and **Methods** sections may also interest you, although we won't be using those methods in our example code.
+
   <!--
 ### Weekend
 
