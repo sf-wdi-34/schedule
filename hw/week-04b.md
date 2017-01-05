@@ -49,7 +49,7 @@ Wrap up Project 1. Review the deliverables and requirements.  You will not have 
   * add a link to the class repo at the top of the README on your master branch, and
   * push your changes to GitHub.
 
-1. Go back over the Angular apps we've seen so far.  Try to write down **all** the steps you would take to create an Angular app from scratch.  Create a PUBLIC GitHub [gist](https://help.github.com/articles/about-gists/) that lists all your steps, and link it in the My Work section of your personal website (communicating about technology is an important skill!).  Here's a [quick gist create link](https://gist.github.com/).
+1. Go back over the Angular apps we've seen so far.  Try to write down **all** the steps you would take to create an Angular app from scratch.  Create a PUBLIC GitHub [gist](https://help.github.com/articles/about-gists/) that lists all your steps, and link it in the My Work section of your personal website (communicating about technology is an important skill!).  Here's a [quick gist create link](https://gist.github.com/). Include tips or explanations for the code you suggest developers write. 
 
 -->
 
