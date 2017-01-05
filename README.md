@@ -35,7 +35,7 @@
 
 
 [4B-4A]: https://github.com/sf-wdi-34/intro-angular "angular intro"
-[4B-4B]: # "..."
+[4B-4B]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint1.md "Tunely-angular sprint 1"
 [4B-4C]: # "..."
 [4B-4D]: # "..."
 [4B-4E]: # "..."
