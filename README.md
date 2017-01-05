@@ -34,7 +34,7 @@
 [4B-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-04b.md#wednesday "..."
 
 
-[4B-4A]: # "..."
+[4B-4A]: https://github.com/sf-wdi-34/intro-angular "angular intro"
 [4B-4B]: # "..."
 [4B-4C]: # "..."
 [4B-4D]: # "..."
