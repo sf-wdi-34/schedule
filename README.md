@@ -3,6 +3,55 @@
 # WDI 34 Schedule
 
 
+#### Week 5 - Getting Acute with Angular
+*or, Building Momentum with Angular*
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Client-side Routing (BV)][5-1A] |  [Custom Directives (CF)][5-1C] | Review (CF)  |  UX/WDI Collaboration (BV)  | [ Assessment and Angular Block Party (BV) ][5-4A]
+ **10:45am <br> 12:15pm** | Client-side Routing (BV) | [Custom Directives (CF)][5-1C] |  Review (CF) | Intro Angular Build (BV) | Angular Build (BV)
+ **1:15pm <br> 2:45pm** | [Tunely-Angular Sprint 5 (CF)][5-1A] |  [Promises (BV)][5-2C] |  Review Build (AC) | Angular Build (CF) | Angular Build (CF)
+**3:00pm <br> 4:30pm** | [Tunely-Angular Sprint 5 (CF)][5-1A] | [Angular Services][5-2D] & [Services Training][5-2E] (BV)|   [Outcomes (MJ)][5-3D]  | Angular Build (CF) | Angular Build(CF)
+**Evening** | [Training][5-1E]  |  [Training][5-2F] | -- | Angular Build |  Angular Build
+
+[5-1A]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint5.md "..."
+[5-1B]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint5.md "..."
+[5-1C]: https://github.com/sf-wdi-34/angular-custom-directives "..."
+[5-1D]: https://github.com/sf-wdi-34/angular-custom-directives "..."
+[5-1E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#monday "..."
+
+[5-2A]: # "..."
+[5-2B]: https://github.com/sf-wdi-34/making-a-custom-directive "..."
+[5-2C]: https://github.com/sf-wdi-34/promises "..."
+[5-2D]: https://github.com/sf-wdi-34/angular-services "..."
+[5-2E]: https://github.com/sf-wdi-34/angular-services-training "..."
+[5-2F]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#tuesday "..."
+
+[5-3A]: https://github.com/sf-wdi-34/angular-build/ "..."
+[5-3B]: # "..."
+[5-3C]: # "..."
+[5-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[5-3E]: # "..."
+
+[5-4A]: https://github.com/sf-wdi-34/block-party "..."
+[5-4B]: # "..."
+[5-4C]: # "..."
+[5-4D]: # "..."
+[5-4E]: # "..."
+
+[5-5A]: # "..."
+[5-5B]: https://github.com/sf-wdi-34/intro-ruby "..."
+[5-5C]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#weekend "..."
+[5-5D]: # "..."
+[5-5E]: # "..."
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/0055e9aabb1bb3c7dedfb0e5d68593be)
+
+<!--
+[Share Angular Build (CF)][5-5A]
+[Intro Ruby (BV)][5-5B]
+[Training: Ruby (BV)][5-5C]
+-->
 
 
 #### Week 4 Part II - MEAN Stack Strikes Back
@@ -11,9 +60,10 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | NO SESSION | [Big O (BV)][4B-2A] | Project 1 Presentations (ALL) | [Angular Intro (CF)][4B-4A] | [`$http` Update & Delete (CF)][4B-5A]
  **10:4B5am <br> 12:15pm** | NO SESSION |  Project 1 (BV) | [Binary Search (CF)][4B-3B] | [Directives & Expressions (CF)][4B-4B] | [Training: `$http` Update & Delete (CF)][4B-4D]
- **1:15pm <br> 2:4B5pm** | NO SESSION | Project 1 (CF) | [Project 1 Wrap-up & Explore Angular][4B-3C] (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | [Book App (BV)][4B-5D]
-**3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | Book App (BV)
+ **1:15pm <br> 2:45pm** | NO SESSION | Project 1 (CF) | [Project 1 Wrap-up & Explore Angular][4B-3C] (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | [Book App (BV)][4B-5D]
+**3:00pm <br> 4:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | Book App (BV)
 **Evening** | [Training][4B-1E] | [Training][4B-2E]  | [Training][4B-3E] | [Training][4B-4E] | [Training][4B-5E]
+
 
 [4B-1A]: # "..."
 [4B-1B]: # "..."
