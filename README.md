@@ -45,13 +45,13 @@
 [5-5D]: # "..."
 [5-5E]: # "..."
 
-[Weekly Checklist](https://gist.github.com/mattlaguardia/727ca99d57de0f733f3455037edcff18)
+[Weekly Checklist](https://gist.github.com/bgveenstra/0055e9aabb1bb3c7dedfb0e5d68593be)
 
-
+<!--
 [Share Angular Build (CF)][5-5A]
 [Intro Ruby (BV)][5-5B]
 [Training: Ruby (BV)][5-5C]
-
+-->
 
 
 #### Week 4 Part II - MEAN Stack Strikes Back
