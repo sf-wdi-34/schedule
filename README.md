@@ -11,9 +11,9 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | NO SESSION | [Big O (BV)][4B-2A] | Project 1 Presentations (ALL) | [Angular Intro (CF)][4B-4A] | [`$http` Update & Delete (CF)][4B-5A]
  **10:4B5am <br> 12:15pm** | NO SESSION |  Project 1 (BV) | [Binary Search (CF)][4B-3B] | [Directives & Expressions (CF)][4B-4B] | [Training: `$http` Update & Delete (CF)][4B-4D]
- **1:15pm <br> 2:4B5pm** | NO SESSION | Project 1 (CF) | [Project 1 Wrap-up & Explore Angular][4B-3C] (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | Book App (BV)
-**3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | [Book App (BV)][4B-5D]
-**Evening** | [Training][4B-1E] | [Training][4B-2E]  | [Training][4B-3E] | Training | Training
+ **1:15pm <br> 2:4B5pm** | NO SESSION | Project 1 (CF) | [Project 1 Wrap-up & Explore Angular][4B-3C] (BV & AC) | [`$http` Create and Read (BV)][4B-4C] | [Book App (BV)][4B-5D]
+**3:00pm <br> 4B:30pm** | NO SESSION  | Project 1 (CF) | [Outcomes (MJ)][4B-3D] |[Training: `$http` Create & Read (BV)][4B-4D] | Book App (BV)
+**Evening** | [Training][4B-1E] | [Training][4B-2E]  | [Training][4B-3E] | [Training][4B-4E] | [Training][4B-5E]
 
 [4B-1A]: # "..."
 [4B-1B]: # "..."
@@ -37,15 +37,15 @@
 [4B-4A]: https://github.com/sf-wdi-34/intro-angular "angular intro"
 [4B-4B]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint1.md "Tunely-angular sprint 1"
 [4B-4C]: https://github.com/sf-wdi-34/ng-read-create "..."
-[4B-4D]: # "..."
+[4B-4D]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint2.md "Tunely-angular sprint 2"
 [4B-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-04b.md#thursday "Thurs HW"
 
 
 [4B-5A]: https://github.com/sf-wdi-34/ng-update-delete "..."
 [4B-5B]: # "..."
 [4B-5C]: # "..."
-[4B-5D]: # "..."
-[4B-5E]: # "..."
+[4B-5D]: https://github.com/sf-wdi-34/angular-books-crud-lab "Angular Books"
+[4B-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-04b.md#weekend "Weekend HW"
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/75a25c00f02ea10518f1aae2979228a4)
 
