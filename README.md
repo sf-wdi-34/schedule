@@ -8,8 +8,8 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Client-side Routing (BV)][5-1A] |  [Custom Directives (CF)][5-1C] | Review  |  UX/WDI Collaboration (BV)  | [ Assessment and Angular Block Party (BV) ][5-4A]
- **10:45am <br> 12:15pm** | Client-side Routing (BV) | [Custom Directives (CF)][5-1C] |  Review | Intro Angular Build (BV) | Angular Build (BV)
+ **9:00am <br> 10:30am** | [Client-side Routing (BV)][5-1A] |  [Custom Directives (CF)][5-1C] | Review (CF)  |  UX/WDI Collaboration (BV)  | [ Assessment and Angular Block Party (BV) ][5-4A]
+ **10:45am <br> 12:15pm** | Client-side Routing (BV) | [Custom Directives (CF)][5-1C] |  Review (CF) | Intro Angular Build (BV) | Angular Build (BV)
  **1:15pm <br> 2:45pm** | [Tunely-Angular Sprint 5 (CF)][5-1A] |  [Promises (BV)][5-2C] |  Review Build (AC) | Angular Build (CF) | Angular Build (CF)
 **3:00pm <br> 4:30pm** | [Tunely-Angular Sprint 5 (CF)][5-1A] | [Angular Services][5-2D] & [Services Training][5-2E] (BV)|   [Outcomes (MJ)][5-3D]  | Angular Build (CF) | Angular Build(CF)
 **Evening** | [Training][5-1E]  |  [Training][5-2F] | -- | Angular Build |  Angular Build
