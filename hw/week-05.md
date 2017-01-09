@@ -7,6 +7,8 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
+**link to submit in Monday's pulse check form: your angular book app repository**
+
 1. Finish Tunely-Angular sprint 5, through step 3 (deleting a song). Make sure you push your work to GitHub! 
 
 1. Get ready for promises! Spend about 40-60 minutes investigating promises with the resources below:
@@ -24,6 +26,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
+**link to submit in Tuesday's pulse check form: your tunely-angular repository**
 
 1. Practice with directives!  Choose another UI Bootstrap directive, and add it to your Cards Against Assembly app. Be sure to read the known issues for the directive you choose. Try using the directive's settings to customize it for your page. 
 
