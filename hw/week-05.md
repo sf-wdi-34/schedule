@@ -32,10 +32,19 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Spend an hour on the [book app service refactor](https://github.com/sf-wdi-34/angular-services-training) that you began this afternoon. Make sure to review [the solution branch](https://github.com/sf-wdi-34/angular-services-training/tree/solution-31). Additionally, read [the code from the ngResource solution branch](https://github.com/sf-wdi-34/angular-services-training/tree/ngResource-solution). This is a different approach that Angular provides that drastically reduces the complexity of the code you need to write, but inherently hides a lot of the specifics behind the Angular scenes. A `$resource` is automatically CRUD-able!
 
+1. Review! Prepare a question or question(s) you'd like to cover at the review session Wednesday morning!
+
 ### Wednesday
+
+Review. 
+
 
 ### Thursday
 
+Continue Angular build. 
+
 ### Weekend
+
+Finish Angular build.
 
 -->
