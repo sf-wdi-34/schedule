@@ -8,8 +8,8 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Client-side Routing (BV)][5-1A] |  [Custom Directives (CF)][5-2A] | Review (CF)  |  UX/WDI Collaboration (BV)  | [ Assessment and Angular Block Party (BV) ][5-4A]
- **10:45am <br> 12:15pm** | [Tunely Sprint 4 (BV)][5-1B] | [Custom Directives (CF)][5-1C] |  Review (CF) | Intro Angular Build (BV) | Angular Build (BV)
+ **9:00am <br> 10:30am** | [Client-side Routing (BV)][5-1A] |  [Custom Directives (CF)][5-2A] | Review (CF)  |  UX/WDI Collaboration (BV)  | Assessment and Angular Block Party (BV)
+ **10:45am <br> 12:15pm** | [Tunely-Angular Sprint 4 (BV)][5-1B] | [Custom Directives (CF)][5-1C] |  Review (CF) | Intro Angular Build (BV) | Angular Build (BV)
  **1:15pm <br> 2:45pm** | [Tunely-Angular Sprint 5 (CF)][5-1C] |  [Promises (BV)][5-2C] |  Review Build (AC) | Angular Build (CF) | Angular Build (CF)
 **3:00pm <br> 4:30pm** | [Tunely-Angular Sprint 5 (CF)][5-1D] | [Angular Services][5-2D] & [Services Training][5-2E] (BV)|   [Outcomes (MJ)][5-3D]  | Angular Build (CF) | Angular Build(CF)
 **Evening** | [Training][5-1E]  |  [Training][5-2F] | -- | Angular Build |  Angular Build
@@ -18,26 +18,26 @@
 [5-1B]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint4.md "..."
 [5-1C]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint5.md "..."
 [5-1D]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint5.md "..."
-[5-1E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#monday "..."
+[5-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-05.md#monday "..."
 
 [5-2A]: # "..."
 [5-2B]: https://github.com/sf-wdi-34/making-a-custom-directive "..."
 [5-2C]: https://github.com/sf-wdi-34/promises "..."
 [5-2D]: https://github.com/sf-wdi-34/angular-services "..."
 [5-2E]: https://github.com/sf-wdi-34/angular-services-training "..."
-[5-2F]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#tuesday "..."
+[5-2F]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-05.md#tuesday "..."
 
 [5-3A]: https://github.com/sf-wdi-34/angular-build/ "..."
 [5-3B]: # "..."
 [5-3C]: # "..."
 [5-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
-[5-3E]: # "..."
+[5-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-05.md#wednesday "..."
 
 [5-4A]: https://github.com/sf-wdi-34/block-party "..."
 [5-4B]: # "..."
 [5-4C]: # "..."
 [5-4D]: # "..."
-[5-4E]: # "..."
+[5-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-05.md#thursday "..."
 
 [5-5A]: # "..."
 [5-5B]: https://github.com/sf-wdi-34/intro-ruby "..."
