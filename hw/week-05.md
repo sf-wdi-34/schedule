@@ -6,6 +6,10 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Monday
 
+1. Finish Tunely-Angular through sprint 4.  
+
+1. 
+
 ### Tuesday
 
 ### Wednesday
