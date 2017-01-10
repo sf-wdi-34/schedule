@@ -20,8 +20,8 @@
 [5-1D]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint5.md "..."
 [5-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-05.md#monday "..."
 
-[5-2A]: https://github.com/sf-wdi-34/making-a-custom-directive "..."
-[5-2B]: https://github.com/sf-wdi-34/making-a-custom-directive "..."
+[5-2A]: https://github.com/sf-wdi-34/angular-custom-directives "..."
+[5-2B]: https://github.com/sf-wdi-34/angular-custom-directives "..."
 [5-2C]: https://github.com/sf-wdi-34/promises "..."
 [5-2D]: https://github.com/sf-wdi-34/angular-services "..."
 [5-2E]: https://github.com/sf-wdi-34/angular-services-training "..."
