@@ -7,7 +7,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **link to submit in Monday's pulse check form: your angular book app repository**
 
-1. Finish Tunely-Angular sprint 5, through step 3 (deleting a song). Make sure you push your work to GitHub! 
+1. Finish Tunely-Angular sprint 5, through step 3 (deleting a song). Make sure you push your work to GitHub!
 
 1. Get ready for promises! Spend about 40-60 minutes investigating promises with the resources below:
   * Read the first half of  this [cartoon explanation of promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html), by Andy Shora. (Stop before "What does this look like in code?")
@@ -21,17 +21,19 @@ The evening trainings and readings below will help you solidify work so far and/
   * How does promise "chaining" work?
   * Draw the life of a promise.  
 
-<!--
 
 ### Tuesday
 
 **link to submit in Tuesday's pulse check form: your tunely-angular repository**
 
-1. Practice with directives!  Choose another UI Bootstrap directive, and add it to your Cards Against Assembly app. Be sure to read the known issues for the directive you choose. Try using the directive's settings to customize it for your page.
+
+1. Review custom directives! Check out [the updated solution code](https://github.com/sf-wdi-34/angular-custom-directives/tree/master/solution-code/app) that includes a `<wdi-scoreboard>` directive that takes in an **array** rather than a string. Take 15 minutes to look through these solutions in detail and compare them to your work. Make an effort to follow the setup for the `<wdi-scoreboard>` directive.  Write down any questions to bring to class tomorrow.
 
 1. Spend an hour on the [book app service refactor](https://github.com/sf-wdi-34/angular-services-training) that you began this afternoon. Make sure to review [the solution branch](https://github.com/sf-wdi-34/angular-services-training/tree/solution-31). Additionally, read [the code from the ngResource solution branch](https://github.com/sf-wdi-34/angular-services-training/tree/ngResource-solution). This is a different approach that Angular provides that drastically reduces the complexity of the code you need to write, but inherently hides a lot of the specifics behind the Angular scenes. A `$resource` is automatically CRUD-able!
 
 1. Review! Prepare a question or question(s) you'd like to cover at the review session Wednesday morning!
+
+<!--
 
 ### Wednesday
 
