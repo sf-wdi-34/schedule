@@ -10,7 +10,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Client-side Routing (BV)][5-1A] |  [Custom Directives (CF)][5-2A] | Review (CF)  |  UX/WDI Collaboration (BV)  | Assessment and Angular Block Party (BV)
  **10:45am <br> 12:15pm** | [Tunely-Angular Sprint 4 (BV)][5-1B] | [Custom Directives (CF)][5-2B] |  Review (CF) | Intro Angular Build (BV) | Angular Build (BV)
- **1:15pm <br> 2:45pm** | [Tunely-Angular Sprint 5 (CF)][5-1C] |  [Promises (BV)][5-2C] |  Review Build (AC) | Angular Build (CF) | Angular Build (CF)
+ **1:15pm <br> 2:45pm** | [Tunely-Angular Sprint 5 (CF)][5-1C] |  [Promises (BV)][5-2C] |  Review Build: [Hangman][5-3C] (AC) | Angular Build (CF) | Angular Build (CF)
 **3:00pm <br> 4:30pm** | [Tunely-Angular Sprint 5 (CF)][5-1D] | [Angular Services][5-2D] & [Services Training][5-2E] (BV)|   [Outcomes (MJ)][5-3D]  | Angular Build (CF) | Angular Build(CF)
 **Evening** | [Training][5-1E]  |  [Training][5-2F] | -- | Angular Build |  Angular Build
 
@@ -29,7 +29,7 @@
 
 [5-3A]: https://github.com/sf-wdi-34/angular-build/ "..."
 [5-3B]: # "..."
-[5-3C]: # "..."
+[5-3C]: https://github.com/sf-wdi-34/ng-hangman "hangman"
 [5-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [5-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-05.md#wednesday "..."
 
