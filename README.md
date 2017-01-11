@@ -7,7 +7,7 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | No Class! |  Angular build show and tell (CF) | Ruby Methods (CF)  |  Ruby OOP (BV)  | Assessment and Review (BV)
+ **9:00am <br> 10:30am** | No Class! |  Angular build show and tell (CF) | [Ruby Methods (CF)][6-3A]  |  [Ruby OOP (BV)][6-4A]  | [Assessment and Review (BV)][6-5A]
  **10:45am <br> 12:15pm** | No Class! | [Angular wrap up (CF)][6-2B] |  [Ruby methods (CF)][6-3B] | [Ruby OOP (BV)][6-4B] | [RSpec Review (BV)][6-5B]
  **1:15pm <br> 2:45pm** | No Class! |  [Intro Ruby (BV)][6-2C] |  [Ruby Methods Drills][6-3C] (AC) | [Go-OP Fish(CF)][6-4C] | [Intro to Rails (BV)][6-5C]
 **3:00pm <br> 4:30pm** | No Class! | [Ruby Exploration (BV)][6-2D]|   [Outcomes (MJ)][6-3D]  | [RSpec (CF)][6-4D] | [Rails Tutorial (BV)][6-5D]
@@ -25,21 +25,21 @@
 [6-2D]: # "..."
 [6-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#tuesday "..."
 
-[6-3A]: # "..."
-[6-3B]: # "..."
-[6-3C]: # ""
+[6-3A]: https://github.com/sf-wdi-34/ruby-methods "Ruby methods"
+[6-3B]: https://github.com/sf-wdi-34/idiomatic-ruby "Idiomatic ruby"
+[6-3C]: https://github.com/sf-wdi-34/ruby_method_drills ""
 [6-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [6-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#wednesday "..."
 
-[6-4A]: # "..."
-[6-4B]: # "..."
-[6-4C]: # "..."
-[6-4D]: # "..."
+[6-4A]: https://github.com/sf-wdi-34/ruby-monster-oop "Monster OOP"
+[6-4B]: https://github.com/sf-wdi-34/ruby-monster-oop "Monster OOP"
+[6-4C]: https://github.com/sf-wdi-34/go-fish-card-game "Go Fish!"
+[6-4D]: https://github.com/sf-wdi-34/rspec "..."
 [6-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#thursday "..."
 
 [6-5A]: # "..."
 [6-5B]: # "..."
-[6-5C]: # "..."
+[6-5C]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
 [6-5D]: # "..."
 [6-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#weekend "..."
 
