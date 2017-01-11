@@ -272,3 +272,5 @@ No weekly checklist (project 1).
 [1-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-01.md#weekend "Weekend hw"
 
 [Weekly Objective Checklist](https://gist.github.com/bgveenstra/0d2b929d8561c9d6d08652c085491dd6)
+
+#/api
