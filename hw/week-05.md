@@ -33,12 +33,18 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Review! Prepare a question or question(s) you'd like to cover at the review session Wednesday morning!
 
-<!--
+
 
 ### Wednesday
 
-Review.
 
+**link to submit in Tuesday's pulse check form: your angular-services-training repository**
+
+1. Review. 
+
+1. Get excited for designing and building an Angular project with UXDi!
+
+<!--
 
 ### Thursday
 
