@@ -12,7 +12,7 @@
  **10:45am <br> 12:15pm** | [Tunely-Angular Sprint 4 (BV)][5-1B] | [Custom Directives (CF)][5-2B] |  Review (CF) | Intro Angular Build (BV) | Angular Build (BV)
  **1:15pm <br> 2:45pm** | [Tunely-Angular Sprint 5 (CF)][5-1C] |  [Promises (BV)][5-2C] |  Review Build: [Hangman][5-3C] (AC) | Angular Build (CF) | Angular Build (CF)
 **3:00pm <br> 4:30pm** | [Tunely-Angular Sprint 5 (CF)][5-1D] | [Angular Services][5-2D] & [Services Training][5-2E] (BV)|   [Outcomes (MJ)][5-3D]  | Angular Build (CF) | Angular Build(CF)
-**Evening** | [Training][5-1E]  |  [Training][5-2F] | -- | Angular Build |  Angular Build
+**Evening** | [Training][5-1E]  |  [Training][5-2F] | [Training][5-3E] | Angular Build |  Angular Build
 
 [5-1A]: https://github.com/sf-wdi-34/angular-routing "..."
 [5-1B]: https://github.com/sf-wdi-34/tunely-angular/blob/master/docs/sprint4.md "..."
