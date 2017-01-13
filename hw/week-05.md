@@ -38,18 +38,19 @@ The evening trainings and readings below will help you solidify work so far and/
 ### Wednesday
 
 
-**link to submit in Tuesday's pulse check form: your angular-services-training repository**
+**link to submit in Wednesday's pulse check form: your angular-services-training repository**
 
-1. Review. 
+1. Review.
 
 1. Get excited for designing and building an Angular project with UXDi!
 
-<!--
 
 ### Thursday
+**link to submit in Thursday's pulse check form: your angular hangman work...it's okay if you didn't get far**
 
-Continue Angular build.
+Continue working on your Angular build.
 
+<!--
 ### Weekend
 
 Finish Angular build.
