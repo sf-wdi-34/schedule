@@ -27,7 +27,7 @@
 
 [6-3A]: https://github.com/sf-wdi-34/ruby-methods "Ruby methods"
 [6-3B]: https://github.com/sf-wdi-34/idiomatic-ruby "Idiomatic ruby"
-[6-3C]: https://github.com/sf-wdi-34/ruby_method_drills ""
+[6-3C]: https://github.com/sf-wdi-34/ruby_method_drills "..."
 [6-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [6-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#wednesday "..."
 
