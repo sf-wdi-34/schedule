@@ -43,7 +43,7 @@
 [6-5D]: # "..."
 [6-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#weekend "..."
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/bgveenstra/ebaf497071dee8e8c9d84f63d57a4f5d)
 
 #### Week 5 - Getting Acute with Angular
 *or, Building Momentum with Angular*
