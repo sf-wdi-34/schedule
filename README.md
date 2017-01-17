@@ -22,7 +22,7 @@
 [6-2A]: # "..."
 [6-2B]: # "..."
 [6-2C]: https://github.com/sf-wdi-34/intro-ruby "..."
-[6-2D]: # "..."
+[6-2D]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#tuesday "..."
 [6-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#tuesday "..."
 
 [6-3A]: https://github.com/sf-wdi-34/ruby-methods "Ruby methods"
