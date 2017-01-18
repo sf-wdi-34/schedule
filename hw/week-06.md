@@ -11,7 +11,7 @@ The evening trainings and readings below will help you solidify work so far and/
  
 1. Work through this [arrays, hashes, and blocks](https://github.com/sf-wdi-34/ruby-arrays-hashes) guide. Don't just read it; try the code out in PRY. 
 
-1. Read over [Ruby methods](https://github.com/sf-wdi-34/ruby-methods) notes for tomorrow, and try the code samples in PRY. (Save the exercises for tomorrow.)
+1. Read over [Ruby methods](https://github.com/sf-wdi-34/ruby-methods) notes for tomorrow, and try the code samples in PRY. (Save these exercises for tomorrow - you can try some challenges on [codewars](https://www.codewars.com/?language=ruby) if you'd like.)
 
 1. Take about fifteen minutes (total) skimming through the following 3 free books on Ruby. Spend a little time really reading the table of contents (if there is one) and seeing what piques your interest. 
 
