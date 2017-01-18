@@ -9,13 +9,10 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend at least 30  minutes on this._
  
-1. Get as far as you can with the Ruby Koans listed below in 1-2 hours (set a time limit for yourself). See [this Ruby Koans writeup](https://github.com/sf-wdi-34/intro-ruby/blob/master/ruby-koans.md) for an explanation of Ruby Koans.
+1. Work through this [arrays, hashes, and blocks](https://github.com/sf-wdi-34/ruby-arrays-hashes) guide. Don't just read it; try the code out in PRY. 
 
- - About Asserts - `about_asserts.rb`. This will help you understand how the tests are working, but it's a new concept. Remember, don't get stuck.
- - About True and False - `about_true_and_false.rb`
- - About Nil - `about_nil.rb`
- - About Strings - `about_strings.rb`
- 
+1. Read over [Ruby methods](https://github.com/sf-wdi-34/ruby-methods) notes for tomorrow, and try the code samples in PRY. (Save the exercises for tomorrow.)
+
 1. Take about fifteen minutes (total) skimming through the following 3 free books on Ruby. Spend a little time really reading the table of contents (if there is one) and seeing what piques your interest. 
 
  - http://poignant.guide/book/chapter-1.html
