@@ -7,10 +7,10 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | No Class! |  Angular build show and tell (CF) | [Ruby Methods (CF)][6-3A]  |  [Ruby OOP (BV)][6-4A]  | [Assessment and Review (BV)][6-5A]
- **10:45am <br> 12:15pm** | No Class! | [Angular wrap up (CF)][6-2B] |  [Ruby methods (CF)][6-3B] | [Ruby OOP (BV)][6-4B] | [RSpec Review (BV)][6-5B]
+ **9:00am <br> 10:30am** | No Class! |  Angular build show and tell (CF) | [Ruby Methods (CF)][6-3A]  |  [Ruby OOP (BV)][6-4A]  | [RSpec (BV)][6-5A]
+ **10:45am <br> 12:15pm** | No Class! | [Angular wrap up (CF)][6-2B] |  [Ruby methods (CF)][6-3B] | [Ruby OOP (BV)][6-4B] | [RSpec (BV)][6-5B]
  **1:15pm <br> 2:45pm** | No Class! |  [Intro Ruby (BV)][6-2C] |  [Ruby Methods Drills][6-3C] (AC) | [Go-OP Fish(CF)][6-4C] | [Intro to Rails (BV)][6-5C]
-**3:00pm <br> 4:30pm** | No Class! | [Ruby Exploration (BV)][6-2D]|   [Outcomes (MJ)][6-3D]  | [RSpec (CF)][6-4D] | [Rails Tutorial (BV)][6-5D]
+**3:00pm <br> 4:30pm** | No Class! | [Ruby Exploration (BV)][6-2D]|   [Outcomes (MJ)][6-3D]  | Assessment & review (CF) | [Rails Tutorial (BV)][6-5D]
 **Evening** | [Training][6-1E]  |  [Training][6-2E] | [Training][6-3E] | [Training][6-4E] | [Training][6-5E]
 
 [6-1A]: # "..."
@@ -34,11 +34,11 @@
 [6-4A]: https://github.com/sf-wdi-34/ruby-monster-oop "Monster OOP"
 [6-4B]: https://github.com/sf-wdi-34/ruby-monster-oop "Monster OOP"
 [6-4C]: https://github.com/sf-wdi-34/go-fish-card-game "Go Fish!"
-[6-4D]: https://github.com/sf-wdi-34/rspec "..."
+[6-4D]: # "..."
 [6-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#thursday "..."
 
-[6-5A]: # "..."
-[6-5B]: # "..."
+[6-5A]: https://github.com/sf-wdi-34/rspec "..."
+[6-5B]: https://github.com/sf-wdi-34/rspec "..."
 [6-5C]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
 [6-5D]: # "..."
 [6-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#weekend "..."
