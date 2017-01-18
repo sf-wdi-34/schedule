@@ -5,6 +5,8 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
+**link to submit on Tuesday's pulse check: Angular weekend project GitHub**
+
 1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend at least 30  minutes on this._
  
 1. Get as far as you can with the Ruby Koans listed below in 1-2 hours (set a time limit for yourself). See [this Ruby Koans writeup](https://github.com/sf-wdi-34/intro-ruby/blob/master/ruby-koans.md) for an explanation of Ruby Koans.
