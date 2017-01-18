@@ -9,7 +9,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | No Class! |  Angular build show and tell (CF) | [Ruby Methods (CF)][6-3A]  |  [Ruby OOP (BV)][6-4A]  | [RSpec (BV)][6-5A]
  **10:45am <br> 12:15pm** | No Class! | [Angular wrap up (CF)][6-2B] |  Ruby Methods (CF) | [Ruby OOP (BV)][6-4B] | [RSpec (BV)][6-5B]
- **1:15pm <br> 2:45pm** | No Class! |  [Intro Ruby (BV)][6-2C] |  [Ruby Methods Drills][6-3C] (AC) | [Go-OP Fish(CF)][6-4C] | [Intro to Rails (BV)][6-5C]
+ **1:15pm <br> 2:45pm** | No Class! |  [Intro Ruby (BV)][6-2C] |  [Ruby Methods Drills][6-3C] (AC) | [Go-OP Fish(CF)][6-4C] | [Intro to Rails (JC - Guest!)][6-5C]
 **3:00pm <br> 4:30pm** | No Class! | [Ruby Exploration (BV)][6-2D]|   [Outcomes (MJ)][6-3D]  | Assessment & review (CF) | [Rails Tutorial (BV)][6-5D]
 **Evening** | [Training][6-1E]  |  [Training][6-2E] | [Training][6-3E] | [Training][6-4E] | [Training][6-5E]
 
