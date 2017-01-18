@@ -39,7 +39,7 @@
 
 [6-5A]: https://github.com/sf-wdi-34/rspec "..."
 [6-5B]: https://github.com/sf-wdi-34/rspec "..."
-[6-5C]: https://github.com/sf-wdi-31/rails-intro "Rails Intro"
+[6-5C]: https://github.com/sf-wdi-34/rails-intro "Rails Intro"
 [6-5D]: # "..."
 [6-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#weekend "..."
 
