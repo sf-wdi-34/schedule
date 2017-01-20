@@ -46,12 +46,12 @@
 [7-5D]: # "..."
 [7-5E]: # "HW"
 
+
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/9a1b733cf308260363bf45e1aff7da7f)
+
 <!--
 week 7 wdi 31
-
-
-[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
-
 [PWR-HR Flexbox (ML)](https://github.com/sf-wdi-34/ph-flexbox)
 
 Additional Resources: [Rspec "Racer" for Practice](https://github.com/sf-wdi-34/rspec-racer)
