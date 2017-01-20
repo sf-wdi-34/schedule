@@ -108,7 +108,7 @@ Additional Resources: [Hiding Secret Keys](https://github.com/sf-wdi-34/how-to-h
 [6-5B]: https://github.com/sf-wdi-34/rspec "..."
 [6-5C]: https://github.com/sf-wdi-34/rails-intro "Rails Intro"
 [6-5D]: # "..."
-[6-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-5-training.md#weekend "..."
+[6-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-06.md#weekend "..."
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/ebaf497071dee8e8c9d84f63d57a4f5d)
 
