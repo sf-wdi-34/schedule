@@ -15,73 +15,59 @@
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
 
-[7-1A]: https://github.com/sf-wdi-31/active-record "Active Record"
-[7-1B]: https://github.com/sf-wdi-31/active-record "Active Record"
-[7-1C]: https://github.com/sf-wdi-31/rails-views-and-helpers "..."
-[7-1D]: https://github.com/sf-wdi-31/rails_views_helpers_training "..."
-[7-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#thursday "Homework"
+[7-1A]: # "..."
+[7-1B]: # "..."
+[7-1C]: https://github.com/sf-wdi-34/active-record "Active Record"
+[7-1D]: https://github.com/sf-wdi-34/active-record "Active Record"
+[7-1E]: # "Homework"
 
-[7-2A]: https://docs.google.com/document/d/1KL3dtOHx0HYhwfQxzDKUEiRanAc83KM0nsdBKmXEksE/edit?usp=sharing "Solutions"
-[7-2B]: https://github.com/sf-wdi-31/make-a-gist "Make a gist review"
-[7-2C]: https://github.com/sf-wdi-31/rails-bog-app "..."
-[7-2D]: # "..."
+[7-2A]: https://github.com/sf-wdi-34/rails-views-and-helpers "..."
+[7-2B]: https://github.com/sf-wdi-34/rails_views_helpers_training "..."
+[7-2C]: https://github.com/sf-wdi-34/migrations "Migrations"
+[7-2D]: https://github.com/sf-wdi-34/guest-repo-1 "Migrations Activity"
 [7-2E]: # "..."
 
-[7-3A]: https://github.com/sf-wdi-31/migrations "Migrations"
-[7-3B]: https://github.com/sf-wdi-31/guest-repo-1 "Migrations Activity"
-[7-3C]: https://github.com/sf-wdi-31/rails-associations "Associations"
-[7-3D]: https://github.com/sf-wdi-31/rails-pet-lab "Association Lab"
-[7-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#monday "Monday HW"
+[7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
+[7-3B]: https://github.com/sf-wdi-34/rails-pet-lab "Association Lab"
+[7-3C]: # "bog app"
+[7-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[7-3E]: # "HW"
 
 
-[7-4A]: # "..."
-[7-4B]: https://github.com/sf-wdi-31/cookies-sessions "cookies and sessions"
-[7-4C]: https://github.com/sf-wdi-31/rails-auth "Rails Auth"
-[7-4D]: https://github.com/sf-wdi-31/public-library-app "Library app"
-[7-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#tuesday "Tuesday HW"
+[7-4A]: https://github.com/sf-wdi-34/rails-validations-errors "error handling & validations"
+[7-4B]: https://github.com/sf-wdi-34/cookies-sessions "cookies and sessions"
+[7-4C]: https://github.com/sf-wdi-34/rails-auth "Rails Auth"
+[7-4D]: https://github.com/sf-wdi-34/pwr-hr-auth "auth app"
+[7-4E]: https://github.com/sf-wdi-34/schedule/blob/master/week-7-training.md#tuesday "Tuesday HW"
 
-[7-5A]: https://github.com/sf-wdi-31/public-library-app/blob/master/2_library_users.md "Library app part 2"
-[7-5B]: # "..."
-[7-5C]: https://github.com/sf-wdi-31/rails-asset-pipeline
+[7-5A]: # "review"
+[7-5B]: # "review"
+[7-5C]: https://github.com/sf-wdi-34/public-library-app "library app"
 [7-5D]: # "..."
-[7-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#wednesday "Wednesday HW"
+[7-5E]: # "HW"
 
 <!--
-[7-4A]: https://github.com/sf-wdi-31/git-collaboration
-[7-4B]: # "..."
-[7-4C]: https://github.com/sf-wdi-31/project-vagabond "Project Vagabond"
-[7-4D]: # "..."
-[7-4E]: # "..."
-
-[7-5A]: https://github.com/sf-wdi-31/ruby-linked-list "..."
-[7-5B]: # "..."
-[7-5C]: # "..."
-[7-5D]: # "..."
-[7-5E]: # "..."
-
--->
-
 week 7 wdi 31
 
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
 
-[PWR-HR Flexbox (ML)](https://github.com/sf-wdi-31/ph-flexbox)
+[PWR-HR Flexbox (ML)](https://github.com/sf-wdi-34/ph-flexbox)
 
-Additional Resources: [Rspec "Racer" for Practice](https://github.com/sf-wdi-31/rspec-racer)
+Additional Resources: [Rspec "Racer" for Practice](https://github.com/sf-wdi-34/rspec-racer)
 
-week 8 wdi 31 
+week 8 wdi 31
 
 [Weekly Checklist](https://gist.github.com/bgveenstra/c51107a0e7721397a513d192317e15d6)
 
-[Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
+[Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-34/rails-validations-errors)
 
-[Pwr-Hr: Auth Review (ML)](https://github.com/sf-wdi-31/pwr-hr-auth)
+[Pwr-Hr: Auth Review (ML)]()
 
-Additional Resources: [Hiding Secret Keys](https://github.com/sf-wdi-31/how-to-hide-secrets)
+Additional Resources: [Hiding Secret Keys](https://github.com/sf-wdi-34/how-to-hide-secrets)
 
 
-
+-->
 
 
 #### Week 6 - Ruby
@@ -253,8 +239,8 @@ Additional Resources: [Hiding Secret Keys](https://github.com/sf-wdi-31/how-to-h
 
 <!-- removed drills
 
-https://github.com/sf-wdi-31/binary-search "Binary Search"
-https://github.com/sf-wdi-31/algorithm-complexity-and-big-o "Big O"
+https://github.com/sf-wdi-34/binary-search "Binary Search"
+https://github.com/sf-wdi-34/algorithm-complexity-and-big-o "Big O"
 
 -->
 No weekly checklist (project 1).
