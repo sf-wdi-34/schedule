@@ -72,6 +72,6 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. You should also take advantage of Rails's wonderful [**Guides**](http://guides.rubyonrails.org/). Look through the list of Rails Guides for about **5 minutes**. 
 
-1. Work through part of the Rails getting started guide, according to [this training](https://github.com/sf-wdi-34/rails-guides-training/blob/master/README.md). This will probably take **3-4** hours. 
+1. Work through part of the Rails getting started guide, according to [this training](https://github.com/sf-wdi-34/rails-guides-training/blob/master/README.md). This will probably take **3-4 hours**. 
 
 With extra time, reference the Getting Started guide to create another Rails app with a different resource instead of articles - maybe cell phones!
