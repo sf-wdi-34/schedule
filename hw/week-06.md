@@ -55,7 +55,7 @@ The evening trainings and readings below will help you solidify work so far and/
  ```
  describe Backpack
     it starts new backpacks with an empty list of contents
-      - expect a new backpack instance to have an empty contents list
+      - expect a new backpack instance to have an empty array for contents
     it has a color that doesn't change
       - expect to be able to get the color
       - expect not to be able to set the color
