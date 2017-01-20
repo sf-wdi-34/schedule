@@ -3,6 +3,87 @@
 # WDI 34 Schedule
 
 
+
+#### Week 7 - Rails
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Ruby & Rails Review (BV)][7-1A] |  [Rails Views & Helpers (BV)][7-2B] | [Associations (BV)][7-3A] | [Error Handling & Validations (CF) ][7-4A] | [Review (CF)][7-5A]
+ **10:45am <br> 12:15pm** | [Ruby & Rails Review (BV)][7-1B] | [Rails Views & Helpers (BV)][7-2B] | [Associations (BV)][7-3B] | [Cookies & Sessions (CF)][7-4B] | Review (CF)
+ **1:15pm <br> 2:45pm** | [Active Record (CF)][7-1C] |  [Migrations (CF)][7-2C] |  [Bog App (AC)][7-3C] | [Auth (BV)][7-4C] | [Library App (BV)][7-5C]
+**3:00pm <br> 4:30pm** | [Active Record (CF)][7-1D] | [Migrations (CF)][7-2D] |   [Outcomes (MJ)][7-3D] | [Auth (BV)][7-4D] | Library App (BV)
+**Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
+
+
+[7-1A]: https://github.com/sf-wdi-31/active-record "Active Record"
+[7-1B]: https://github.com/sf-wdi-31/active-record "Active Record"
+[7-1C]: https://github.com/sf-wdi-31/rails-views-and-helpers "..."
+[7-1D]: https://github.com/sf-wdi-31/rails_views_helpers_training "..."
+[7-1E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#thursday "Homework"
+
+[7-2A]: https://docs.google.com/document/d/1KL3dtOHx0HYhwfQxzDKUEiRanAc83KM0nsdBKmXEksE/edit?usp=sharing "Solutions"
+[7-2B]: https://github.com/sf-wdi-31/make-a-gist "Make a gist review"
+[7-2C]: https://github.com/sf-wdi-31/rails-bog-app "..."
+[7-2D]: # "..."
+[7-2E]: # "..."
+
+[7-3A]: https://github.com/sf-wdi-31/migrations "Migrations"
+[7-3B]: https://github.com/sf-wdi-31/guest-repo-1 "Migrations Activity"
+[7-3C]: https://github.com/sf-wdi-31/rails-associations "Associations"
+[7-3D]: https://github.com/sf-wdi-31/rails-pet-lab "Association Lab"
+[7-3E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#monday "Monday HW"
+
+
+[7-4A]: # "..."
+[7-4B]: https://github.com/sf-wdi-31/cookies-sessions "cookies and sessions"
+[7-4C]: https://github.com/sf-wdi-31/rails-auth "Rails Auth"
+[7-4D]: https://github.com/sf-wdi-31/public-library-app "Library app"
+[7-4E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#tuesday "Tuesday HW"
+
+[7-5A]: https://github.com/sf-wdi-31/public-library-app/blob/master/2_library_users.md "Library app part 2"
+[7-5B]: # "..."
+[7-5C]: https://github.com/sf-wdi-31/rails-asset-pipeline
+[7-5D]: # "..."
+[7-5E]: https://github.com/sf-wdi-31/schedule/blob/master/week-7-training.md#wednesday "Wednesday HW"
+
+<!--
+[7-4A]: https://github.com/sf-wdi-31/git-collaboration
+[7-4B]: # "..."
+[7-4C]: https://github.com/sf-wdi-31/project-vagabond "Project Vagabond"
+[7-4D]: # "..."
+[7-4E]: # "..."
+
+[7-5A]: https://github.com/sf-wdi-31/ruby-linked-list "..."
+[7-5B]: # "..."
+[7-5C]: # "..."
+[7-5D]: # "..."
+[7-5E]: # "..."
+
+-->
+
+week 7 wdi 31
+
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/0db460513517651439d638a42315340b)
+
+[PWR-HR Flexbox (ML)](https://github.com/sf-wdi-31/ph-flexbox)
+
+Additional Resources: [Rspec "Racer" for Practice](https://github.com/sf-wdi-31/rspec-racer)
+
+week 8 wdi 31 
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/c51107a0e7721397a513d192317e15d6)
+
+[Pwr-Hr: Error-Handling and Validations (ML)](https://github.com/sf-wdi-31/rails-validations-errors)
+
+[Pwr-Hr: Auth Review (ML)](https://github.com/sf-wdi-31/pwr-hr-auth)
+
+Additional Resources: [Hiding Secret Keys](https://github.com/sf-wdi-31/how-to-hide-secrets)
+
+
+
+
+
 #### Week 6 - Ruby
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
