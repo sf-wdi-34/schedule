@@ -42,14 +42,28 @@ The evening trainings and readings below will help you solidify work so far and/
 
 2. Finish at least the <b>first 3 methods in each of the exercises</b> of the [ruby method drills](https://github.com/sf-wdi-34/ruby_method_drills). Optionally, you can challenge yourself to take on more of these drills tongiht.  Continue working through these drills when you have time this week. 
 
-<!--
-
 ### Thursday
 
-1. Read through the [test code](https://github.com/sf-wdi-31/go-fish-card-game) from this afternoon's go fish training. Using that example,  some [documentation for the basic structure of an rspec test](https://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/basic-structure-describe-it), and the structure of [expectations](http://www.relishapp.com/rspec/rspec-expectations/docs), come up with explanations for the following Rspec methods:  `describe`, `context`, `it`, `expect`.  This should take about **30 minutes**.
+**link to submit on Thursday's pulse check:** your ruby method drills repository
 
-1. Write tests for a ________________ class with attributes _____  and _____ and methods _____________ and _______. Make sure your tests document what each part of the class should do!
+1. Read through the [solution code](https://github.com/sf-wdi-34/go-fish-card-game/blob/master/solution/go_fish.rb) from this afternoon's go fish training. Also, run the code! Write down two questions and one thing you learned from the solution. 
 
+1. Read through the [test code](https://github.com/sf-wdi-34/go-fish-card-game/tree/master/spec) from this afternoon's go fish training. Using that example,  some [documentation for the basic structure of an rspec test](https://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/basic-structure-describe-it), and the structure of [expectations](http://www.relishapp.com/rspec/rspec-expectations/docs), come up with basic explanations for the following Rspec methods:  `describe`, `context`, `it`, `expect`.  This should take about 30 minutes. 
+
+1. Choose an item you are familiar with - like a jacket, backpack, table, etc.  Pseudocode tests for a Ruby class based on that object. Write down 5 "expect" lines for the object (or 8 if you chose a backpack). This should take about 10-20 minutes. An example might be:
+
+ ```
+ describe Backpack
+    it starts new backpacks with an empty list of contents
+      - expect a new backpack instance to have an empty contents list
+    it has a color that doesn't change
+      - expect to be able to get the color
+      - expect not to be able to set the color
+ ```
+ 
+
+
+<!--
 
 ### Weekend
 
