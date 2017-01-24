@@ -19,32 +19,32 @@
 [7-1B]: https://github.com/sf-wdi-34/rails-guides-training/blob/master/README.md "Rails Review"
 [7-1C]: https://github.com/sf-wdi-34/active-record "Active Record"
 [7-1D]: https://github.com/sf-wdi-34/active-record "Active Record"
-[7-1E]: https://github.com/sf-wdi-34/schedule/blob/master/week-07.md#monday "Homework"
+[7-1E]: https://github.com/sf-wdi-34/scheduleblob/master/hw/week-07.md#monday "Homework"
 
 [7-2A]: https://github.com/sf-wdi-34/rails-views-and-helpers "..."
 [7-2B]: https://github.com/sf-wdi-34/rails_views_helpers_training "..."
 [7-2C]: https://github.com/sf-wdi-34/migrations "Migrations"
 [7-2D]: https://github.com/sf-wdi-34/guest-repo-1 "Migrations Activity"
-[7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/week-07.md#tuesday "..."
+[7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#tuesday "..."
 
 [7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
 [7-3B]: https://github.com/sf-wdi-34/rails-pet-lab "Association Lab"
 [7-3C]: # "bog app"
 [7-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
-[7-3E]: https://github.com/sf-wdi-34/schedule/blob/master/week-07.md#wednesday "HW"
+[7-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#wednesday "HW"
 
 
 [7-4A]: https://github.com/sf-wdi-34/rails-validations-errors "error handling & validations"
 [7-4B]: https://github.com/sf-wdi-34/cookies-sessions "cookies and sessions"
 [7-4C]: https://github.com/sf-wdi-34/rails-auth "Rails Auth"
 [7-4D]: https://github.com/sf-wdi-34/pwr-hr-auth "auth app"
-[7-4E]: https://github.com/sf-wdi-34/schedule/blob/master/week-07.md#thursday "Tuesday HW"
+[7-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#thursday "Tuesday HW"
 
 [7-5A]: # "review"
 [7-5B]: # "review"
 [7-5C]: https://github.com/sf-wdi-34/public-library-app "library app"
 [7-5D]: # "..."
-[7-5E]: https://github.com/sf-wdi-34/schedule/blob/master/week-07.md#weekend "HW"
+[7-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#weekend "HW"
 
 
 
