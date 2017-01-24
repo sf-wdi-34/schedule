@@ -2,7 +2,7 @@
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
-<!--
+
 
 ### Monday
 
@@ -14,6 +14,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Read chapters 1-2 of the Rails Guide on [Migrations](http://guides.rubyonrails.org/active_record_migrations.html). Write down 2 questions and 2 important term definitions you learned. 
 
+<!--
 
 ### Tuesday
 
