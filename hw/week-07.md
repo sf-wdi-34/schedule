@@ -30,7 +30,7 @@ The evening trainings and readings below will help you solidify work so far and/
   - 2.4 The `has_many :through` Association
   - 2.10 Self Joins
   
-<!--
+
 
 ### Wednesday
 
@@ -43,6 +43,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * Read chapter 1 closely.
   * Skim through chapters 2 and 3. Pick three methods from chapter 2 and use them one one or more of the models in your aquarium app (from migrations).
 
+<!--
 ### Thursday
 
 ### Weekend
