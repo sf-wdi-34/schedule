@@ -14,11 +14,27 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Read chapters 1-2 of the Rails Guide on [Migrations](http://guides.rubyonrails.org/active_record_migrations.html). Write down 2 questions and 2 important term definitions you learned. 
 
-<!--
+
 
 ### Tuesday
 
+**link to submit in Tuesday's pulse check:** your GitHub repo for the [conference speaker app](https://github.com/sf-wdi-34/active-record).
+
+1. Finish the "Steps to Refactor" listed in the [Rails Views & Helpers training](https://github.com/sf-wdi-34/rails_views_helpers_training). Remember to refrence the external resources and the class glossary/cheatsheet. Set a time limit for each task to attempt it without looking at the solutions (maybe 20 minutes), then compare your approach to the solution and make sure you understand how to complete the task. 
+
+1. If you haven't yet, create a GitHub repository for the aquarium app you made this afternoon. Finish "Independent Practice" from the afternoon's [Migrations workshop](https://github.com/sf-wdi-34/migrations). Commit your app frequently, and push all of your changes to GitHub when you're done. 
+
+1. Read Chapter 1 (Why Associations?) from the [Active Record Associations Rails Guide](http://guides.rubyonrails.org/association_basics.html).  Then, skim through the following sections:
+  - 2.1 The `belongs_to` Association
+  - 2.3 The `has_many` Association
+  - 2.4 The `has_many :through` Association
+  - 2.10 Self Joins
+  
+<!--
+
 ### Wednesday
+
+**link to submit in Wednesday's pulse check:** a GitHub repo for the app you made to practice migrations
 
 ### Thursday
 
