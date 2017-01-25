@@ -10,7 +10,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Idiomatic Ruby Review (BV)][7-1A] |  [Rails Views & Helpers (BV)][7-2A] | [Associations (BV)][7-3A] | [Error Handling & Validations (CF) ][7-4A] | [Review (CF)][7-5A]
  **10:45am <br> 12:15pm** | [Rails Review (BV)][7-1B] | [Rails Views & Helpers Training (BV)][7-2B] | [Associations (BV)][7-3B] | [Cookies & Sessions (CF)][7-4B] | Review (CF)
- **1:15pm <br> 2:45pm** | [Active Record (CF)][7-1C] |  [Migrations (CF)][7-2C] |  [Pet Lab Part 1 (AC)][7-3C] | [Auth (BV)][7-4C] | [Library App (BV)][7-5C]
+ **1:15pm <br> 2:45pm** | [Active Record (CF)][7-1C] |  [Migrations (CF)][7-2C] |  [Bog App (AC)][7-3C] | [Auth (BV)][7-4C] | [Library App (BV)][7-5C]
 **3:00pm <br> 4:30pm** | [Active Record (CF)][7-1D] | [Migrations (CF)][7-2D] |   [Outcomes (MJ)][7-3D] | [Auth (BV)][7-4D] | Library App (BV)
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
@@ -24,12 +24,12 @@
 [7-2A]: https://github.com/sf-wdi-34/rails-views-and-helpers "..."
 [7-2B]: https://github.com/sf-wdi-34/rails_views_helpers_training "..."
 [7-2C]: https://github.com/sf-wdi-34/migrations "Migrations"
-[7-2D]: https://github.com/sf-wdi-34/guest-repo-1 "Migrations Activity"
+[7-2D]:  "Migrations Activity"
 [7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#tuesday "..."
 
 [7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
-[7-3B]: https://github.com/sf-wdi-34/rails-associations "Associations"
-[7-3C]: https://github.com/sf-wdi-34/rails-pet-lab "Association Pet Lab"
+[7-3B]: https://github.com/sf-wdi-34/rails-pet-lab "Association Lab"
+[7-3C]: # "bog app"
 [7-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [7-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#wednesday "HW"
 
@@ -381,3 +381,50 @@ No weekly checklist (project 1).
 [1-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-01.md#weekend "Weekend hw"
 
 [Weekly Objective Checklist](https://gist.github.com/bgveenstra/0d2b929d8561c9d6d08652c085491dd6)
+
+
+<!--
+#### Week 1 - Fundamentals and Tools
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [Some lesson][1-1A]| [Lesson (NAME)][1-2A]  | [Lesson (CF)][1-3A] | [Lesson (NAME)][1-4A] | [Lesson (NAME)][1-5A]
+**10:45am <br> 12:15pm** | [Lesson (NAME)][1-1B] | [Lesson (Name)][1-2B] | [Lesson (NAME)][1-3B] | [Lesson (Name)][1-4B] | [Formative Assessment & Review (NAME)][1-5B]
+**1:15pm <br> 2:45pm** | [Lesson (NAME)][1-1C] |  [Lesson (NAME)][1-2C] | [Lesson (NAME)][1-3C] | [Lesson (NAME)][1-4C] | [Lesson (NAME)][1-5C]
+**3:00pm <br> 4:30pm** | [Lesson (NAME)][1-1D] | [Lesson (NAME)][1-2D] | Lesson | [Lesson (NAME)][1-4D] | [Lesson (NAME)][1-5D]   
+**Evening** | [Training][1-1E] | [Training][1-2E]  | [Training][1-3E] | [Training][1-4E] | [Training][1-5E]
+
+
+
+[1-1A]: # "..."
+[1-1B]: # "..."
+[1-1C]: # "..."
+[1-1D]: # "..."
+[1-1E]: # "Mon HW"
+
+[1-2A]: # "..."
+[1-2B]: # "..."
+[1-2C]: # "..."
+[1-2D]: # "..."
+[1-2E]: # "Tues HW"
+
+[1-3A]: # "..."
+[1-3B]: # "..."
+[1-3C]: # "..."
+[1-3E]: # "Wed HW"
+
+[1-4A]: # "..."
+[1-4B]: # "..."
+[1-4C]: # "..."
+[1-4D]: # "..."
+[1-4E]: # "Thurs HW"
+
+[1-5A]: # "..."
+[1-5B]: # "..."
+[1-5C]: # "..."
+[1-5D]: # "..."
+[1-5E]: # "Weekend HW"
+
+[Weekly Objective Checklist](#)
+
+ -->
