@@ -3,6 +3,51 @@
 # WDI 34 Schedule
 
 
+#### Week 9 - Projects!
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [Stacks][9-1A]| [Queues (NAME)][9-2A]  | [ Hash Maps(NAME)][9-3A] | [Whiteboarding practice (NAME)][9-4A] | [Trees & Graphs (NAME)][9-5A]
+**10:45am <br> 12:15pm** | [ Vagabond (NAME)][9-1B] | [Lightning Talks & Proj. 2 Pitches  (Name)][9-2B] | [Project 2 (NAME)][9-3B] | [Project 2 (Name)][9-4B] | [Project 2 (NAME)][9-5B]
+**1:15pm <br> 2:45pm** | [Vagabond Presentations & Peer Feedback (NAME)][9-1C] |  [Project 2 Planning (NAME)][9-2C] | [Project 2 (NAME)][9-3C] | [Project 2 (NAME)][9-4C] | [Project 2 (NAME)][9-5C]
+**3:00pm <br> 4:30pm** | [Prep lightning talk & pitches (NAME)][9-1D] | [Project 2 planning (NAME)][9-2D] | [Outcomes (MJ)][9-3D] | [Proejct 2 (NAME)][9-4D] | [Project 2 (NAME)][9-5D]   
+**Evening** | [Training][9-1E] | [Training][9-2E]  | [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
+
+
+
+[9-1A]: # "..."
+[9-1B]: # "..."
+[9-1C]: # "..."
+[9-1D]: # "..."
+[9-1E]: # "Mon HW"
+
+[9-2A]: # "..."
+[9-2B]: # "..."
+[9-2C]: # "..."
+[9-2D]: # "..."
+[9-2E]: # "Tues HW"
+
+[9-3A]: # "..."
+[9-3B]: # "..."
+[9-3C]: # "..."
+[9-3D]: # "..."
+[9-3E]: # "Wed HW"
+
+[9-4A]: # "..."
+[9-4B]: # "..."
+[9-4C]: # "..."
+[9-4D]: # "..."
+[9-4E]: # "Thurs HW"
+
+[9-5A]: # "..."
+[9-5B]: # "..."
+[9-5C]: # "..."
+[9-5D]: # "..."
+[9-5E]: # "Weekend HW"
+
+[Weekly Objective Checklist](#)
+
+
 
 #### Week 7 - Rails
 
@@ -391,7 +436,7 @@ No weekly checklist (project 1).
 **9:00am <br> 10:30am** | [Some lesson][1-1A]| [Lesson (NAME)][1-2A]  | [Lesson (CF)][1-3A] | [Lesson (NAME)][1-4A] | [Lesson (NAME)][1-5A]
 **10:45am <br> 12:15pm** | [Lesson (NAME)][1-1B] | [Lesson (Name)][1-2B] | [Lesson (NAME)][1-3B] | [Lesson (Name)][1-4B] | [Formative Assessment & Review (NAME)][1-5B]
 **1:15pm <br> 2:45pm** | [Lesson (NAME)][1-1C] |  [Lesson (NAME)][1-2C] | [Lesson (NAME)][1-3C] | [Lesson (NAME)][1-4C] | [Lesson (NAME)][1-5C]
-**3:00pm <br> 4:30pm** | [Lesson (NAME)][1-1D] | [Lesson (NAME)][1-2D] | Lesson | [Lesson (NAME)][1-4D] | [Lesson (NAME)][1-5D]   
+**3:00pm <br> 4:30pm** | [Lesson (NAME)][1-1D] | [Lesson (NAME)][1-2D] | [Lesson (NAME)][1-3D] | [Lesson (NAME)][1-4D] | [Lesson (NAME)][1-5D]   
 **Evening** | [Training][1-1E] | [Training][1-2E]  | [Training][1-3E] | [Training][1-4E] | [Training][1-5E]
 
 
@@ -411,6 +456,7 @@ No weekly checklist (project 1).
 [1-3A]: # "..."
 [1-3B]: # "..."
 [1-3C]: # "..."
+[1-3D]: # "..."
 [1-3E]: # "Wed HW"
 
 [1-4A]: # "..."
