@@ -10,7 +10,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Idiomatic Ruby Review (BV)][7-1A] |  [Rails Views & Helpers (BV)][7-2A] | [Associations (BV)][7-3A] | [Error Handling & Validations (CF) ][7-4A] | [Review (CF)][7-5A]
  **10:45am <br> 12:15pm** | [Rails Review (BV)][7-1B] | [Rails Views & Helpers Training (BV)][7-2B] | [Associations (BV)][7-3B] | [Cookies & Sessions (CF)][7-4B] | Review (CF)
- **1:15pm <br> 2:45pm** | [Active Record (CF)][7-1C] |  [Migrations (CF)][7-2C] |  [Continue Pet Lab (AC)][7-3C] | [Auth (BV)][7-4C] | [Library App (BV)][7-5C]
+ **1:15pm <br> 2:45pm** | [Active Record (CF)][7-1C] |  [Migrations (CF)][7-2C] |  [Pet Lab Part 1 (AC)][7-3C] | [Auth (BV)][7-4C] | [Library App (BV)][7-5C]
 **3:00pm <br> 4:30pm** | [Active Record (CF)][7-1D] | [Migrations (CF)][7-2D] |   [Outcomes (MJ)][7-3D] | [Auth (BV)][7-4D] | Library App (BV)
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
@@ -28,7 +28,7 @@
 [7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#tuesday "..."
 
 [7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
-[7-3B]: https://github.com/sf-wdi-34/rails-pet-lab "Association Pet Lab"
+[7-3B]: https://github.com/sf-wdi-34/rails-associations "Associations"
 [7-3C]: https://github.com/sf-wdi-34/rails-pet-lab "Association Pet Lab"
 [7-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [7-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#wednesday "HW"
