@@ -30,6 +30,7 @@ The evening trainings and readings below will help you solidify work so far and/
   - 2.3 The `has_many` Association
   - 2.4 The `has_many :through` Association
   - 2.10 Self Joins
+  
 <!--
 
 ### Wednesday
