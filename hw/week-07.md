@@ -34,7 +34,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Wednesday
 
-**link to submit in Wednesday's pulse check:** a GitHub repo for the app you made to practice migrations
+**link to submit in Wednesday's pulse check:** a GitHub repo for aquarium the app you made to practice migrations
 
 1. Finish Part 1 of the [Pet Lab](https://github.com/sf-wdi-34/rails-pet-lab).
 
