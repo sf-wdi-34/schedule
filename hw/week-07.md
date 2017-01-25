@@ -24,8 +24,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. If you haven't yet, create a GitHub repository for the aquarium app you made this afternoon. Finish "Independent Practice" from the afternoon's [Migrations workshop](https://github.com/sf-wdi-34/migrations). Commit your app frequently, and push all of your changes to GitHub when you're done. 
 
-1. Read the following parts of the [Active Record Associations Rails Guide](http://guides.rubyonrails.org/association_basics.html):
-  - chapter 1: Why Associations
+1. Read Chapter 1 (Why Associations?) from the [Active Record Associations Rails Guide](http://guides.rubyonrails.org/association_basics.html).  Then, skim through the following sections:
   - 2.1 The `belongs_to` Association
   - 2.3 The `has_many` Association
   - 2.4 The `has_many :through` Association
