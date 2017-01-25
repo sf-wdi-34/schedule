@@ -36,6 +36,13 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **link to submit in Wednesday's pulse check:** a GitHub repo for the app you made to practice migrations
 
+1. Finish Part 1 of the [Pet Lab](https://github.com/sf-wdi-34/rails-pet-lab).
+
+1. Check out the [Active Record Validations Rails guide](http://guides.rubyonrails.org/active_record_validations.html):
+
+  * Read chapter 1 closely.
+  * Skim through chapters 2 and 3. Pick three methods from chapter 2 and use them one one or more of the models in your aquarium app (from migrations).
+
 ### Thursday
 
 ### Weekend
