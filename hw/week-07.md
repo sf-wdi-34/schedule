@@ -43,7 +43,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * Read chapter 1 closely.
   * Skim through chapters 2 and 3. Pick three methods from chapter 2 and use them one one or more of the models in your aquarium app (from migrations).
 
-<!--
+
 ### Thursday
 
 **link to submit in Wednesday's pulse check:** your work from part 1 of the pet lab
@@ -56,7 +56,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * Read through the Rails guides for any topics that are still stumping you.
   * Come to class with 2 questions that remain from this week's topics.
 
-
+<!--
 ### Weekend
 
 -->
