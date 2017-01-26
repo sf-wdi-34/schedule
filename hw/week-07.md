@@ -46,6 +46,17 @@ The evening trainings and readings below will help you solidify work so far and/
 <!--
 ### Thursday
 
+**link to submit in Wednesday's pulse check:** your work from part 1 of the pet lab
+
+1. Finish adding authentication to either your aquarium app or your pet app. Users should be able to sign up, log in, and log out.
+
+1. Review the material that was covered this week:
+  * Look at the [weekly objectives checklist](https://gist.github.com/bgveenstra/9a1b733cf308260363bf45e1aff7da7f) for a specific list of the topics we covered.
+  * Review the class notes and homework.
+  * Read through the Rails guides for any topics that are still stumping you.
+  * Come to class with 2 questions that remain from this week's topics.
+
+
 ### Weekend
 
 -->
