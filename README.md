@@ -4,6 +4,51 @@
 
 
 
+
+#### Week 8 - Vagabond
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Library App Review (CF)][8-1A] |  [Rspec with Rails (BV)][8-2A] | [Bubble Sort (CF)][8-3A] | [Merge (BV)][8-4A] | [Recursion & Mergesort (CF)][8-5A]
+ **10:45am <br> 12:15pm** | [Lightning Talks (CF)][8-1B] | [Rspec with Rails Training (BV)][8-2B] | Vagabond (CF) | Vagabond (BV) | Vagabond (CF)
+ **1:15pm <br> 2:45pm** | [Asset Pipeline (BV)][8-1C] |  Vagabond (CF) |  [Pet Lab Part 1 (AC)][8-3C] | Vagabond (CF) | Vagabond (BV)
+**3:00pm <br> 4:30pm** | [Asset Pipeline Poem (BV)][8-1D] | Vagabond (CF) |   [Outcomes (MJ)][8-3D] | Vagabond (CF) | Vagabond (BV)
+**Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
+
+[8-1A]: https://github.com/sf-wdi-34/public-library-app  "Library App Review"
+[8-1B]: # "Lightning Talks"
+[8-1C]: https://github.com/sf-wdi-34/rails-asset-pipeline "Asset Pipeline"
+[8-1D]: # "Asset Pipeline Poem"
+[8-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#monday "Homework"
+
+[8-2A]: # "Rspec Rails"
+[8-2B]: # "Rspec Rails Training"
+[8-2C]: # "Vagabond"
+[8-2D]: # "..."
+[8-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#tuesday "..."
+
+[8-3A]: # "Bubble Sort"
+[8-3B]: # "..."
+[8-3C]: # "..."
+[8-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[8-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#wednesday "HW"
+
+[8-4A]: # "Merge"
+[8-4B]: # "..."
+[8-4C]: # "..."
+[8-4D]: # "..."
+[8-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
+
+[8-5A]: # "Recursion & Mergesort"
+[8-5B]: # "..."
+[8-5C]: # "..."
+[8-5D]: # "..."
+[8-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#weekend "HW"
+
+[Weekly Checklist](#)
+
+
+
 #### Week 7 - Rails
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
