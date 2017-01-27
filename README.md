@@ -5,9 +5,11 @@
 
 #### Week 9 - Projects!
 
+**fix names drills**
+
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 10:30am** | [Stacks (CF) ][9-1A]| [Queues (CF)][9-2A]  | [ Hash Maps(BV)][9-3A] | [Whiteboarding practice (CF)][9-4A] | [Trees & Graphs (BV)][9-5A]
+**9:00am <br> 10:30am** | [Linked Lists (NAME) ][9-1A]| [Stacks (CF) ][9-1A]| [Queues (CF)][9-2A]  | [ Hash Maps(BV)][9-3A] | [Trees & Graphs (BV)][9-5A]
 **10:45am <br> 12:15pm** | [ Vagabond (CF)][9-1B] | [Lightning Talks & Proj. 2 Pitches  (CF)][9-2B] | [Project 2 (BV)][9-3B] | [Project 2 (CF)][9-4B] | [Project 2 (BV)][9-5B]
 **1:15pm <br> 2:45pm** | [Vagabond Presentations & Peer Feedback (BV)][9-1C] |  [Project 2 Planning (BV)][9-2C] | [Project 2 ][9-3C] | [Project 2 (BV)][9-4C] | [Project 2 (CF)][9-5C]
 **3:00pm <br> 4:30pm** | [Prep lightning talk & pitches (BV)][9-1D] | [Project 2 planning (BV)][9-2D] | [Outcomes (MJ)][9-3D] | [Proejct 2 (BV)][9-4D] | [Project 2 (CF)][9-5D]   
