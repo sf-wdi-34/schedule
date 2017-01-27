@@ -45,7 +45,7 @@
 [8-5D]: # "..."
 [8-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#weekend "HW"
 
-[Weekly Checklist](#)
+[Weekly Checklist](https://gist.github.com/bgveenstra/20697a708ccddace4605b9c96543f8f3)
 
 
 
