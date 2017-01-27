@@ -61,9 +61,18 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Research a gem for your [lightning talk](https://github.com/sf-wdi-34/ruby-lightning-talks)!  Remember to [claim the gem in the google doc](https://docs.google.com/spreadsheets/d/1L-gFsFvXYKqLjJe28th0F98fgQJ3rZ3XwlXTlr7jquc/edit) as soon as you know which gem you want to look into.
 
-1. Work through the [public library app](https://github.com/sf-wdi-34/public_library_app) to build your Rails muscle memory.  You will be building the app at least 2 times, each time gaining skills through repetition. Here's how we want you to work:
+1. Work through the [public library app](https://github.com/sf-wdi-34/public_library_app) to build your Rails muscle memory.  **You will be building the more than once, gaining skills through repetition.**  Time how long it takes you to complete the app the first time.  
+ 
+  * Don't do the bonuses on your first run. 
+  * Use as many hints as you'd like to check your work and make sure you get through the lab smoothly, and feel free to reference the solution branch for the part you're on. 
+  * Commit your work along the way and at the conclusion. 
+  * Once you're finished with the requirements for both parts, edit the README to include your time.
+ 
+1. Create a new `second-lib-app` project. Go through the lab another time, timing yourself again.  **Get as far as you can in 8 total hours of work including your first and second runs.** 
 
-  * Start by making a `lib-app` project. Move through the instructions and prompts below to build your app.  Time how long it takes you to complete the app.  (Don't do the bonuses on your first run.) Use as many hints as you'd like to check your work and make sure you get through the lab smoothly, and feel free to reference the solution branch for the part you're on. Commit your work along the way and at the conclusion. Once you're finished with the requirements for both parts, edit the README to include your time.
-  * Next, create a new `second-lib-app` project. Go through the lab another time, timing yourself again.  Push yourself to peek at the hints and solutions less; you can look at your own first project if you're stuck.  Again, make sure to commit your work.  You should have roughly the same number of commits as you had on your first run. Version control isn't the place to cut corners!  Once you're finished with the requirements for both parts, edit the README to include your time.  After that, try bonuses if you'd like!
+  * Push yourself to peek at the hints and solutions less; you can look at your own first project if you're stuck.  
+  * Again, make sure to commit your work.  You should have roughly the same number of commits as you had on your first run. Version control isn't the place to cut corners!  
+  * Once you're finished with the requirements for both parts, edit the README to include your time. 
+  * After that, try bonuses if you'd like!
 
   
