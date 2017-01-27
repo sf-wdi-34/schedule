@@ -71,7 +71,7 @@ The evening trainings and readings below will help you solidify work so far and/
 1. Create a new `second-lib-app` project. Go through the lab another time, timing yourself again.  **Get as far as you can in 8 total hours of work including your first and second runs.** 
 
   * Push yourself to peek at the hints and solutions less; you can look at your own first project if you're stuck.  
-  * Again, make sure to commit your work.  You should have roughly the same number of commits as you had on your first run. Version control isn't the place to cut corners!  
+  * You should have roughly the same number of commits as you had on your first run. Version control isn't the place to cut corners!  
   * Once you're finished with the requirements for both parts, edit the README to include your time. 
   * After that, try bonuses if you'd like!
 
