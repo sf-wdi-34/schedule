@@ -42,7 +42,7 @@
 
 [7-5A]: # "review"
 [7-5B]: # "review"
-[7-5C]: https://github.com/sf-wdi-34/public-library-app "library app"
+[7-5C]: https://github.com/sf-wdi-34/public_library_app "library app"
 [7-5D]: # "..."
 [7-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#weekend "HW"
 
