@@ -46,7 +46,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Thursday
 
-**link to submit in Wednesday's pulse check:** your work from part 1 of the pet lab
+**link to submit in Thursday's pulse check:** your work from part 1 of the pet lab
 
 1. Finish adding authentication to your pet app. Users should be able to sign up, log in, and log out.
 
@@ -58,6 +58,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 
 ### Weekend
+
+
+**link to submit in Friday's pulse check:** a direct link to the authentication branch you added to your pet lab
 
 1. Research a gem for your [lightning talk](https://github.com/sf-wdi-34/ruby-lightning-talks)!  Remember to [claim the gem in the google doc](https://docs.google.com/spreadsheets/d/1L-gFsFvXYKqLjJe28th0F98fgQJ3rZ3XwlXTlr7jquc/edit) as soon as you know which gem you want to look into.
 
