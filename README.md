@@ -18,7 +18,7 @@
 [8-1A]: https://github.com/sf-wdi-34/public-library-app  "Library App Review"
 [8-1B]: # "Lightning Talks"
 [8-1C]: https://github.com/sf-wdi-34/rails-asset-pipeline "Asset Pipeline"
-[8-1D]: # "Asset Pipeline Poem"
+[8-1D]: https://github.com/sf-wdi-34/asset-pipeline-poem "Asset Pipeline Poem"
 [8-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#monday "Homework"
 
 [8-2A]: # "Rspec Rails"
