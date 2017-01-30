@@ -21,7 +21,7 @@
 [8-1D]: https://github.com/sf-wdi-34/asset-pipeline-poem "Asset Pipeline Poem"
 [8-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#monday "Homework"
 
-[8-2A]: # "Rspec Rails"
+[8-2A]: https://github.com/sf-wdi-34/testing-with-rspec "Rspec Rails"
 [8-2B]: # "Rspec Rails Training"
 [8-2C]: # "Vagabond"
 [8-2D]: # "..."
