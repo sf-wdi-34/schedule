@@ -10,7 +10,7 @@
 **9:00am <br> 10:30am** | [Stacks][9-1A]| [Queues (NAME)][9-2A]  | [ Hash Maps(NAME)][9-3A] | [Whiteboarding practice (NAME)][9-4A] | [Trees & Graphs (NAME)][9-5A]
 **10:45am <br> 12:15pm** | [ Vagabond (NAME)][9-1B] | [Lightning Talks & Proj. 2 Pitches  (Name)][9-2B] | [Project 2 (NAME)][9-3B] | [Project 2 (Name)][9-4B] | [Project 2 (NAME)][9-5B]
 **1:15pm <br> 2:45pm** | [Vagabond Presentations & Peer Feedback (NAME)][9-1C] |  [Project 2 Planning (NAME)][9-2C] | [Project 2 (NAME)][9-3C] | [Project 2 (NAME)][9-4C] | [Project 2 (NAME)][9-5C]
-**3:00pm <br> 4:30pm** | [Prep lightning talk & pitches (NAME)][9-1D] | [Project 2 planning (NAME)][9-2D] | [Outcomes (MJ)][9-3D] | [Proejct 2 (NAME)][9-4D] | [Project 2 (NAME)][9-5D]   
+**3:00pm <br> 4:30pm** | [Prep lightning talk & pitches (NAME)][9-1D] | [Project 2 planning (NAME)][9-2D] | [Outcomes (MJ)][9-3D] | [Project 2 (NAME)][9-4D] | [Project 2 (NAME)][9-5D]   
 **Evening** | [Training][9-1E] | [Training][9-2E]  | [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
 
 
