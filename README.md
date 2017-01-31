@@ -11,7 +11,7 @@
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Library App Review (CF)][8-1A] |  [Rspec with Rails (BV)][8-2A] | [Bubble Sort (CF)][8-3A] | [Merge (BV)][8-4A] | [Recursion & Mergesort (CF)][8-5A]
  **10:45am <br> 12:15pm** | [Lightning Talks (CF)][8-1B] | [Rspec with Rails Training (BV)][8-2B] | Vagabond (CF) | Vagabond (BV) | Vagabond (CF)
- **1:15pm <br> 2:45pm** | [Asset Pipeline (BV)][8-1C] |  Vagabond (CF) |  Vagabond | Vagabond (CF) | Vagabond (BV)
+ **1:15pm <br> 2:45pm** | [Asset Pipeline (BV)][8-1C] |  [Vagabond (CF)][8-2C] |  Vagabond | Vagabond (CF) | Vagabond (BV)
 **3:00pm <br> 4:30pm** | [Asset Pipeline Poem (BV)][8-1D] | Vagabond (CF) |   [Outcomes (MJ)][8-3D] | Vagabond (CF) | Vagabond (BV)
 **Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
 
@@ -23,7 +23,7 @@
 
 [8-2A]: https://github.com/sf-wdi-34/testing-with-rspec "Rspec Rails"
 [8-2B]: https://github.com/SF-WDI-LABS/rspec_testing_inventory "Rspec Rails Training"
-[8-2C]: # "Vagabond"
+[8-2C]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [8-2D]: # "..."
 [8-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#tuesday "..."
 
