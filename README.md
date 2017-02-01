@@ -27,7 +27,7 @@
 [8-2D]: # "..."
 [8-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#tuesday "..."
 
-[8-3A]: # "Bubble Sort"
+[8-3A]: https://github.com/sf-wdi-34/bubble-sort "Bubble Sort"
 [8-3B]: # "..."
 [8-3C]: # "..."
 [8-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
