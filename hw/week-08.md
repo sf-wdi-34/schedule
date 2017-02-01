@@ -20,7 +20,6 @@ Link to include on Tuesday's pulse check: your rspec-racer repository.
 
 1. Continue working with your team on Vagabond.
 
-1. Don't forget your outcomes assingment! 
 
 
 <!--
