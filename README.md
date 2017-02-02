@@ -2,6 +2,50 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 # WDI 34 Schedule
 
+## Week 12 - Project 3
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Project 3][12-1A] |  [Project 3][12-2A] | [Project 3][12-3A] | [Project 3][12-4A] | [Wrap-up]][12-5A]
+ **10:45am <br> 12:15pm** | [Project 3][12-1B] | [Project 3][12-2B] | Project 3| Project 3 | Wrap-up
+ **1:15pm <br> 2:45pm** | [Project 3][12-1C] |  [Project 3][12-2C] |  Project 3 | Project 3 | Wrap-up
+**3:00pm <br> 4:30pm** | [Project 3][12-1D] | Project 3 |   [Outcomes (MJ)][12-3D] | Project 3 Presentations | Wrap-up
+**Evening** | [Training][12-1E]  |  [Training][12-2E] |  [Training][12-3E] | [Training][12-4E] | [Training][12-5E]
+
+[12-1A]: https://github.com/sf-wdi-34/public-library-app  "Library App Review"
+[12-1B]: # "Lightning Talks"
+[12-1C]: https://github.com/sf-wdi-34/rails-asset-pipeline "Asset Pipeline"
+[12-1D]: https://github.com/sf-wdi-34/asset-pipeline-poem "Asset Pipeline Poem"
+[12-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#monday "Homework"
+
+[12-2A]: https://github.com/sf-wdi-34/testing-with-rspec "Rspec Rails"
+[12-2B]: https://github.com/SF-WDI-LABS/rspec_testing_inventory "Rspec Rails Training"
+[12-2C]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
+[12-2D]: # "..."
+[12-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#tuesday "..."
+
+[12-3A]: https://github.com/sf-wdi-34/bubble-sort "Bubble Sort"
+[12-3B]: # "..."
+[12-3C]: # "..."
+[12-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[12-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#wednesday "HW"
+
+[12-4A]: # "Merge"
+[12-4B]: # "..."
+[12-4C]: # "..."
+[12-4D]: # "..."
+[12-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#thursday "Thursday HW"
+
+[12-5A]: # "Recursion & Mergesort"
+[12-5B]: # "..."
+[12-5C]: # "..."
+[12-5D]: # "..."
+[12-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#weekend "HW"
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/20697a7012ccddace4605b9c96543f12f3)
+
+
+
 
 
 
