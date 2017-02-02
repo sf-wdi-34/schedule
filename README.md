@@ -2,6 +2,49 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 # WDI 34 Schedule
 
+#### Week 11 - Project 3
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [ES6 (NAME)][11-1A]| [React (NAME)][11-2A]  | [Interview Prep (NAME)][11-3A] | [Interview Prep (NAME)][11-4A] | [Interview Prep (NAME)][11-5A]
+**10:45am <br> 12:15pm** | [Build tools (NAME)][11-1B] | [React (Name)][11-2B] | [Project 3 (NAME)][11-3B] | [Project 3 (Name)][11-4B] | [Project 3 (NAME)][11-5B]
+**1:15pm <br> 2:45pm** | [Lightning Talks (NAME)][11-1C] |  [Lesson (NAME)][11-2C] | [Project 3 (NAME)][11-3C] | [Project 3 (NAME)][11-4C] | [Project 3 (NAME)][11-5C]
+**3:00pm <br> 4:30pm** | [Lightning Talks (NAME)][11-1D] | [Lesson (NAME)][11-2D] | [Outcomes (NAME)][11-3D] | [Project 3 (NAME)][11-4D] | [Project 3 (NAME)][11-5D]   
+**Evening** | [Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
+
+
+
+[11-1A]: # "..."
+[11-1B]: # "..."
+[11-1C]: # "..."
+[11-1D]: # "..."
+[11-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#monday "Mon HW"
+
+[11-2A]: # "..."
+[11-2B]: # "..."
+[11-2C]: # "..."
+[11-2D]: # "..."
+[11-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#tuesday "Tues HW"
+
+[11-3A]: # "..."
+[11-3B]: # "..."
+[11-3C]: # "..."
+[11-3D]: # "..."
+[11-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#wednesday "Wed HW"
+
+[11-4A]: # "..."
+[11-4B]: # "..."
+[11-4C]: # "..."
+[11-4D]: # "..."
+[11-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#thursday "Thurs HW"
+
+[11-5A]: # "..."
+[11-5B]: # "..."
+[11-5C]: # "..."
+[11-5D]: # "..."
+[11-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#friday "Weekend HW"
+
+[Weekly Objective Checklist](#)
 
 
 
