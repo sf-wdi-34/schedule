@@ -45,14 +45,6 @@
 
 [Weekly Objective Checklist](#)
 
-
-ideas for week 10:
-- ES6
-- React
-- MEAN Review
-- Rails as JSON API / Rangular
-
-
 #### Week 7 - Rails
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
