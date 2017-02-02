@@ -28,6 +28,8 @@ Link to include on Tuesday's pulse check: your rspec-racer repository.
 
 Link to include on Wednesday's pulse check: **none**
 
+1. If you didn't finish bubble sort, work on it for 30 more minutes then examine and run the solutions. 
+
 1. Continue working with your team on Vagabond.
 
 <!--
