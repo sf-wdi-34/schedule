@@ -22,9 +22,16 @@ Link to include on Tuesday's pulse check: your rspec-racer repository.
 
 
 
-<!--
 
 ### Wednesday
+
+
+Link to include on Wednesday's pulse check: **none**
+
+1. Continue working with your team on Vagabond.
+
+<!--
+
 
 ### Thursday
 
