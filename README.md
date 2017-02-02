@@ -9,7 +9,7 @@
 **9:00am <br> 10:30am** | [Breadth-first Search ()][10-1A]| [Depth-first Search ()][10-2A]  | [Lesson (CF)][10-3A] | [Lesson (NAME)][10-4A] | [Lesson (NAME)][10-5A]
 **10:45am <br> 12:15pm** | Project 2 () | Project 2 () | [Lesson (NAME)][10-3B] | [Lesson (Name)][10-4B] | [Formative Assessment & Review (NAME)][10-5B]
 **1:15pm <br> 2:45pm** | Project 2 () |   Project 2 Presentations () | [Lesson (NAME)][10-3C] | [Lesson (NAME)][10-4C] | [Lesson (NAME)][10-5C]
-**3:00pm <br> 4:30pm** | Project 2 () | [Lesson (NAME)][10-2D] | Lesson (NAME) | [Lesson (NAME)][10-4D] | [Lesson (NAME)][10-5D]   
+**3:00pm <br> 4:30pm** | Project 2 () | [Project 2 debrief][10-2D] | Lesson (NAME) | [Lesson (NAME)][10-4D] | [Lesson (NAME)][10-5D]   
 **Evening** | [Training][10-1E] | [Training][10-2E]  | [Training][10-3E] | [Training][10-4E] | [Training][10-5E]
 
 
