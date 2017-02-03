@@ -32,10 +32,16 @@ Link to include on Wednesday's pulse check: **none**
 
 1. Continue working with your team on Vagabond.
 
-<!--
-
-
 ### Thursday
+
+
+Link to include on Thursday's pulse check: **your bubble sort repo**
+
+1. Work on [merge](https://github.com/sf-wdi-34/merge) for 30 more minutes, then examine and run the solutions. 
+
+1. Continue working with your team on Vagabond.
+
+<!--
 
 ### Weekend
 

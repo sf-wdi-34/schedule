@@ -79,13 +79,13 @@
 [8-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [8-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#wednesday "HW"
 
-[8-4A]: # "Merge"
+[8-4A]: https://github.com/sf-wdi-34/merge "Merge"
 [8-4B]: # "..."
 [8-4C]: # "..."
 [8-4D]: # "..."
 [8-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
 
-[8-5A]: # "Recursion & Mergesort"
+[8-5A]: https://github.com/sf-wdi-34/mergesort "Recursion & Mergesort"
 [8-5B]: # "..."
 [8-5C]: # "..."
 [8-5D]: # "..."
