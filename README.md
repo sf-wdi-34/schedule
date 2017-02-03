@@ -39,7 +39,7 @@
 [8-4D]: # "..."
 [8-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
 
-[8-5A]: # "Recursion & Mergesort"
+[8-5A]: https://github.com/sf-wdi-34/mergesort "Recursion & Mergesort"
 [8-5B]: # "..."
 [8-5C]: # "..."
 [8-5D]: # "..."
