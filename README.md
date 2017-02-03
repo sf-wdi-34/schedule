@@ -31,7 +31,7 @@
 [9-3A]: # "..."
 [9-3B]: # "..."
 [9-3C]: # "..."
-[9-3D]: # "..."
+[9-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "outcomes"
 [9-3E]: # "Wed HW"
 
 [9-4A]: # "..."
