@@ -41,8 +41,11 @@ Link to include on Thursday's pulse check: **your bubble sort repo**
 
 1. Continue working with your team on Vagabond.
 
-<!--
-
 ### Weekend
 
--->
+Link to include on Thursday's pulse check: **your merge repo**
+
+1. Work on [merge sort](https://github.com/sf-wdi-34/mergesort) for 30 more minutes, then examine and run the solutions. 
+
+1. Continue working with your team on Vagabond.  Remember to plan and prepare for [presentations](https://github.com/sf-wdi-34/project-vagabond#presentation), which will be Monday afternoon.  Each person should speak for roughly equal times during your presentation.
+
