@@ -11,7 +11,7 @@
 **9:00am <br> 10:30am** | [Linked Lists (CF) ][9-1A]| [Stacks (CF) ][9-1A]| [Queues (CF)][9-2A]  | [ Hash Maps(BV)][9-3A] | [Trees & Graphs (BV)][9-5A]
 **10:45am <br> 12:15pm** | [Vagabond (CF)][9-1B] | [Lightning Talks & Proj. 2 Pitches  (CF)][9-2B] | [Project 2 (CF)][9-3B] | [Project 2 (BV)][9-4B] | [Project 2 (BV)][9-5B]
 **1:15pm <br> 2:45pm** | [Vagabond Presentations & Peer Feedback (BV)][9-1C] |  [Project 2 Planning (BV)][9-2C] | [Project 2 ][9-3C] | [Project 2 (CF)][9-4C] | [Project 2 (CF)][9-5C]
-**3:00pm <br> 4:30pm** | [Prep lightning talk & pitches (BV)][9-1D] | [Project 2 planning (BV)][9-2D] | [Outcomes (MJ)][9-3D] | [Project 2 (CF)][9-4D] | [Project 2 (CF)][9-5D]   
+**3:00pm <br> 4:30pm** | Prep [lightning talk](https://github.com/sf-wdi-34/ruby-lightning-talks/blob/master/README.md#part-ii---project-based-talk) & [project 2 pitches][9-1D]  (BV)| [Project 2 planning (BV)][9-2D] | [Outcomes (MJ)][9-3D] | [Project 2 (CF)][9-4D] | [Project 2 (CF)][9-5D]   
 **Evening** | [Training][9-1E] | [Training][9-2E]  | [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
 
 
@@ -19,7 +19,7 @@
 [9-1A]: https://github.com/sf-wdi-34/ruby-linked-list "Linked Lists"
 [9-1B]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [9-1C]: https://github.com/sf-wdi-34/project-vagabond#presentation "Vagabond Presenations"
-[9-1D]: # "..."
+[9-1D]: https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md "Project 2 Pitches"
 [9-1E]: # "Mon HW"
 
 [9-2A]: # "..."
