@@ -16,7 +16,7 @@
 
 
 
-[9-1A]: # "..."
+[9-1A]: https://github.com/sf-wdi-34/ruby-linked-list "Linked Lists"
 [9-1B]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [9-1C]: https://github.com/sf-wdi-34/project-vagabond#presentation "Vagabond Presenations"
 [9-1D]: # "..."
