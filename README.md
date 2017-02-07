@@ -25,7 +25,7 @@
 [9-2A]: https://github.com/sf-wdi-34/stacks "..."
 [9-2B]: # "..."
 [9-2C]: # "..."
-[9-2D]: # "..."
+[9-2D]: https://github.com/sf-wdi-34/project-2#project-planning-deliverables "..."
 [9-2E]: # "Tues HW"
 
 [9-3A]: # "..."
