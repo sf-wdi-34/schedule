@@ -2,14 +2,13 @@
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
 
-<!--
 
 ### Monday
 
 
 Link to include on Monday's pulse check: **your mergesort repo** 
 
-1. Make sure your team's vagabond repository and live-deployed vagabond urls are linked in the project turn-in.
+1. Make sure your team's vagabond repository and live-deployed vagabond urls are linked in the [project turn-in spreadsheet](https://docs.google.com/spreadsheets/d/1vzxkkVwX2zU40BZArMknoHMYlu_5bVmyNYAEBMJXH5E/edit), vagabond tab.
 
 1. Work on [linked lists](https://github.com/sf-wdi-34/ruby-linked-list) for 30 more minutes, then examine and run the solutions. 
 
@@ -19,6 +18,7 @@ Link to include on Monday's pulse check: **your mergesort repo**
 
 
 
+<!--
 ### Tuesday
 
 ### Wednesday
