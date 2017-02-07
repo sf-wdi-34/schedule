@@ -14,7 +14,7 @@ Link to include on Monday's pulse check: **your mergesort repo**
 
 1. Prepare your [project-inspired lightning talk](https://github.com/sf-wdi-34/ruby-lightning-talks#part-ii---project-based-talk). You'll present this tomorrow morning! Once you pick your new topic, sign up a second time in [this google doc](https://docs.google.com/spreadsheets/d/1L-gFsFvXYKqLjJe28th0F98fgQJ3rZ3XwlXTlr7jquc/edit?usp=sharing). 
 
-1. Prepare your [project 2 pitch](https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md) or pitches. These will also be presented tomorrow morning. 
+1. Prepare your [project 2 pitch](https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md). These will also be presented tomorrow morning. 
 
 
 
