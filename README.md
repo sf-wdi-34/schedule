@@ -20,7 +20,7 @@
 [9-1B]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [9-1C]: https://github.com/sf-wdi-34/project-vagabond#presentation "Vagabond Presenations"
 [9-1D]: https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md "Project 2 Pitches"
-[9-1E]: # "Mon HW"
+[9-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#monday "Mon HW"
 
 [9-2A]: # "..."
 [9-2B]: # "..."
