@@ -17,12 +17,12 @@
 
 
 [9-1A]: https://github.com/sf-wdi-34/ruby-linked-list "Linked Lists"
-[9-1B]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
+[9-1B]:f https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [9-1C]: https://github.com/sf-wdi-34/project-vagabond#presentation "Vagabond Presenations"
 [9-1D]: # "..."
 [9-1E]: # "Mon HW"
 
-[9-2A]: # "..."
+[9-2A]: https://github.com/sf-wdi-34/stacks "..."
 [9-2B]: # "..."
 [9-2C]: # "..."
 [9-2D]: # "..."
