@@ -23,6 +23,8 @@ Link to include on Monday's pulse check: **your mergesort repo**
 
 ### Wednesday
 
+1. Review the [stacks solution code](https://github.com/sf-wdi-34/stacks/blob/solution/stacks.rb) and the [queues solution code](https://github.com/sf-wdi-34/queues/blob/solution/queue.rb). Make sure that you know how to make a new stack, make a new queue and test whether their methods are working.
+
 ### Thursday
 
 ### Weekend
