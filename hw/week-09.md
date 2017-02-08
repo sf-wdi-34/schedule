@@ -18,13 +18,20 @@ Link to include on Monday's pulse check: **your mergesort repo**
 
 
 
-<!--
+
 ### Tuesday
+
+1. Continue planning project 2 with your group.
 
 ### Wednesday
 
+Link to include on Monday's pulse check: **your stacks and queues repos** 
+
+
 1. Review the [stacks solution code](https://github.com/sf-wdi-34/stacks/blob/solution/stacks.rb) and the [queues solution code](https://github.com/sf-wdi-34/queues/blob/solution/queue.rb). Make sure that you know how to make a new stack, make a new queue and test whether their methods are working.
 
+
+<!--
 ### Thursday
 
 ### Weekend
