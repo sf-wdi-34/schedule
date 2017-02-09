@@ -28,25 +28,25 @@
 [9-2B2]: https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md "Project 2 Pitches"
 [9-2C]: https://github.com/sf-wdi-34/project-2#project-planning-deliverables "..."
 [9-2D]: https://github.com/sf-wdi-34/project-2#project-planning-deliverables "..."
-[9-2E]: # "Tues HW"
+[9-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#tuesday "Tues HW"
 
 [9-3A]: https://github.com/sf-wdi-34/queues "Q's"
 [9-3B]: https://github.com/sf-wdi-34/project-2 "project 2"
 [9-3C]: # "..."
 [9-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "outcomes"
-[9-3E]: # "Wed HW"
+[9-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#wednesday "Wed HW"
 
-[9-4A]: # "..."
+[9-4A]: https://github.com/sf-wdi-34/hash-map-lab "..."
 [9-4B]: # "..."
 [9-4C]: # "..."
 [9-4D]: # "..."
-[9-4E]: # "Thurs HW"
+[9-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#thursday "Thurs HW"
 
 [9-5A]: # "..."
 [9-5B]: # "..."
 [9-5C]: # "..."
 [9-5D]: # "..."
-[9-5E]: # "Weekend HW"
+[9-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#weekend "Weekend HW"
 
 [Weekly Objective Checklist](#)
 
