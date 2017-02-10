@@ -40,14 +40,13 @@ Link to include on Thursday's pulse check: **your queues repo**
 
 1. Continue working on project 2 with your team. 
 
-<!--
 ### Weekend
 
 Link to include on Friday's pulse check: **your hash map repo** 
 
-
-1. Spend 30 minutes working on [trees](https://github.com/sf-wdi-34/trees). Aim to at least understand the strategy for `has_key` (solutions are in that repo's solutions.md).  
+1. Spend 30 minutes working on [trees](https://github.com/sf-wdi-34/trees). Aim to understand the pseudocode for `has_key` (solutions are in that repo's solutions.md).  
 
 1. Continue working on project 2 with your team. 
 
+<!--
 -->
