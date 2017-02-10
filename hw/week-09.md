@@ -25,15 +25,22 @@ Link to include on Monday's pulse check: **your mergesort repo**
 
 ### Wednesday
 
-Link to include on Monday's pulse check: **your stacks and queues repos** 
+Link to include on Wednesday's pulse check: **your stacks repos** 
 
 
 1. Review the [stacks solution code](https://github.com/sf-wdi-34/stacks/blob/solution/stacks.rb) and the [queues solution code](https://github.com/sf-wdi-34/queues/blob/solution/queue.rb). Make sure that you know how to make a new stack, make a new queue and test whether their methods are working.
 
 
-<!--
+
 ### Thursday
 
+Link to include on Thursday's pulse check: **your queues repo** 
+
+1. Spend 30 minutes looking over the hash map lab.  It has a [coding challenge](https://github.com/sf-wdi-34/hash-map-lab#coding-challenge) you can try if you'd like. If so, fork and clone it, and spend your time modifying and understanding *just* the `put` method. 
+
+1. Continue working on project 2 with your team. 
+
+<!--
 ### Weekend
 
 -->
