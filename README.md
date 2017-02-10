@@ -42,7 +42,7 @@
 [9-4D]: # "..."
 [9-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#thursday "Thurs HW"
 
-[9-5A]: # "..."
+[9-5A]: https://github.com/sf-wdi-34/trees "..."
 [9-5B]: # "..."
 [9-5C]: # "..."
 [9-5D]: # "..."
