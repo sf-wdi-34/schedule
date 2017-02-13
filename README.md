@@ -160,7 +160,7 @@
 [7-2A]: https://github.com/sf-wdi-34/rails-views-and-helpers "..."
 [7-2B]: https://github.com/sf-wdi-34/rails_views_helpers_training "..."
 [7-2C]: https://github.com/sf-wdi-34/migrations "Migrations"
-[7-2D]:  "Migrations Activity"
+[7-2D]: # "Migrations Activity"
 [7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#tuesday "..."
 
 [7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
