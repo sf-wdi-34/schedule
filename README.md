@@ -4,6 +4,7 @@
 
 #### Week 10 - New Horizons
 
+
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 10:30am** | [Breadth-first Search (BV)][10-1A]| [Depth-first Search (BV)][10-2A]  | [Rails JSON (BV)][10-3A] | [MEN review (BV)][10-4A] | [MEAN Auth (BV)][10-5A]
@@ -46,6 +47,99 @@
 
 [Weekly Objective Checklist](#)
 
+#### Week 9 - Projects!
+
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [Linked Lists (CF) ][9-1A]| [Stacks (CF) ][9-2A]| [Queues (CF)][9-3A]  | [ Hash Maps(BV)][9-4A] | [Trees & Graphs (BV)][9-5A]
+**10:45am <br> 12:15pm** | [Vagabond (CF)][9-1B] | [Lightning Talks][9-2B1] & [Proj. 2 Pitches][9-2B2]  (CF) | [Project 2 (CF)][9-3B] | [Project 2 (BV)][9-4B] | [Project 2 (BV)][9-5B]
+**1:15pm <br> 2:45pm** | [Vagabond Presentations & Peer Feedback (BV)][9-1C] |  [Project 2 Planning (BV)][9-2C] | [Project 2 ][9-3C] | [Project 2 (CF)][9-4C] | [Project 2 (CF)][9-5C]
+**3:00pm <br> 4:30pm** | Prep [lightning talk][9-1D1] & [project 2 pitches][9-1D2]  (BV)| [Project 2 planning (BV)][9-2D] | [Outcomes (MJ)][9-3D] | [Project 2 (CF)][9-4D] | [Project 2 (CF)][9-5D]   
+**Evening** | [Training][9-1E] | [Training][9-2E]  | [Training][9-3E] | [Training][9-4E] | [Training][9-5E]
+
+
+
+[9-1A]: https://github.com/sf-wdi-34/ruby-linked-list "Linked Lists"
+[9-1B]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
+[9-1C]: https://github.com/sf-wdi-34/project-vagabond#presentation "Vagabond Presenations"
+[9-1D1]: https://github.com/sf-wdi-34/ruby-lightning-talks/blob/master/README.md#part-ii---project-based-talk "lightning talk"
+[9-1D2]: https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md "Project 2 Pitches"
+[9-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#monday "Mon HW"
+
+[9-2A]: https://github.com/sf-wdi-34/stacks "stax"
+[9-2B1]: https://github.com/sf-wdi-34/ruby-lightning-talks/blob/master/README.md#part-ii---project-based-talk "lightning talk"
+[9-2B2]: https://github.com/sf-wdi-34/project-2/blob/master/lightning-pitch.md "Project 2 Pitches"
+[9-2C]: https://github.com/sf-wdi-34/project-2#project-planning-deliverables "..."
+[9-2D]: https://github.com/sf-wdi-34/project-2#project-planning-deliverables "..."
+[9-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#tuesday "Tues HW"
+
+[9-3A]: https://github.com/sf-wdi-34/queues "Q's"
+[9-3B]: https://github.com/sf-wdi-34/project-2 "project 2"
+[9-3C]: # "..."
+[9-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "outcomes"
+[9-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#wednesday "Wed HW"
+
+[9-4A]: https://github.com/sf-wdi-34/hash-map-lab "..."
+[9-4B]: # "..."
+[9-4C]: # "..."
+[9-4D]: # "..."
+[9-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#thursday "Thurs HW"
+
+[9-5A]: https://github.com/sf-wdi-34/trees "..."
+[9-5B]: # "..."
+[9-5C]: # "..."
+[9-5D]: # "..."
+[9-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#weekend "Weekend HW"
+
+[Weekly Objective Checklist](#)
+
+
+
+
+#### Week 8 - Vagabond
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+ **9:00am <br> 10:30am** | [Library App Review (CF)][8-1A] |  [Rspec with Rails (BV)][8-2A] | [Bubble Sort (CF)][8-3A] | [Merge (BV)][8-4A] | [Recursion & Mergesort (CF)][8-5A]
+ **10:45am <br> 12:15pm** | [Lightning Talks (CF)][8-1B] | [Rspec with Rails Training (BV)][8-2B] | Vagabond (CF) | Vagabond (BV) | Vagabond (CF)
+ **1:15pm <br> 2:45pm** | [Asset Pipeline (BV)][8-1C] |  [Vagabond (CF)][8-2C] |  Vagabond | Vagabond (CF) | Vagabond (BV)
+**3:00pm <br> 4:30pm** | [Asset Pipeline Poem (BV)][8-1D] | Vagabond (CF) |   [Outcomes (MJ)][8-3D] | Vagabond (CF) | Vagabond (BV)
+**Evening** | [Training][8-1E]  |  [Training][8-2E] |  [Training][8-3E] | [Training][8-4E] | [Training][8-5E]
+
+[8-1A]: https://github.com/sf-wdi-34/public-library-app  "Library App Review"
+[8-1B]: # "Lightning Talks"
+[8-1C]: https://github.com/sf-wdi-34/rails-asset-pipeline "Asset Pipeline"
+[8-1D]: https://github.com/sf-wdi-34/asset-pipeline-poem "Asset Pipeline Poem"
+[8-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#monday "Homework"
+
+[8-2A]: https://github.com/sf-wdi-34/testing-with-rspec "Rspec Rails"
+[8-2B]: https://github.com/SF-WDI-LABS/rspec_testing_inventory "Rspec Rails Training"
+[8-2C]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
+[8-2D]: # "..."
+[8-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#tuesday "..."
+
+[8-3A]: https://github.com/sf-wdi-34/bubble-sort "Bubble Sort"
+[8-3B]: # "..."
+[8-3C]: # "..."
+[8-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[8-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#wednesday "HW"
+
+[8-4A]: https://github.com/sf-wdi-34/merge "Merge"
+[8-4B]: # "..."
+[8-4C]: # "..."
+[8-4D]: # "..."
+[8-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#thursday "Thursday HW"
+
+[8-5A]: https://github.com/sf-wdi-34/mergesort "Recursion & Mergesort"
+[8-5B]: # "..."
+[8-5C]: # "..."
+[8-5D]: # "..."
+[8-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-08.md#weekend "HW"
+
+[Weekly Checklist](https://gist.github.com/bgveenstra/20697a708ccddace4605b9c96543f8f3)
+
+
 #### Week 7 - Rails
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
@@ -53,7 +147,7 @@
  **9:00am <br> 10:30am** | [Idiomatic Ruby Review (BV)][7-1A] |  [Rails Views & Helpers (BV)][7-2A] | [Associations (BV)][7-3A] | [Error Handling & Validations (CF) ][7-4A] | [Review (CF)][7-5A]
  **10:45am <br> 12:15pm** | [Rails Review (BV)][7-1B] | [Rails Views & Helpers Training (BV)][7-2B] | [Associations (BV)][7-3B] | [Cookies & Sessions (CF)][7-4B] | Review (CF)
  **1:15pm <br> 2:45pm** | [Active Record (CF)][7-1C] |  [Migrations (CF)][7-2C] |  [Pet Lab Part 1 (AC)][7-3C] | [Auth (BV)][7-4C] | [Library App (BV)][7-5C]
-**3:00pm <br> 4:30pm** | [Active Record (CF)][7-1D] | [Migrations (CF)][7-2D] |   [Outcomes (MJ)][7-3D] | [Auth (BV)][7-4D] | Library App (BV)
+**3:00pm <br> 4:30pm** | [Active Record (CF)][7-1D] | [Migrations (CF)][7-2D] |   [Outcomes (MJ)][7-3D] | Auth (BV) | Library App (BV)
 **Evening** | [Training][7-1E]  |  [Training][7-2E] |  [Training][7-3E] | [Training][7-4E] | [Training][7-5E]
 
 
@@ -66,7 +160,7 @@
 [7-2A]: https://github.com/sf-wdi-34/rails-views-and-helpers "..."
 [7-2B]: https://github.com/sf-wdi-34/rails_views_helpers_training "..."
 [7-2C]: https://github.com/sf-wdi-34/migrations "Migrations"
-[7-2D]: https://github.com/sf-wdi-34/guest-repo-1 "Migrations Activity"
+[7-2D]:  "Migrations Activity"
 [7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#tuesday "..."
 
 [7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
@@ -84,7 +178,7 @@
 
 [7-5A]: # "review"
 [7-5B]: # "review"
-[7-5C]: https://github.com/sf-wdi-34/public-library-app "library app"
+[7-5C]: https://github.com/sf-wdi-34/public_library_app "library app"
 [7-5D]: # "..."
 [7-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#weekend "HW"
 
@@ -423,3 +517,51 @@ No weekly checklist (project 1).
 [1-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-01.md#weekend "Weekend hw"
 
 [Weekly Objective Checklist](https://gist.github.com/bgveenstra/0d2b929d8561c9d6d08652c085491dd6)
+
+
+<!--
+#### Week 1 - Fundamentals and Tools
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [Some lesson][1-1A]| [Lesson (NAME)][1-2A]  | [Lesson (CF)][1-3A] | [Lesson (NAME)][1-4A] | [Lesson (NAME)][1-5A]
+**10:45am <br> 12:15pm** | [Lesson (NAME)][1-1B] | [Lesson (Name)][1-2B] | [Lesson (NAME)][1-3B] | [Lesson (Name)][1-4B] | [Formative Assessment & Review (NAME)][1-5B]
+**1:15pm <br> 2:45pm** | [Lesson (NAME)][1-1C] |  [Lesson (NAME)][1-2C] | [Lesson (NAME)][1-3C] | [Lesson (NAME)][1-4C] | [Lesson (NAME)][1-5C]
+**3:00pm <br> 4:30pm** | [Lesson (NAME)][1-1D] | [Lesson (NAME)][1-2D] | [Lesson (NAME)][1-3D] | [Lesson (NAME)][1-4D] | [Lesson (NAME)][1-5D]   
+**Evening** | [Training][1-1E] | [Training][1-2E]  | [Training][1-3E] | [Training][1-4E] | [Training][1-5E]
+
+
+
+[1-1A]: # "..."
+[1-1B]: # "..."
+[1-1C]: # "..."
+[1-1D]: # "..."
+[1-1E]: # "Mon HW"
+
+[1-2A]: # "..."
+[1-2B]: # "..."
+[1-2C]: # "..."
+[1-2D]: # "..."
+[1-2E]: # "Tues HW"
+
+[1-3A]: # "..."
+[1-3B]: # "..."
+[1-3C]: # "..."
+[1-3D]: # "..."
+[1-3E]: # "Wed HW"
+
+[1-4A]: # "..."
+[1-4B]: # "..."
+[1-4C]: # "..."
+[1-4D]: # "..."
+[1-4E]: # "Thurs HW"
+
+[1-5A]: # "..."
+[1-5B]: # "..."
+[1-5C]: # "..."
+[1-5D]: # "..."
+[1-5E]: # "Weekend HW"
+
+[Weekly Objective Checklist](#)
+
+ -->
