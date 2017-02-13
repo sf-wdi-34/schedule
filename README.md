@@ -2,6 +2,50 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 # WDI 34 Schedule
 
+#### Week 10 - New Horizons
+
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 10:30am** | [Breadth-first Search (BV)][10-1A]| [Depth-first Search (BV)][10-2A]  | [Rails JSON (BV)][10-3A] | [MEN review (BV)][10-4A] | [MEAN Auth (BV)][10-5A]
+**10:45am <br> 12:15pm** | Project 2 (BV) | Project 2 (BV) | [Angular and Rails(CF)][10-3B] | [MEN review (BV)][10-4B] | [MEAN Auth (BV)][10-5B]
+**1:15pm <br> 2:45pm** | Project 2 (CF) |   Project 2 Presentations (CF) | [Lab (CF)][10-3C] | [MEAN review (CF)][10-4C] | [Weekend Project (CF)][10-5C]
+**3:00pm <br> 4:30pm** | Project 2 (CF) | [Project 2 debrief (CF)][10-2D] | [Outcomes (MJ)][10-3D] | [MEAN review (CF)][10-4D] | [ Weekend Project (CF)][10-5D]   
+**Evening** | [Training][10-1E] | [Training][10-2E]  | [Training][10-3E] | [Training][10-4E] | [Training][10-5E]
+
+
+
+[10-1A]: # "..."
+[10-1B]: # "..."
+[10-1C]: # "..."
+[10-1D]: # "..."
+[10-1E]: # "Mon HW"
+
+[10-2A]: # "..."
+[10-2B]: # "..."
+[10-2C]: # "..."
+[10-2D]: # "..."
+[10-2E]: # "Tues HW"
+
+[10-3A]: # "..."
+[10-3B]: # "..."
+[10-3C]: # "..."
+[10-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[10-3E]: # "Wed HW"
+
+[10-4A]: # "..."
+[10-4B]: # "..."
+[10-4C]: # "..."
+[10-4D]: # "..."
+[10-4E]: # "Thurs HW"
+
+[10-5A]: # "..."
+[10-5B]: # "..."
+[10-5C]: # "..."
+[10-5D]: # "..."
+[10-5E]: # "Weekend HW"
+
+[Weekly Objective Checklist](#)
 
 #### Week 9 - Projects!
 
@@ -96,7 +140,6 @@
 [Weekly Checklist](https://gist.github.com/bgveenstra/20697a708ccddace4605b9c96543f8f3)
 
 
-
 #### Week 7 - Rails
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
@@ -121,9 +164,9 @@
 [7-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#tuesday "..."
 
 [7-3A]: https://github.com/sf-wdi-34/rails-associations "Associations"
-[7-3B]: https://github.com/sf-wdi-34/rails-pet-lab "Association Lab"
-[7-3C]: # "bog app"
-[7-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
+[7-3B]: https://github.com/sf-wdi-34/rails-associations "Associations"
+[7-3C]: https://github.com/sf-wdi-34/rails-pet-lab "Association Pet Lab"
+[7-3D]: https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [7-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-07.md#wednesday "HW"
 
 
