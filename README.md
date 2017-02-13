@@ -2,7 +2,7 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 # WDI 34 Schedule
 
-#### Week 10 - New Horizons
+#### Week 10 
 
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
@@ -15,37 +15,37 @@
 
 
 
-[10-1A]: # "..."
+[10-1A]: https://github.com/sf-wdi-34/breadth-first-search "BFS"
 [10-1B]: # "..."
 [10-1C]: # "..."
 [10-1D]: # "..."
-[10-1E]: # "Mon HW"
+[10-1E]:  https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#monday "Mon HW"
 
 [10-2A]: # "..."
 [10-2B]: # "..."
 [10-2C]: # "..."
 [10-2D]: # "..."
-[10-2E]: # "Tues HW"
+[10-2E]:  https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#tuesday "Tues HW"
 
 [10-3A]: # "..."
 [10-3B]: # "..."
 [10-3C]: # "..."
 [10-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
-[10-3E]: # "Wed HW"
+[10-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#wednesday "Wed HW"
 
 [10-4A]: # "..."
 [10-4B]: # "..."
 [10-4C]: # "..."
 [10-4D]: # "..."
-[10-4E]: # "Thurs HW"
+[10-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#thursday "Thurs HW"
 
 [10-5A]: # "..."
 [10-5B]: # "..."
 [10-5C]: # "..."
 [10-5D]: # "..."
-[10-5E]: # "Weekend HW"
+[10-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#weekend "Weekend HW"
 
-[Weekly Objective Checklist](#)
+[Weekly Objective Checklist](https://gist.github.com/bgveenstra/199871c85fb5b56c92e8a17a010689b7)
 
 #### Week 9 - Projects!
 
@@ -92,7 +92,7 @@
 [9-5D]: # "..."
 [9-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-09.md#weekend "Weekend HW"
 
-[Weekly Objective Checklist](#)
+[Weekly Objective Checklist](https://gist.github.com/bgveenstra/86ac1eca6c755d34ba9d8763c8850b92)
 
 
 
