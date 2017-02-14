@@ -21,7 +21,7 @@
 [10-1D]: # "..."
 [10-1E]:  https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#monday "Mon HW"
 
-[10-2A]: # "..."
+[10-2A]: https://github.com/sf-wdi-34/depth-first-search "DFS"
 [10-2B]: # "..."
 [10-2C]: # "..."
 [10-2D]: # "..."
