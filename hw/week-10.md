@@ -9,7 +9,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. Continue working on project 2 with your team.
 
-<!--
+
 
 ### Tuesday
 
@@ -23,6 +23,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. For tomorrow, review the intro to angular notes (especially the section about ["setting up an angular app"](https://github.com/sf-wdi-34/intro-angular#setting-up-an-angular-app)) and/or your Angular setup gist. Also, review the syntax for `$http`.  This should take about 30-60 minutes. 
 
+<!--
 ### Wednesday
 
 ### Thursday
