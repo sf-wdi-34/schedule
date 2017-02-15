@@ -27,7 +27,7 @@
 [10-2D]: # "..."
 [10-2E]:  https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#tuesday "Tues HW"
 
-[10-3A]: # "..."
+[10-3A]: https://github.com/sf-wdi-34/rails-5-api "rail json"
 [10-3B]: https://github.com/sf-wdi-34/rails-angular "rangular"
 [10-3C]: # "..."
 [10-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
