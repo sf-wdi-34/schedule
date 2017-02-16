@@ -38,6 +38,23 @@ The evening trainings and readings below will help you solidify work so far and/
 <!--
 ### Thursday
 
+**link to include on Thursday's pulse check: your Rangular app repo**
+
+1. Continue building your MEAN reveiw project for 1 hour. Prioritize these tasks:
+ * serve the Angular front-end from an Express server (HTML, CSS, and client-side JavaScript should be served through Express)
+ * build a controller that changes the appearance of the page based on input in a form field (for whichever project you choose)
+ * use $http to submit the form data to a route on the server and send some kind of response you can receive on the front end
+ When you've finished those, focus on expanding the back end so you can store the data from the form into a MongoDB database. 
+
+1. To help prepare for MEAN authentication, review the basic syntax of [Angular Services](https://github.com/sf-wdi-34/angular-services).
+
+1. To help prepare for MEAN authentication, research JSON Web Tokens (known as JWTs).  You should be able to answer the following questions:
+  * What are the 3 parts of a JWT?
+  * What information does each part contain?
+  * Why do people use JWTs for authentication?
+  A great resource to read would be [https://jwt.io/introduction/](https://jwt.io/introduction/).
+
+
 ### Weekend
 
 -->
