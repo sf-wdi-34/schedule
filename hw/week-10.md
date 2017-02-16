@@ -46,13 +46,14 @@ The evening trainings and readings below will help you solidify work so far and/
  * use $http to submit the form data to a route on the server and send some kind of response you can receive on the front end
  When you've finished those, focus on expanding the back end so you can store the data from the form into a MongoDB database. 
 
-1. To help prepare for MEAN authentication, review the basic syntax of [Angular Services](https://github.com/sf-wdi-34/angular-services).
+1. To help prepare for MEAN authentication, review the basic syntax and purpose of [Angular Services](https://github.com/sf-wdi-34/angular-services). This should take about 10-15 minutes.
 
-1. To help prepare for MEAN authentication, research JSON Web Tokens (known as JWTs).  You should be able to answer the following questions:
+1. To help prepare for MEAN authentication, research JSON Web Tokens (known as JWTs).  This should take about 30 minutes. You should be able to answer the following questions:
   * What are the 3 parts of a JWT?
   * What information does each part contain?
   * Why do people use JWTs for authentication?
   A great resource to read would be [https://jwt.io/introduction/](https://jwt.io/introduction/).
+
 
 <!--
 ### Weekend
