@@ -8,7 +8,7 @@
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 10:30am** | [Graph Representations][10-1A0] & [Breadth-first Search (BV)][10-1A]| [Depth-first Search (BV)][10-2A]  | [Rails JSON (BV)][10-3A] | [MEN review (BV)][10-4A] | [MEAN Auth (BV)][10-5A]
-**10:45am <br> 12:15pm** | Project 2 (BV) | Project 2 (BV) | Rails JSON cont'd | [MEN review (BV)][10-4B] | [MEAN Auth (BV)][10-5B]
+**10:45am <br> 12:15pm** | Project 2 (BV) | Project 2 (BV) | Rails JSON cont'd | [Microblog BV)][10-4B] | [MEAN Auth (BV)][10-5B]
 **1:15pm <br> 2:45pm** | Project 2 (CF) |   Project 2 Presentations (CF) | [Angular and Rails(CF)][10-3C] | [MEAN review (CF)][10-4C] | [Weekend Project (CF)][10-5C]
 **3:00pm <br> 4:30pm** | Project 2 (CF) | [Project 2 debrief (CF)][10-2D] | [Outcomes (MJ)][10-3D] | [MEAN review (CF)][10-4D] | [ Weekend Project (CF)][10-5D]   
 **Evening** | [Training][10-1E] | [Training][10-2E]  | [Training][10-3E] | [Training][10-4E] | [Training][10-5E]
@@ -33,8 +33,8 @@
 [10-3D]:  https://github.com/sf-wdi-34/schedule/blob/master/WDI%2034%20Outcomes%20Schedule.pdf "Outcomes Schedule"
 [10-3E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#wednesday "Wed HW"
 
-[10-4A]: # "..."
-[10-4B]: # "..."
+[10-4A]: https://github.com/sf-wdi-34/MEN-review "MEN review"
+[10-4B]: https://github.com/sf-wdi-34/express-microblog "express microblog"
 [10-4C]: # "..."
 [10-4D]: # "..."
 [10-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#thursday "Thurs HW"
