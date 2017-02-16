@@ -25,7 +25,7 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Wednesday
 
-**link to include on Tuesday's pulse check: breadth first search work**
+**link to include on Wednesday's pulse check: breadth first search work**
 
 
 1. Work on building out your todos Rangular application for an hour. Prioritize these tasks:
