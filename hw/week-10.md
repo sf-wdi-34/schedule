@@ -35,7 +35,7 @@ The evening trainings and readings below will help you solidify work so far and/
 2. Briefly (20-30 minutes) review [Mongo](https://github.com/sf-wdi-34/mongoose), [Express](https://github.com/sf-wdi-34/express), and [Node](https://github.com/sf-wdi-34/express#what-is-node) materials in preparation for discussing the MEN stack and MEAN stack tomorrow. Write down any questions that come up while you review these materials.
 3. Take ~30 minutes to look through the [Tunely solutions](https://github.com/sf-wdi-34/tunely/tree/34/solutions-sprint-6) and the [Tunely Angular solutions](https://github.com/sf-wdi-34/tunely-angular/tree/solutions_sprint_5) to investigate the similarities and differences between the MEN stack and the MEAN stack. Write down at least three observations about their similarities and differences.
 
-<!--
+
 ### Thursday
 
 **link to include on Thursday's pulse check: your Rangular app repo**
@@ -54,7 +54,7 @@ The evening trainings and readings below will help you solidify work so far and/
   * Why do people use JWTs for authentication?
   A great resource to read would be [https://jwt.io/introduction/](https://jwt.io/introduction/).
 
-
+<!--
 ### Weekend
 
 -->
