@@ -35,8 +35,8 @@
 
 [10-4A]: https://github.com/sf-wdi-34/MEN-review "MEN review"
 [10-4B]: https://github.com/sf-wdi-34/express-microblog "express microblog"
-[10-4C]: # "..."
-[10-4D]: # "..."
+[10-4C]: https://github.com/sf-wdi-34/MEAN-review "..."
+[10-4D]: https://github.com/sf-wdi-34/MEAN-review "..."
 [10-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#thursday "Thurs HW"
 
 [10-5A]: # "..."
