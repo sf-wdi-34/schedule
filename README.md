@@ -39,8 +39,8 @@
 [10-4D]: https://github.com/sf-wdi-34/MEAN-review "..."
 [10-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#thursday "Thurs HW"
 
-[10-5A]: # "..."
-[10-5B]: # "..."
+[10-5A]: https://github.com/sf-wdi-34/mean-auth "mean (angular) auth"
+[10-5B]: https://github.com/sf-wdi-34/mean-auth-lab "mean auth microblog lab"
 [10-5C]: # "..."
 [10-5D]: # "..."
 [10-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-10.md#weekend "Weekend HW"
