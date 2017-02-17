@@ -55,9 +55,8 @@ The evening trainings and readings below will help you solidify work so far and/
   A great resource to read would be [https://jwt.io/introduction/](https://jwt.io/introduction/).
 
 
-<!--
 ### Weekend
 **link to include on Thursday's pulse check: your MEAN review project**
 1. [Rebuild or refine your portfolio site](https://github.com/sf-wdi-34/final-portfolio). Choose 3-5 projects to include on the site. Make sure that your choices are consistent with the range of skills you want to display on the job market. If you select group work, be sure to highlight the portion you worked on.
 2. Prep a lightning talk! 
--->
+
