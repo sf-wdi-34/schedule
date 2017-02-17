@@ -60,5 +60,5 @@ The evening trainings and readings below will help you solidify work so far and/
 
 1. [Rebuild or refine your portfolio site](https://github.com/sf-wdi-34/final-portfolio). Choose 3-5 projects to include on the site. Make sure that your choices are consistent with the range of skills you want to display on the job market. If you select group work, be sure to highlight the portion you worked on.
 
-1. Prep a [lightning talk](https://github.com/sf-wdi-34/lightning-talk/blob/master/README.md)! 
+1. Prep a [lightning talk](https://github.com/sf-wdi-34/lightning-talk/blob/master/README.md) for Monday afternoon! 
 
