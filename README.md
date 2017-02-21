@@ -21,8 +21,8 @@
 [11-1D]: # "..."
 [11-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#monday "Mon HW"
 
-[11-2A]: # "..."
-[11-2B]: # "..."
+[11-2A]: https://github.com/sf-wdi-34/react-intro "React"
+[11-2B]: https://github.com/sf-wdi-34/react-intro-2 "React"
 [11-2C]: # "..."
 [11-2D]: # "..."
 [11-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#tuesday "Tues HW"
