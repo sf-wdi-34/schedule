@@ -6,7 +6,7 @@
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
- **9:00am <br> 10:30am** | [Interview Prep (CF) ][12-1A] |  [Interview Prep (BV) ][12-2A] | [Interview Prep (BV)][12-3A] | Project 3 | [Wrap-up (CF, BV) ][12-5A]
+ **9:00am <br> 10:30am** | [Interview Prep (CF) ][12-1A] |  [Interview Prep (BV) ][12-2A] | [Interview Prep (BV)][12-3A] | Project 3 (BV) | [Wrap-up (CF, BV) ][12-5A]
  **10:45am <br> 12:15pm** | Project 3 (CF) | Project 3 (BV) | Project 3 (BV) | Project 3 (BV) | Wrap-up (CF, BV)
  **1:15pm <br> 2:45pm** | Project 3 (BV) |   Project 3 (CF) |  Project 3 (CF) | Project 3 Presentations (CF)  | [Outcomes (MJ)][12-5D]
 **3:00pm <br> 4:30pm** | Project 3 (BV) | Project 3 (CF) |  Project 3  (CF) | Project 3 Presentations (CF) | Go build things!
