@@ -10,7 +10,7 @@
 **9:00am <br> 10:30am** | [ES6 (BV)][11-1A]| [React (CF)][11-2A]  | [Project 3 (BV)][11-3A] | [Interview Prep (CF)][11-4A] | [Interview Prep (CF)][11-5A] 
 **10:45am <br> 12:15pm** | [Gulp & Webpack (BV)][11-1B] & [Lab](https://github.com/sf-wdi-34/gulp-bamsay) | [React (CF)][11-2B] | Project 3 (BV) | Project 3 (CF) & [Practice Interviews](https://github.com/sf-wdi-34/schedule/blob/master/interviews.md)  | Project 3 (CF) & Practice Interviews 
 **1:15pm <br> 2:45pm** | [Lightning Talks (CF)][11-1C] |  [React ~~OMDB~~ Giphy Lab (BV)][11-2C] | Project 3 | Project 3 (BV)  & Practice Interviews | Project 3 (BV) & Practice Interviews 
-**3:00pm <br> 4:30pm** | [Training (CF)][11-1D] | [Project 3][11-2D] Intro (BV) | [Outcomes (MJ)][11-3D] | [Project 3 (BV)][11-4D] | [Project 3 (BV)][11-5D]   
+**3:00pm <br> 4:30pm** | [Training (CF)][11-1D] | [Project 3 Intro (BV)][11-2D] | [Outcomes (MJ)][11-3D] | Project 3 (BV) | Project 3 (BV)  
 **Evening** | [Training][11-1E] | [Training][11-2E]  | [Training][11-3E] | [Training][11-4E] | [Training][11-5E]
 
 
