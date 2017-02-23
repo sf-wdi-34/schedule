@@ -19,4 +19,4 @@ with Brianna:
 
 with Cory:  
 1:15 - 1:45        Shiv  
-1:45 - 2:15        ~~Zach (opt out)~~ Ryan
+1:45 - 2:15        Ryan
