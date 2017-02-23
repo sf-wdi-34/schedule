@@ -26,6 +26,8 @@ link to include on Monday's pulse check: **none**
 
 1. Continue work on Project 3. 
 
+1. Find when you are scheduled to have a [practice interview](https://github.com/sf-wdi-34/schedule/blob/master/interviews.md). All interviews will be in Blanc. Ensure that you are ready for your interview at the assigned time.
+
 
 ### Thursday
 
