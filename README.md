@@ -7,19 +7,19 @@
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
  **9:00am <br> 10:30am** | [Interview Prep (CF) ][12-1A] |  [Interview Prep (BV) ][12-2A] | [Interview Prep (BV)][12-3A] | Project 3 (BV) | [Wrap-up (CF, BV) ][12-5A]
- **10:45am <br> 12:15pm** | Project 3 (CF) | Project 3 (BV) | Project 3 (BV) | Project 3 (BV) | Wrap-up (CF, BV)
+ **10:45am <br> 12:15pm** | Project 3 (CF) & [Interview Practice][12-1B] | Project 3 (BV) & [Interview Practice][12-2B] | Project 3 (BV) | Project 3 (BV) | Wrap-up (CF, BV)
  **1:15pm <br> 2:45pm** | Project 3 (BV) |   Project 3 (CF) |  Project 3 (CF) | Project 3 Presentations (CF)  | [Outcomes (MJ)][12-5D]
-**3:00pm <br> 4:30pm** | Project 3 (BV) | Project 3 (CF) |  Project 3  (CF) | Project 3 Presentations (CF) | Go build things!
+**3:00pm <br> 4:30pm** | Project 3 (BV) & [Interview Practice][12-1D] | Project 3 (CF) |  Project 3  (CF) | Project 3 Presentations (CF) | Go build things!
 **Evening** | [Training][12-1E]  |  [Training][12-2E] |  [Training][12-3E] | [Training][12-4E] | [Training][12-5E]
 
 [12-1A]: https://github.com/sf-wdi-34/public-library-app  "Library App Review"
-[12-1B]: # "Lightning Talks"
+[12-1B]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
 [12-1C]: https://github.com/sf-wdi-34/rails-asset-pipeline "Asset Pipeline"
-[12-1D]: https://github.com/sf-wdi-34/asset-pipeline-poem "Asset Pipeline Poem"
+[12-1D]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
 [12-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#monday "Homework"
 
 [12-2A]: https://github.com/sf-wdi-34/testing-with-rspec "Rspec Rails"
-[12-2B]: https://github.com/SF-WDI-LABS/rspec_testing_inventory "Rspec Rails Training"
+[12-2B]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
 [12-2C]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [12-2D]: # "..."
 [12-2E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#tuesday "..."
