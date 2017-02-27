@@ -2,11 +2,11 @@
 
 ### Monday, Feburary 27th
 with Jean:  
-10:30 - 11:00      Shiv  
+10:30 - 11:00      LD  
 11:00 - 11:30      Alex  
 
 with Michelle:  
-11:00 - 11:30      Ryan  
+11:00 - 11:30      Shiv  
 11:30 - 12:00      Amber  
  
 with Justin:    
@@ -19,7 +19,7 @@ with Ian:
 1:00 - 1:30        Mike  
 
 with Jane:   
-12:30 - 1:00       LD  
+12:30 - 1:00       Ryan  
 1:00 - 1:30        Aaron    
 
 
