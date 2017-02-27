@@ -12,7 +12,7 @@
 **3:00pm <br> 4:30pm** | Project 3 (BV) & [Interview Practice][12-1D] | Project 3 (CF) |  Project 3  (CF) | Project 3 Presentations (CF) | Go build things!
 **Evening** | [Training][12-1E]  |  [Training][12-2E] |  [Training][12-3E] | [Training][12-4E] | [Training][12-5E]
 
-[12-1A]: https://github.com/sf-wdi-34/public-library-app  "Library App Review"
+[12-1A]: https://github.com/sf-wdi-34/interview-prep  "Library App Review"
 [12-1B]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
 [12-1C]: https://github.com/sf-wdi-34/rails-asset-pipeline "Asset Pipeline"
 [12-1D]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
