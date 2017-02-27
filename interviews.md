@@ -6,8 +6,8 @@ with Jean:
 11:00 - 11:30      Alex  
 
 with Michelle:  
-11:00 - 11:30      Shiv  
-11:30 - 12:00      RJ  
+11:30 - 12:00      Shiv  
+12:00 - 12:30      RJ  
  
 with Justin:    
 4:00 - 4:30        Amber    
