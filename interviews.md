@@ -6,7 +6,7 @@ with Jean:
 11:00 - 11:30      Alex  
 
 with Michelle:  
-11:00 - 11:30      Ryan
+11:00 - 11:30      Ryan  
 11:30 - 12:00      Amber  
  
 with Justin:    
