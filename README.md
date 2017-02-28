@@ -18,7 +18,7 @@
 [12-1D]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
 [12-1E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#monday "Homework"
 
-[12-2A]: https://github.com/sf-wdi-34/testing-with-rspec "Rspec Rails"
+[12-2A]: https://github.com/sf-wdi-34/whiteboarding "whiteboarding"
 [12-2B]: https://github.com/sf-wdi-34/schedule/blob/master/interviews.md "Interview practice"
 [12-2C]: https://github.com/sf-wdi-34/project-vagabond "Vagabond"
 [12-2D]: # "..."
