@@ -15,14 +15,14 @@ link to submit on pulse check: none
 link to submit on pulse check: none
 
 1. Continue work on Project 3. 
-
+<!--
 ### Wednesday
 
 link to submit on pulse check: none
 
 1. Continue work on Project 3. 
 
-<!--
+
 ### Thursday
 
 link to submit on pulse check: none
