@@ -42,7 +42,7 @@
 [12-5D]: # "..."
 [12-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#weekend "HW"
 
-[Weekly Checklist](https://gist.github.com/bgveenstra/20697a7012ccddace4605b9c96543f12f3)
+[Weekly Checklist](#)
 
 
 
@@ -89,7 +89,7 @@
 [11-5D]: # "..."
 [11-5E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-11.md#friday "Weekend HW"
 
-[Weekly Objective Checklist](#)
+[Weekly Objective Checklist](https://gist.github.com/bgveenstra/4e9a15f15b5cd71c7a02059dbd3da3bd)
 
 
 #### Week 10
