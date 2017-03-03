@@ -36,7 +36,7 @@
 [12-4D]: # "..."
 [12-4E]: https://github.com/sf-wdi-34/schedule/blob/master/hw/week-012.md#thursday "Thursday HW"
 
-[12-5A]: # "Recursion & Mergesort"
+[12-5A]: https://github.com/sf-wdi-34/graduation-next-steps "next steps"
 [12-5B]: # "..."
 [12-5C]: # "..."
 [12-5D]: # "..."
